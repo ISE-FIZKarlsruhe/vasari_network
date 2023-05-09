@@ -40,6 +40,7 @@ for li in ulst.find_all('li'):
     results.append(text)
 for text in results:
     matches = parse_string(text)
+    pages = []
     if len(matches)>0:
         matches = matches[0]
         if matches[0].endswith("Life"):
@@ -49,7 +50,6 @@ for text in results:
         print(name)
         page_nums = re.findall("(\d+(?:\-\d+)?)",matches[-1])
         if len(page_nums)>0:
-            pages = []
             for num in page_nums:
                 if "-" in num:
                     page_range= num.split("-")
