@@ -1,0 +1,21 @@
+{
+    "page": "31",
+    "start_pos": "1977",
+    "end_pos": "1984",
+    "surface": "Niccola",
+    "index_name": "Niccola Pisano",
+    "candidates": [
+        "Niccolò Piccolomini >> en (Q3875885)",
+        "Niccolò di Pietro >> en (Q4320785)",
+        "Niccolò dell'Arca >> en (Q2715131)",
+        "Niccolò dell'Abate >> en (Q333563)",
+        "Niccolò da Montefeltro >> it (Q1032606)"
+    ],
+    "distances": [
+        7,
+        6,
+        7,
+        6,
+        7
+    ]
+}
