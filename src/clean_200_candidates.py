@@ -66,3 +66,24 @@ print(output)
 
 with open("../nel/sample_levenshtein_distances.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=4)
+
+output=[]
+for item_ in list_of_items:
+  filtered_candidates= filter_candidates(item=item_, wikidata_dict=wikidata_dict)
+  
+  min_distances = compute_min_distance(item=item_, candidates=filtered_candidates, wikidata_dict=wikidata_dict, index=index)
+  output_={
+      "page":item_["page"],
+      "start_pos":item_["start_pos"],
+      "end_pos":item_["end_pos"],
+      "surface":item_["surface"],
+      "index_name":item_["index_name"],
+      "candidates":filtered_candidates,
+      "distances":min_distances
+  }
+  output.append(output_)
+
+print(output)
+
+with open("../nel/levenshtein_distances.json", "w", encoding="utf-8") as f4:
+    json.dump(output, f4, ensure_ascii=False, indent=4)

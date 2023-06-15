@@ -1,0 +1,2894 @@
+[
+    {
+        "page": "31",
+        "start_pos": "1977",
+        "end_pos": "1984",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò Piccolomini >> en (Q3875885)",
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò dell'Arca >> en (Q2715131)",
+            "Niccolò dell'Abate >> en (Q333563)",
+            "Niccolò da Montefeltro >> it (Q1032606)"
+        ],
+        "distances": [
+            7,
+            6,
+            7,
+            6,
+            7
+        ]
+    },
+    {
+        "page": "92",
+        "start_pos": "842",
+        "end_pos": "848",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "33",
+        "start_pos": "8",
+        "end_pos": "15",
+        "surface": "NICCOLA",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò di Pitigliano >> en (Q2259375)",
+            "Niccolò dell'Arca >> en (Q2715131)"
+        ],
+        "distances": [
+            6,
+            5,
+            7
+        ]
+    },
+    {
+        "page": "177",
+        "start_pos": "7",
+        "end_pos": "12",
+        "surface": "GADDI",
+        "index_name": "Gaddi, Gaddo",
+        "candidates": [
+            "Gaddafi >> en (Q19878)"
+        ],
+        "distances": [
+            5
+        ]
+    },
+    {
+        "page": "47",
+        "start_pos": "1197",
+        "end_pos": "1203",
+        "surface": "Andrea",
+        "index_name": "Andrea Tafi",
+        "candidates": [
+            "Andrea del Sarto >> en (Q5571)",
+            "Andrea Doria >> en (Q156521)",
+            "Andrea Donducci >> en (Q547109)"
+        ],
+        "distances": [
+            3,
+            4,
+            6
+        ]
+    },
+    {
+        "page": "89",
+        "start_pos": "8",
+        "end_pos": "14",
+        "surface": "GIOTTO",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "83",
+        "start_pos": "959",
+        "end_pos": "965",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "37",
+        "start_pos": "797",
+        "end_pos": "805",
+        "surface": "Giovanni",
+        "index_name": "Giovanni Pisano",
+        "candidates": [
+            "Giovanni Pisano >> en (Q314932)",
+            "Giovanni di Pietro >> en (Q1446925)",
+            "Giovanni di Pietro Falloppi >> it (Q3107542)",
+            "Giovanni di Niccolò >> nl (Q356777)"
+        ],
+        "distances": [
+            0,
+            5,
+            6,
+            4
+        ]
+    },
+    {
+        "page": "114",
+        "start_pos": "8",
+        "end_pos": "15",
+        "surface": "STEFANO",
+        "index_name": "Stefano",
+        "candidates": [
+            "Stefano Fiorentino >> en (Q1093544)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "113",
+        "start_pos": "920",
+        "end_pos": "934",
+        "surface": "Ugolino Sanese",
+        "index_name": "Sanese, Ugolino (Ugolino da Siena)",
+        "candidates": [
+            "Ugolino della Gherardesca >> en (Q706003)",
+            "Ugolino di Nerio >> en (Q1357686)",
+            "Ugolino de' Rossi >> it (Q28374034)"
+        ],
+        "distances": [
+            7,
+            0,
+            5
+        ]
+    },
+    {
+        "page": "110",
+        "start_pos": "2202",
+        "end_pos": "2209",
+        "surface": "Stefano",
+        "index_name": "Stefano",
+        "candidates": [
+            "Stefano Visconti >> en (Q1120971)",
+            "Stefano di Giovanni >> en (Q362016)",
+            "Stefano degli Angeli >> en (Q3498009)",
+            "Stefano di Francesco >> en (Q3498012)"
+        ],
+        "distances": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "page": "143",
+        "start_pos": "1470",
+        "end_pos": "1481",
+        "surface": "Buffalmacco",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Buonamico Buffalmacco >> en (Q972487)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "29",
+        "start_pos": "68",
+        "end_pos": "82",
+        "surface": "NICCOLA PISANO",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccola Pisano >> en (Q364413)",
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò di Giovanni >> ca (Q50476902)"
+        ],
+        "distances": [
+            0,
+            6,
+            6
+        ]
+    },
+    {
+        "page": "86",
+        "start_pos": "299",
+        "end_pos": "305",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "208",
+        "start_pos": "1690",
+        "end_pos": "1698",
+        "surface": "Giottino",
+        "index_name": "Tommaso (or Maso, called Giottino)",
+        "candidates": [
+            "Giottino >> en (Q947337)",
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            6,
+            6
+        ]
+    },
+    {
+        "page": "203",
+        "start_pos": "1077",
+        "end_pos": "1084",
+        "surface": "Tommaso",
+        "index_name": "Tommaso (or Maso, called Giottino)",
+        "candidates": [
+            "Giottino >> en (Q947337)",
+            "Tommaso da Milano >> pl (Q9359146)"
+        ],
+        "distances": [
+            6,
+            2
+        ]
+    },
+    {
+        "page": "32",
+        "start_pos": "1295",
+        "end_pos": "1302",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò di Pitigliano >> en (Q2259375)",
+            "Niccolò di Pietro >> en (Q4320785)"
+        ],
+        "distances": [
+            5,
+            6
+        ]
+    },
+    {
+        "page": "5",
+        "start_pos": "1409",
+        "end_pos": "1416",
+        "surface": "Cimabue",
+        "index_name": "Cimabue, Giovanni",
+        "candidates": [
+            "Cimabue >> en (Q15790)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "205",
+        "start_pos": "956",
+        "end_pos": "963",
+        "surface": "Tommaso",
+        "index_name": "Tommaso (or Maso, called Giottino)",
+        "candidates": [
+            "Thomas the Apostle >> en (Q43669)",
+            "Thomas Aquinas >> en (Q9438)",
+            "Tommaso Masini >> en (Q1315956)"
+        ],
+        "distances": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "page": "141",
+        "start_pos": "8",
+        "end_pos": "29",
+        "surface": "BUONAMICO BUFFALMACCO",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Bonamico Bufalmaco >> en (Q972487)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "183",
+        "start_pos": "1736",
+        "end_pos": "1742",
+        "surface": "Taddeo",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo d'Este >> en (Q3980052)",
+            "Taddeo Gaddi >> en (Q315835)",
+            "Taddeo Zuccari >> en (Q434058)"
+        ],
+        "distances": [
+            6,
+            0,
+            5
+        ]
+    },
+    {
+        "page": "109",
+        "start_pos": "568",
+        "end_pos": "574",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "34",
+        "start_pos": "2089",
+        "end_pos": "2096",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò Piccolomini >> en (Q3875885)",
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò Piccinni >> en (Q310687)"
+        ],
+        "distances": [
+            7,
+            6,
+            6
+        ]
+    },
+    {
+        "page": "139",
+        "start_pos": "1571",
+        "end_pos": "1580",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Giovanni Battista Buonacorsi >> en (Q58174701)"
+        ],
+        "distances": [
+            16
+        ]
+    },
+    {
+        "page": "20",
+        "start_pos": "8",
+        "end_pos": "23",
+        "surface": "ARNOLFO DI LAPO",
+        "index_name": "Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",
+        "candidates": [
+            "Arnolfo di Lapo >> en (Q315249)",
+            "Arnolfo di Carinzia >> it (Q154936)"
+        ],
+        "distances": [
+            0,
+            7
+        ]
+    },
+    {
+        "page": "131",
+        "start_pos": "832",
+        "end_pos": "838",
+        "surface": "PISANO",
+        "index_name": "Nino Pisano",
+        "candidates": [
+            "Pisanello >> en (Q311082)"
+        ],
+        "distances": [
+            4
+        ]
+    },
+    {
+        "page": "31",
+        "start_pos": "230",
+        "end_pos": "237",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò de' Conti >> en (Q442610)",
+            "Niccolò de' Niccoli >> en (Q730505)"
+        ],
+        "distances": [
+            6,
+            5,
+            7
+        ]
+    },
+    {
+        "page": "221",
+        "start_pos": "15",
+        "end_pos": "20",
+        "surface": "GADDI",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "144",
+        "start_pos": "1864",
+        "end_pos": "1873",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "78",
+        "start_pos": "2191",
+        "end_pos": "2197",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "99",
+        "start_pos": "1718",
+        "end_pos": "1724",
+        "surface": "Agnolo",
+        "index_name": "Agnolo (of Siena)",
+        "candidates": [
+            "Agnolo Bronzino >> en (Q7803)",
+            "Agnolo di Pietro >> it (Q3606666)"
+        ],
+        "distances": [
+            0,
+            6
+        ]
+    },
+    {
+        "page": "14",
+        "start_pos": "86",
+        "end_pos": "90",
+        "surface": "Lapo",
+        "index_name": "Lapo (Maestro Jacopo Tedesco)",
+        "candidates": [
+            "Arnolfo di Lapo >> en (Q315249)",
+            "Arnolfo di Carinzia >> it (Q154936)"
+        ],
+        "distances": [
+            6,
+            6
+        ]
+    },
+    {
+        "page": "155",
+        "start_pos": "8",
+        "end_pos": "27",
+        "surface": "AMBROGIO LORENZETTI",
+        "index_name": "Ambrogio Lorenzetti",
+        "candidates": [
+            "Ambrogio Lorenzetti >> en (Q211562)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "190",
+        "start_pos": "780",
+        "end_pos": "796",
+        "surface": "di Cione Orcagna",
+        "index_name": "Andrea di Cione Orcagna",
+        "candidates": [
+            "Orcagna >> en (Q366499)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "129",
+        "start_pos": "2064",
+        "end_pos": "2077",
+        "surface": "Andrea Pisano",
+        "index_name": "Andrea Pisano",
+        "candidates": [
+            "Andrea Pisano >> en (Q311031)",
+            "Andrea Pisani >> en (Q2846400)"
+        ],
+        "distances": [
+            0,
+            1
+        ]
+    },
+    {
+        "page": "83",
+        "start_pos": "2075",
+        "end_pos": "2081",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "37",
+        "start_pos": "206",
+        "end_pos": "214",
+        "surface": "Giovanni",
+        "index_name": "Giovanni Pisano",
+        "candidates": [
+            "Giovanni Pisano >> en (Q314932)",
+            "Giovanni de' Rossi >> en (Q21209004)",
+            "Giovanni di Pietro >> en (Q1446925)",
+            "Giovanni di Niccolò >> nl (Q356777)"
+        ],
+        "distances": [
+            0,
+            5,
+            5,
+            4
+        ]
+    },
+    {
+        "page": "57",
+        "start_pos": "840",
+        "end_pos": "851",
+        "surface": "Gaddo Gaddi",
+        "index_name": "Gaddi, Gaddo",
+        "candidates": [
+            "Gaddo Gaddi >> en (Q729041)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "47",
+        "start_pos": "1354",
+        "end_pos": "1362",
+        "surface": "Giovanni",
+        "index_name": "Cimabue, Giovanni",
+        "candidates": [
+            "John the Evangelist >> en (Q328804)",
+            "John of Patmos >> en (Q2733634)"
+        ],
+        "distances": [
+            4,
+            4
+        ]
+    },
+    {
+        "page": "137",
+        "start_pos": "8",
+        "end_pos": "29",
+        "surface": "BUONAMICO BUFFALMACCO",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Buonamico Buffalmacco >> en (Q972487)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "174",
+        "start_pos": "1174",
+        "end_pos": "1179",
+        "surface": "MEMMI",
+        "index_name": "Lippo Memmi",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "142",
+        "start_pos": "2092",
+        "end_pos": "2101",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "208",
+        "start_pos": "67",
+        "end_pos": "75",
+        "surface": "Giottino",
+        "index_name": "Tommaso (or Maso, called Giottino)",
+        "candidates": [
+            "Giottino >> en (Q947337)",
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            6,
+            6
+        ]
+    },
+    {
+        "page": "185",
+        "start_pos": "1339",
+        "end_pos": "1347",
+        "surface": "Giovanni",
+        "index_name": "Gaddi, Giovanni",
+        "candidates": [
+            "Giovanni da Milano >> en (Q2628927)",
+            "Giovanni di Pietro >> en (Q1446925)",
+            "Giovanni di Niccolò >> nl (Q356777)"
+        ],
+        "distances": [
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "page": "91",
+        "start_pos": "2264",
+        "end_pos": "2270",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "91",
+        "start_pos": "1313",
+        "end_pos": "1319",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "31",
+        "start_pos": "2019",
+        "end_pos": "2026",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Pope Nicholas I >> en (Q170503)",
+            "Pope Nicholas II >> en (Q117840)",
+            "Pope Nicholas III >> en (Q170859)",
+            "Saint Nicholas >> en (Q44269)",
+            "Niccolò di Giovanni >> ca (Q50476902)"
+        ],
+        "distances": [
+            7,
+            6,
+            6,
+            6,
+            6
+        ]
+    },
+    {
+        "page": "90",
+        "start_pos": "8",
+        "end_pos": "14",
+        "surface": "GIOTTO",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "30",
+        "start_pos": "1309",
+        "end_pos": "1315",
+        "surface": "Fuccio",
+        "index_name": "Fuccio",
+        "candidates": [
+            "Fuccio >> it (Q3833175)",
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò di Giovanni >> ca (Q50476902)"
+        ],
+        "distances": [
+            0,
+            5,
+            5
+        ]
+    },
+    {
+        "page": "35",
+        "start_pos": "1145",
+        "end_pos": "1152",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò dell'Abate >> en (Q333563)",
+            "Niccolò dell'Arca >> en (Q2715131)",
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò da Montefeltro >> it (Q1032606)"
+        ],
+        "distances": [
+            6,
+            7,
+            6,
+            7
+        ]
+    },
+    {
+        "page": "97",
+        "start_pos": "1372",
+        "end_pos": "1380",
+        "surface": "Agostino",
+        "index_name": "Agostino (of Siena)",
+        "candidates": [
+            "Agostino da Siena >> en (Q395759)",
+            "Agostino d'Ippona >> it (Q8018)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "8",
+        "start_pos": "1325",
+        "end_pos": "1332",
+        "surface": "Cimabue",
+        "index_name": "Cimabue, Giovanni",
+        "candidates": [
+            "Cimabue >> en (Q15790)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "130",
+        "start_pos": "617",
+        "end_pos": "633",
+        "surface": "Lorenzo Ghiberti",
+        "index_name": "Ghiberti, Lorenzo (Lorenzo di Cione Ghiberti)",
+        "candidates": [
+            "Lorenzo Ghiberti >> en (Q208125)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "40",
+        "start_pos": "1403",
+        "end_pos": "1411",
+        "surface": "Giovanni",
+        "index_name": "Giovanni Pisano",
+        "candidates": [
+            "Giovanni Bellini >> en (Q17169)",
+            "Giovanni di Pietro >> en (Q1446925)",
+            "Giovanni di Pietro Falloppi >> it (Q3107542)"
+        ],
+        "distances": [
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "page": "197",
+        "start_pos": "15",
+        "end_pos": "31",
+        "surface": "DI CIONE ORCAGNA",
+        "index_name": "Jacopo di Cione Orcagna",
+        "candidates": [
+            "Orcagna >> en (Q366499)"
+        ],
+        "distances": [
+            6
+        ]
+    },
+    {
+        "page": "120",
+        "start_pos": "1340",
+        "end_pos": "1346",
+        "surface": "Pietro",
+        "index_name": "Lorenzetti, Pietro (Laurati)",
+        "candidates": [
+            "Saint Peter >> en (Q33923)",
+            "Pietro Laurati >> en (Q309635)"
+        ],
+        "distances": [
+            6,
+            0
+        ]
+    },
+    {
+        "page": "94",
+        "start_pos": "178",
+        "end_pos": "185",
+        "surface": "Cimabue",
+        "index_name": "Cimabue, Giovanni",
+        "candidates": [
+            "Cimabue >> en (Q15790)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "99",
+        "start_pos": "727",
+        "end_pos": "733",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "180",
+        "start_pos": "2240",
+        "end_pos": "2252",
+        "surface": "Taddeo Gaddi",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)",
+            "Taddeo Gaddi (cardinal) >> en (Q2387161)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "186",
+        "start_pos": "80",
+        "end_pos": "86",
+        "surface": "Taddeo",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "127",
+        "start_pos": "2268",
+        "end_pos": "2272",
+        "surface": "Nino",
+        "index_name": "Nino Pisano",
+        "candidates": [
+            "Ghiberti >> en (Q208125)",
+            "Giambattista Giuliani >> it (Q5760488)",
+            "Giambattista Giusti >> it (Q1522232)"
+        ],
+        "distances": [
+            5,
+            7,
+            6
+        ]
+    },
+    {
+        "page": "26",
+        "start_pos": "47",
+        "end_pos": "54",
+        "surface": "Filippo",
+        "index_name": "Brunelleschi, Filippo (Filippo di Ser Brunellesco)",
+        "candidates": [
+            "Filippo Brunelleschi >> en (Q174330)",
+            "Filippo Buonaccorsi >> en (Q722544)"
+        ],
+        "distances": [
+            0,
+            9
+        ]
+    },
+    {
+        "page": "161",
+        "start_pos": "282",
+        "end_pos": "288",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "23",
+        "start_pos": "19",
+        "end_pos": "23",
+        "surface": "LAPO",
+        "index_name": "Lapo (Maestro Jacopo Tedesco)",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "124",
+        "start_pos": "1826",
+        "end_pos": "1832",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "97",
+        "start_pos": "50",
+        "end_pos": "56",
+        "surface": "AGNOLO",
+        "index_name": "Agnolo (of Siena)",
+        "candidates": [
+            "Agnolo da Siena >> en (Q395759)",
+            "Agnolo da Siena >> it (Q374428)"
+        ],
+        "distances": [
+            5,
+            2
+        ]
+    },
+    {
+        "page": "183",
+        "start_pos": "554",
+        "end_pos": "566",
+        "surface": "TADDEO GADDI",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Giovanni Battista Gaulli >> en (Q520573)",
+            "Giovanni Battista Tinti >> en (Q3766765)"
+        ],
+        "distances": [
+            6,
+            5
+        ]
+    },
+    {
+        "page": "208",
+        "start_pos": "1690",
+        "end_pos": "1698",
+        "surface": "Giottino",
+        "index_name": "Tommaso (or Maso, called Giottino)",
+        "candidates": [
+            "Giottino >> en (Q947337)",
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            6,
+            6
+        ]
+    },
+    {
+        "page": "208",
+        "start_pos": "312",
+        "end_pos": "319",
+        "surface": "Tommaso",
+        "index_name": "Tommaso (or Maso, called Giottino)",
+        "candidates": [
+            "Thomas the Apostle >> en (Q43669)",
+            "Tommaso da Milano >> pl (Q9359146)",
+            "Tommaso di Giovanni Masini >> pl (Q1315956)",
+            "Tommaso di Giovanni di Simone Guidi >> en (Q5811)"
+        ],
+        "distances": [
+            0,
+            2,
+            0,
+            0
+        ]
+    },
+    {
+        "page": "81",
+        "start_pos": "1355",
+        "end_pos": "1361",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "25",
+        "start_pos": "1115",
+        "end_pos": "1122",
+        "surface": "ARNOLFO",
+        "index_name": "Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",
+        "candidates": [
+            "Arnolfo di Cambio >> en (Q315249)",
+            "Arnolfo di Carinzia >> it (Q154936)"
+        ],
+        "distances": [
+            0,
+            7
+        ]
+    },
+    {
+        "page": "43",
+        "start_pos": "1722",
+        "end_pos": "1730",
+        "surface": "Giovanni",
+        "index_name": "Giovanni Pisano",
+        "candidates": [
+            "Giovanni Bellini >> en (Q17169)",
+            "Giovanni da Siena >> en (Q3768439)",
+            "Giovanni di Pietro >> en (Q1446925)",
+            "Giovanni di Pietro Falloppi >> it (Q3107542)"
+        ],
+        "distances": [
+            4,
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "page": "161",
+        "start_pos": "464",
+        "end_pos": "470",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "103",
+        "start_pos": "237",
+        "end_pos": "245",
+        "surface": "Agostino",
+        "index_name": "Agostino (of Siena)",
+        "candidates": [
+            "Orsino Orsini >> en (Q11799329)",
+            "Orsino Orsini >> it (Q3886180)",
+            "Agostino d'Ippona >> it (Q8018)"
+        ],
+        "distances": [
+            5,
+            4,
+            0
+        ]
+    },
+    {
+        "page": "73",
+        "start_pos": "1227",
+        "end_pos": "1233",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "67",
+        "start_pos": "623",
+        "end_pos": "634",
+        "surface": "Margaritone",
+        "index_name": "Margaritone",
+        "candidates": [
+            "Margaritone >> en (Q2518566)",
+            "Margarito >> en (Q736758)"
+        ],
+        "distances": [
+            0,
+            2
+        ]
+    },
+    {
+        "page": "177",
+        "start_pos": "0",
+        "end_pos": "12",
+        "surface": "TADDEO GADDI",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Tande >> en (Q1260866)",
+            "Tfue >> en (Q61609160)"
+        ],
+        "distances": [
+            5,
+            4
+        ]
+    },
+    {
+        "page": "127",
+        "start_pos": "660",
+        "end_pos": "666",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "139",
+        "start_pos": "8",
+        "end_pos": "29",
+        "surface": "BUONAMICO BUFFALMACCO",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Buonamico Buffalmacco >> en (Q972487)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "35",
+        "start_pos": "2111",
+        "end_pos": "2118",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò Piccinni >> en (Q310687)",
+            "Niccolò Piccolomini >> en (Q3875885)",
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò Orsini >> it (Q2259375)"
+        ],
+        "distances": [
+            6,
+            7,
+            6,
+            5
+        ]
+    },
+    {
+        "page": "89",
+        "start_pos": "1449",
+        "end_pos": "1455",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "204",
+        "start_pos": "111",
+        "end_pos": "118",
+        "surface": "Stefano",
+        "index_name": "Stefano",
+        "candidates": [
+            "Stefano di Giovanni >> en (Q362016)",
+            "Stefano di Francesco >> en (Q3498012)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "20",
+        "start_pos": "305",
+        "end_pos": "309",
+        "surface": "Lapo",
+        "index_name": "Lapo (Maestro Jacopo Tedesco)",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "120",
+        "start_pos": "1249",
+        "end_pos": "1255",
+        "surface": "Pietro",
+        "index_name": "Lorenzetti, Pietro (Laurati)",
+        "candidates": [
+            "Saint Peter >> en (Q33923)",
+            "Peter the Great >> en (Q8479)"
+        ],
+        "distances": [
+            6,
+            6
+        ]
+    },
+    {
+        "page": "99",
+        "start_pos": "1490",
+        "end_pos": "1496",
+        "surface": "Agnolo",
+        "index_name": "Agnolo (of Siena)",
+        "candidates": [
+            "Agnolo Bronzino >> en (Q7803)",
+            "Agnolo di Pietro >> it (Q3606666)"
+        ],
+        "distances": [
+            0,
+            6
+        ]
+    },
+    {
+        "page": "49",
+        "start_pos": "2421",
+        "end_pos": "2442",
+        "surface": "Fra Jacopo da Turrita",
+        "index_name": "Fra Jacopo da Turrita",
+        "candidates": [
+            "Jacopo da Turrita >> pl (Q11715802)",
+            "Jacopo Torni >> en (Q2632655)",
+            "Jacopo Torelli >> it (Q357872)",
+            "Fra Jacopo da Torrita >> hu (Q659961)"
+        ],
+        "distances": [
+            4,
+            6,
+            7,
+            6
+        ]
+    },
+    {
+        "page": "112",
+        "start_pos": "1625",
+        "end_pos": "1633",
+        "surface": "Giottino",
+        "index_name": "Tommaso (or Maso, called Giottino)",
+        "candidates": [
+            "Giottino >> en (Q947337)",
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            6,
+            6
+        ]
+    },
+    {
+        "page": "71",
+        "start_pos": "0",
+        "end_pos": "6",
+        "surface": "GIOTTO",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "80",
+        "start_pos": "964",
+        "end_pos": "970",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "89",
+        "start_pos": "1939",
+        "end_pos": "1951",
+        "surface": "Taddeo Gaddi",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)",
+            "Taddeo Gaddi (cardinal) >> en (Q2387161)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "180",
+        "start_pos": "675",
+        "end_pos": "682",
+        "surface": "Arnolfo",
+        "index_name": "Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",
+        "candidates": [
+            "Arnolfo di Cambio >> en (Q315249)",
+            "Arnolfo di Carinzia >> it (Q154936)"
+        ],
+        "distances": [
+            0,
+            7
+        ]
+    },
+    {
+        "page": "129",
+        "start_pos": "683",
+        "end_pos": "689",
+        "surface": "Andrea",
+        "index_name": "Andrea Pisano",
+        "candidates": [
+            "Andrea Sabatini >> en (Q2263712)",
+            "Andrea Gonzaga >> en (Q800022)",
+            "Andrea d'Aragona >> ca (Q11905538)"
+        ],
+        "distances": [
+            5,
+            6,
+            6
+        ]
+    },
+    {
+        "page": "8",
+        "start_pos": "1535",
+        "end_pos": "1542",
+        "surface": "Cimabue",
+        "index_name": "Cimabue, Giovanni",
+        "candidates": [
+            "Cimabue >> en (Q15790)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "31",
+        "start_pos": "1319",
+        "end_pos": "1326",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò dell'Arca >> en (Q2715131)",
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò de' Conti >> en (Q442610)",
+            "Niccolò da Montefeltro >> it (Q1032606)"
+        ],
+        "distances": [
+            7,
+            6,
+            5,
+            7
+        ]
+    },
+    {
+        "page": "40",
+        "start_pos": "653",
+        "end_pos": "661",
+        "surface": "Giovanni",
+        "index_name": "Giovanni Pisano",
+        "candidates": [
+            "John the Evangelist >> en (Q328804)"
+        ],
+        "distances": [
+            4
+        ]
+    },
+    {
+        "page": "217",
+        "start_pos": "21",
+        "end_pos": "33",
+        "surface": "AGNOLO GADDI",
+        "index_name": "Agnolo Gaddi",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)",
+            "Agnolo Gaddi >> en (Q363296)",
+            "Taddeo Gaddi (cardinal) >> en (Q2387161)"
+        ],
+        "distances": [
+            5,
+            0,
+            5
+        ]
+    },
+    {
+        "page": "17",
+        "start_pos": "281",
+        "end_pos": "291",
+        "surface": "Marchionne",
+        "index_name": "Aretino, Marchionne",
+        "candidates": [
+            "Marchionne >> en (Q1229223)",
+            "Marchionne Aretino >> it (Q60841695)"
+        ],
+        "distances": [
+            6,
+            0
+        ]
+    },
+    {
+        "page": "197",
+        "start_pos": "1912",
+        "end_pos": "1946",
+        "surface": "Bernardo Nello di Giovanni Falconi",
+        "index_name": "Bernardo Nello di Giovanni Falconi",
+        "candidates": [
+            "Bernardo Falconi >> it (Q3638776)",
+            "Bernardo della Torre >> it (Q3638815)",
+            "Bernardo di Niccolò Machiavelli >> en (Q823072)"
+        ],
+        "distances": [
+            7,
+            8,
+            8
+        ]
+    },
+    {
+        "page": "56",
+        "start_pos": "57",
+        "end_pos": "62",
+        "surface": "Gaddo",
+        "index_name": "Gaddi, Gaddo",
+        "candidates": [
+            "Andrea Tafi (artist) >> en (Q495164)"
+        ],
+        "distances": [
+            4
+        ]
+    },
+    {
+        "page": "181",
+        "start_pos": "1783",
+        "end_pos": "1789",
+        "surface": "Taddeo",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Barberini >> en (Q3817341)",
+            "Taddeo d'Este >> en (Q3980052)",
+            "Taddeo Zuccari >> en (Q434058)"
+        ],
+        "distances": [
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "page": "149",
+        "start_pos": "492",
+        "end_pos": "501",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "219",
+        "start_pos": "628",
+        "end_pos": "633",
+        "surface": "Gaddi",
+        "index_name": "Gaddi, Gaddo",
+        "candidates": [
+            "Agnolo Gaddi >> en (Q363296)",
+            "Giovanni Gaddi (painter) >> en (Q3767315)"
+        ],
+        "distances": [
+            4,
+            5
+        ]
+    },
+    {
+        "page": "139",
+        "start_pos": "1128",
+        "end_pos": "1137",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Giovanni Battista Buonacorsi >> en (Q58174701)"
+        ],
+        "distances": [
+            16
+        ]
+    },
+    {
+        "page": "199",
+        "start_pos": "840",
+        "end_pos": "846",
+        "surface": "Andrea",
+        "index_name": "Andrea di Cione Orcagna",
+        "candidates": [
+            "Andrea Traini >> en (Q3616081)",
+            "Andrea del Sarto >> en (Q5571)",
+            "Andrea di Cosimo >> en (Q2846439)"
+        ],
+        "distances": [
+            6,
+            5,
+            6
+        ]
+    },
+    {
+        "page": "98",
+        "start_pos": "731",
+        "end_pos": "737",
+        "surface": "Agnolo",
+        "index_name": "Agnolo (of Siena)",
+        "candidates": [
+            "Agnolo Bronzino >> en (Q7803)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "99",
+        "start_pos": "1045",
+        "end_pos": "1051",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "137",
+        "start_pos": "299",
+        "end_pos": "310",
+        "surface": "Buffalmacco",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Buonamico Buffalmacco >> en (Q972487)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "79",
+        "start_pos": "2149",
+        "end_pos": "2156",
+        "surface": "Agobbio",
+        "index_name": "Agobbio",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "185",
+        "start_pos": "1996",
+        "end_pos": "2002",
+        "surface": "Taddeo",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo d'Este >> en (Q3980052)"
+        ],
+        "distances": [
+            6
+        ]
+    },
+    {
+        "page": "42",
+        "start_pos": "553",
+        "end_pos": "561",
+        "surface": "Giovanni",
+        "index_name": "Giovanni Pisano",
+        "candidates": [
+            "Giovanni Bellini >> en (Q17169)",
+            "Giovanni di Pietro >> en (Q1446925)",
+            "Giovanni di Pietro Falloppi >> it (Q3107542)"
+        ],
+        "distances": [
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "page": "213",
+        "start_pos": "8",
+        "end_pos": "26",
+        "surface": "GIOVANNI DAL PONTE",
+        "index_name": "Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte)",
+        "candidates": [
+            "Giovanni dal Ponte >> en (Q2749321)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "145",
+        "start_pos": "8",
+        "end_pos": "29",
+        "surface": "BUONAMICO BUFFALMACCO",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Buonamico Buffalmacco >> en (Q972487)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "35",
+        "start_pos": "418",
+        "end_pos": "424",
+        "surface": "Pisano",
+        "index_name": "Giovanni Pisano",
+        "candidates": [
+            "Pisanello >> en (Q311082)"
+        ],
+        "distances": [
+            4
+        ]
+    },
+    {
+        "page": "77",
+        "start_pos": "8",
+        "end_pos": "14",
+        "surface": "GIOTTO",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "92",
+        "start_pos": "262",
+        "end_pos": "269",
+        "surface": "Laurati",
+        "index_name": "Lorenzetti, Pietro (Laurati)",
+        "candidates": [
+            "Pietro Laurati >> en (Q309635)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "48",
+        "start_pos": "1746",
+        "end_pos": "1751",
+        "surface": "GUIDO",
+        "index_name": "Como, Guido da",
+        "candidates": [
+            "Guido of Arezzo >> en (Q192238)",
+            "Guido da Como >> it (Q3779187)",
+            "Guido I da Montefeltro >> en (Q2755054)"
+        ],
+        "distances": [
+            5,
+            0,
+            5
+        ]
+    },
+    {
+        "page": "89",
+        "start_pos": "564",
+        "end_pos": "570",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "83",
+        "start_pos": "693",
+        "end_pos": "699",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "35",
+        "start_pos": "8",
+        "end_pos": "15",
+        "surface": "NICCOLA",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccola Pisano >> en (Q364413)",
+            "Niccolò Pisano >> it (Q3339591)"
+        ],
+        "distances": [
+            0,
+            1
+        ]
+    },
+    {
+        "page": "120",
+        "start_pos": "1168",
+        "end_pos": "1175",
+        "surface": "Laurati",
+        "index_name": "Lorenzetti, Pietro (Laurati)",
+        "candidates": [
+            "Pietro Laurati >> en (Q309635)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "138",
+        "start_pos": "1719",
+        "end_pos": "1728",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Buonamico Buffalmacco >> en (Q972487)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "198",
+        "start_pos": "1149",
+        "end_pos": "1155",
+        "surface": "Andrea",
+        "index_name": "Andrea di Cione Orcagna",
+        "candidates": [
+            "Andrea Orcagna >> en (Q366499)",
+            "Andrea Traini >> en (Q3616081)"
+        ],
+        "distances": [
+            0,
+            6
+        ]
+    },
+    {
+        "page": "217",
+        "start_pos": "7",
+        "end_pos": "12",
+        "surface": "GADDI",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)",
+            "Taddeo Gaddi (cardinal) >> en (Q2387161)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "40",
+        "start_pos": "1469",
+        "end_pos": "1477",
+        "surface": "Giovanni",
+        "index_name": "Giovanni Pisano",
+        "candidates": [
+            "John the Evangelist >> en (Q328804)",
+            "John of Patmos >> en (Q2733634)"
+        ],
+        "distances": [
+            4,
+            4
+        ]
+    },
+    {
+        "page": "150",
+        "start_pos": "1385",
+        "end_pos": "1394",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "99",
+        "start_pos": "21",
+        "end_pos": "27",
+        "surface": "AGNOLO",
+        "index_name": "Agnolo (of Siena)",
+        "candidates": [
+            "Agnello Ravennate >> it (Q662424)",
+            "Agnolo de' Cesi >> it (Q3606664)"
+        ],
+        "distances": [
+            5,
+            5
+        ]
+    },
+    {
+        "page": "36",
+        "start_pos": "8",
+        "end_pos": "15",
+        "surface": "NICCOLA",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò dell'Arca >> en (Q2715131)"
+        ],
+        "distances": [
+            6,
+            7
+        ]
+    },
+    {
+        "page": "19",
+        "start_pos": "1548",
+        "end_pos": "1570",
+        "surface": "Maestro Jacopo Tedesco",
+        "index_name": "Lapo (Maestro Jacopo Tedesco)",
+        "candidates": [
+            "Тедеско, Джованни >> ru (Q736304)",
+            "Jacopo da Forlì >> it (Q3805962)",
+            "Тедеско, Игнац Амадеус >> ru (Q4453717)"
+        ],
+        "distances": [
+            5,
+            3,
+            5
+        ]
+    },
+    {
+        "page": "181",
+        "start_pos": "1457",
+        "end_pos": "1463",
+        "surface": "Taddeo",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Barberini >> en (Q3817341)",
+            "Taddeo Manfredi >> en (Q3980051)"
+        ],
+        "distances": [
+            6,
+            5
+        ]
+    },
+    {
+        "page": "205",
+        "start_pos": "1499",
+        "end_pos": "1507",
+        "surface": "Giottino",
+        "index_name": "Tommaso (or Maso, called Giottino)",
+        "candidates": [
+            "Giottino >> en (Q947337)",
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            6,
+            6
+        ]
+    },
+    {
+        "page": "49",
+        "start_pos": "1928",
+        "end_pos": "1937",
+        "surface": "Apollonio",
+        "index_name": "Apollonio",
+        "candidates": [
+            "Apollonio di Alessandria >> it (Q619463)",
+            "Apollonio di Perga >> it (Q180109)",
+            "Apollonio Apolloni >> it (Q52951593)"
+        ],
+        "distances": [
+            1,
+            1,
+            0
+        ]
+    },
+    {
+        "page": "58",
+        "start_pos": "550",
+        "end_pos": "555",
+        "surface": "Gaddo",
+        "index_name": "Gaddi, Gaddo",
+        "candidates": [
+            "Gaddo Gaddi >> en (Q729041)",
+            "Taddeo Gaddi >> en (Q315835)",
+            "Gaddo della Gherardesca >> it (Q3756844)"
+        ],
+        "distances": [
+            0,
+            2,
+            5
+        ]
+    },
+    {
+        "page": "221",
+        "start_pos": "1794",
+        "end_pos": "1802",
+        "surface": "Giuliano",
+        "index_name": "Giuliano",
+        "candidates": [
+            "Giuliano di Piero de' Medici >> en (Q298877)",
+            "Giuliano di Pierfrancesco de' Medici >> it (Q40577)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "50",
+        "start_pos": "2121",
+        "end_pos": "2142",
+        "surface": "Buonamico Buffalmacco",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Buonamico Buffalmacco >> en (Q972487)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "8",
+        "start_pos": "81",
+        "end_pos": "88",
+        "surface": "Cimabue",
+        "index_name": "Cimabue, Giovanni",
+        "candidates": [
+            "Cimabue >> en (Q15790)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "193",
+        "start_pos": "340",
+        "end_pos": "350",
+        "surface": "Sollazzino",
+        "index_name": "Sollazzino",
+        "candidates": [
+            "Sollazzino >> it (Q16560458)",
+            "Girolamo di Giovanni >> en (Q5564799)",
+            "Girolamo di Pace >> it (Q3769013)",
+            "Girolamo di Benvenuto >> en (Q1334726)"
+        ],
+        "distances": [
+            7,
+            8,
+            8,
+            8
+        ]
+    },
+    {
+        "page": "217",
+        "start_pos": "490",
+        "end_pos": "495",
+        "surface": "Gaddi",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)",
+            "Taddeo Gaddi (cardinal) >> en (Q2387161)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "211",
+        "start_pos": "27",
+        "end_pos": "45",
+        "surface": "GIOVANNI DAL PONTE",
+        "index_name": "Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte)",
+        "candidates": [
+            "Giovanni dal Ponte >> en (Q2749321)",
+            "Giovannino del Pio >> en (Q5565359)"
+        ],
+        "distances": [
+            0,
+            5
+        ]
+    },
+    {
+        "page": "83",
+        "start_pos": "1392",
+        "end_pos": "1398",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "20",
+        "start_pos": "1904",
+        "end_pos": "1911",
+        "surface": "Arnolfo",
+        "index_name": "Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",
+        "candidates": [
+            "Arnolfo di Cambio >> en (Q315249)",
+            "Arnolfo di Carinzia >> it (Q154936)"
+        ],
+        "distances": [
+            0,
+            7
+        ]
+    },
+    {
+        "page": "222",
+        "start_pos": "15",
+        "end_pos": "20",
+        "surface": "GADDI",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Giovanni Battista Gaulli >> en (Q520573)",
+            "Gaddafi >> en (Q19878)"
+        ],
+        "distances": [
+            6,
+            7
+        ]
+    },
+    {
+        "page": "181",
+        "start_pos": "782",
+        "end_pos": "788",
+        "surface": "Taddeo",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo d'Este >> en (Q3980052)",
+            "Taddeo Barberini >> en (Q3817341)",
+            "Taddeo Zuccari >> en (Q434058)"
+        ],
+        "distances": [
+            6,
+            6,
+            5
+        ]
+    },
+    {
+        "page": "179",
+        "start_pos": "1082",
+        "end_pos": "1088",
+        "surface": "Taddeo",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)",
+            "Taddeo Gaddi (cardinal) >> en (Q2387161)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "120",
+        "start_pos": "1161",
+        "end_pos": "1167",
+        "surface": "Pietro",
+        "index_name": "Lorenzetti, Pietro (Laurati)",
+        "candidates": [
+            "Pietro Laurati >> en (Q309635)",
+            "Saint Peter >> en (Q33923)"
+        ],
+        "distances": [
+            0,
+            6
+        ]
+    },
+    {
+        "page": "55",
+        "start_pos": "0",
+        "end_pos": "11",
+        "surface": "GADDO GADDI",
+        "index_name": "Gaddi, Gaddo",
+        "candidates": [
+            "Gaddo Gaddi >> en (Q729041)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "87",
+        "start_pos": "273",
+        "end_pos": "296",
+        "surface": "Michelagnolo Buonarroti",
+        "index_name": "Buonarroti, Michelagnolo",
+        "candidates": [
+            "Michelangelo >> en (Q5592)",
+            "Michael Angelus >> en (Q6845173)"
+        ],
+        "distances": [
+            1,
+            6
+        ]
+    },
+    {
+        "page": "223",
+        "start_pos": "205",
+        "end_pos": "211",
+        "surface": "Agnolo",
+        "index_name": "Agnolo Gaddi",
+        "candidates": [
+            "Agnolo Gaddi >> en (Q363296)",
+            "Bronzino >> en (Q7803)",
+            "Pope Innocent IV >> en (Q160609)"
+        ],
+        "distances": [
+            0,
+            6,
+            3
+        ]
+    },
+    {
+        "page": "185",
+        "start_pos": "884",
+        "end_pos": "890",
+        "surface": "Taddeo",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)",
+            "Taddeo Gaddi (cardinal) >> en (Q2387161)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "31",
+        "start_pos": "888",
+        "end_pos": "895",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò Piccolomini >> en (Q3875885)",
+            "Niccolò de' Conti >> en (Q442610)",
+            "Niccolò da Montefeltro >> it (Q1032606)",
+            "Niccolò dell'Abate >> en (Q333563)",
+            "Niccolò dell'Arca >> en (Q2715131)"
+        ],
+        "distances": [
+            7,
+            5,
+            7,
+            6,
+            7
+        ]
+    },
+    {
+        "page": "113",
+        "start_pos": "1378",
+        "end_pos": "1384",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "79",
+        "start_pos": "8",
+        "end_pos": "14",
+        "surface": "GIOTTO",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "156",
+        "start_pos": "2158",
+        "end_pos": "2177",
+        "surface": "AMBROGIO LORENZETTI",
+        "index_name": "Ambrogio Lorenzetti",
+        "candidates": [
+            "Ambrogio Lorenzetti >> en (Q211562)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "41",
+        "start_pos": "1477",
+        "end_pos": "1485",
+        "surface": "Giovanni",
+        "index_name": "Giovanni Pisano",
+        "candidates": [
+            "Giovanni Falconi >> it (Q50359754)",
+            "Giovanni di Giovanni >> en (Q36449)",
+            "Giovanni de' Rossi >> en (Q21209004)",
+            "Giovanni di Niccolò >> nl (Q356777)"
+        ],
+        "distances": [
+            6,
+            6,
+            5,
+            4
+        ]
+    },
+    {
+        "page": "49",
+        "start_pos": "8",
+        "end_pos": "19",
+        "surface": "ANDREA TAFI",
+        "index_name": "Andrea Tafi",
+        "candidates": [
+            "Andrea Tafi (artist) >> en (Q495164)",
+            "Andrea Tafi >> it (Q495174)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "78",
+        "start_pos": "983",
+        "end_pos": "989",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "97",
+        "start_pos": "905",
+        "end_pos": "911",
+        "surface": "Agnolo",
+        "index_name": "Agnolo (of Siena)",
+        "candidates": [
+            "Agnolo Bronzino >> en (Q7803)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "135",
+        "start_pos": "837",
+        "end_pos": "846",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Buonamico Buffalmacco >> en (Q972487)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "145",
+        "start_pos": "2255",
+        "end_pos": "2264",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Giovanni Battista Buonacorsi >> en (Q58174701)"
+        ],
+        "distances": [
+            16
+        ]
+    },
+    {
+        "page": "81",
+        "start_pos": "593",
+        "end_pos": "605",
+        "surface": "Taddeo Gaddi",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)",
+            "Taddeo Gaddi (cardinal) >> en (Q2387161)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "157",
+        "start_pos": "8",
+        "end_pos": "27",
+        "surface": "AMBROGIO LORENZETTI",
+        "index_name": "Ambrogio Lorenzetti",
+        "candidates": [
+            "Ambrogio Lorenzetti >> en (Q211562)",
+            "Ambrogio Borgognone >> en (Q7789)"
+        ],
+        "distances": [
+            0,
+            8
+        ]
+    },
+    {
+        "page": "39",
+        "start_pos": "1400",
+        "end_pos": "1406",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "91",
+        "start_pos": "962",
+        "end_pos": "968",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "184",
+        "start_pos": "8",
+        "end_pos": "20",
+        "surface": "TADDEO GADDI",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "33",
+        "start_pos": "2289",
+        "end_pos": "2296",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò Piccolomini >> en (Q3875885)",
+            "Niccolò Piccinni >> en (Q310687)",
+            "Niccolò da Montefeltro >> it (Q1032606)"
+        ],
+        "distances": [
+            7,
+            6,
+            7
+        ]
+    },
+    {
+        "page": "87",
+        "start_pos": "766",
+        "end_pos": "772",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "75",
+        "start_pos": "8",
+        "end_pos": "14",
+        "surface": "GIOTTO",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "30",
+        "start_pos": "1963",
+        "end_pos": "1969",
+        "surface": "Fuccio",
+        "index_name": "Fuccio",
+        "candidates": [
+            "Fuccio >> it (Q3833175)",
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò di Giovanni >> ca (Q50476902)"
+        ],
+        "distances": [
+            0,
+            5,
+            5
+        ]
+    },
+    {
+        "page": "145",
+        "start_pos": "1430",
+        "end_pos": "1439",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [
+            "Giovanni Battista Buonacorsi >> en (Q58174701)"
+        ],
+        "distances": [
+            16
+        ]
+    },
+    {
+        "page": "113",
+        "start_pos": "1034",
+        "end_pos": "1041",
+        "surface": "Stefano",
+        "index_name": "Stefano",
+        "candidates": [
+            "Stefano di Giovanni >> en (Q362016)",
+            "Stefano Ugolini >> en (Q61731656)",
+            "Stefano di Francesco >> en (Q3498012)"
+        ],
+        "distances": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "page": "29",
+        "start_pos": "228",
+        "end_pos": "243",
+        "surface": "Arnolfo di Lapo",
+        "index_name": "Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",
+        "candidates": [
+            "Arnolfo di Lapo >> en (Q315249)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "20",
+        "start_pos": "8",
+        "end_pos": "23",
+        "surface": "ARNOLFO DI LAPO",
+        "index_name": "Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",
+        "candidates": [
+            "Arnolfo di Lapo >> en (Q315249)",
+            "Arnolfo di Carinzia >> it (Q154936)"
+        ],
+        "distances": [
+            0,
+            7
+        ]
+    },
+    {
+        "page": "125",
+        "start_pos": "2309",
+        "end_pos": "2316",
+        "surface": "Antonio",
+        "index_name": "Carota (Antonio, called Il Carota)",
+        "candidates": [
+            "Antonio Caro >> en (Q4776507)",
+            "Antonio del Carretto >> it (Q16527494)",
+            "Antonio da Caravaggio >> es (Q3620354)"
+        ],
+        "distances": [
+            2,
+            5,
+            5
+        ]
+    },
+    {
+        "page": "78",
+        "start_pos": "2420",
+        "end_pos": "2426",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "208",
+        "start_pos": "155",
+        "end_pos": "163",
+        "surface": "Giovanni",
+        "index_name": "Giovanni Tossicani",
+        "candidates": [
+            "Giovanni dal Ponte >> en (Q2749321)",
+            "Giottino >> en (Q947337)",
+            "Giovanni Carnovali >> en (Q1110515)"
+        ],
+        "distances": [
+            5,
+            8,
+            6
+        ]
+    },
+    {
+        "page": "73",
+        "start_pos": "2188",
+        "end_pos": "2194",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "74",
+        "start_pos": "8",
+        "end_pos": "14",
+        "surface": "GIOTTO",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "118",
+        "start_pos": "824",
+        "end_pos": "830",
+        "surface": "PIETRO",
+        "index_name": "Laurati, Pietro (called Lorenzetti)",
+        "candidates": [
+            "Pietro Lorenzetti >> en (Q309635)",
+            "Peter of Verona >> en (Q238744)",
+            "Pietro Lorenzini >> en (Q7192996)"
+        ],
+        "distances": [
+            0,
+            7,
+            7
+        ]
+    },
+    {
+        "page": "120",
+        "start_pos": "15",
+        "end_pos": "22",
+        "surface": "LAURATI",
+        "index_name": "Lorenzetti, Pietro (Laurati)",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "79",
+        "start_pos": "8",
+        "end_pos": "14",
+        "surface": "GIOTTO",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "186",
+        "start_pos": "8",
+        "end_pos": "20",
+        "surface": "TADDEO GADDI",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)",
+            "Taddeo Gaddi (cardinal) >> en (Q2387161)"
+        ],
+        "distances": [
+            0,
+            0
+        ]
+    },
+    {
+        "page": "199",
+        "start_pos": "706",
+        "end_pos": "722",
+        "surface": "Francesco Traini",
+        "index_name": "Francesco Traini",
+        "candidates": [
+            "Francesco Traini >> en (Q673516)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "113",
+        "start_pos": "1072",
+        "end_pos": "1079",
+        "surface": "Ugolino",
+        "index_name": "Siena, Ugolino da (Sanese)",
+        "candidates": [
+            "Ugolino della Gherardesca >> en (Q706003)",
+            "Ugolino di Nerio >> en (Q1357686)"
+        ],
+        "distances": [
+            7,
+            0
+        ]
+    },
+    {
+        "page": "32",
+        "start_pos": "549",
+        "end_pos": "569",
+        "surface": "Antonio da San Gallo",
+        "index_name": "Antonio da San Gallo",
+        "candidates": [
+            "Antonio da Sangallo the Elder >> en (Q456861)",
+            "Antonio da Sangallo the Younger >> en (Q357276)",
+            "Antonello da Messina >> en (Q5594)"
+        ],
+        "distances": [
+            1,
+            1,
+            9
+        ]
+    },
+    {
+        "page": "164",
+        "start_pos": "2306",
+        "end_pos": "2322",
+        "surface": "Pietro Cavallini",
+        "index_name": "Cavallini, Pietro",
+        "candidates": [
+            "Pietro Cavallini >> en (Q316009)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "142",
+        "start_pos": "957",
+        "end_pos": "966",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "164",
+        "start_pos": "1651",
+        "end_pos": "1667",
+        "surface": "Pietro Cavallini",
+        "index_name": "Cavallini, Pietro",
+        "candidates": [
+            "Pietro Cavallini >> en (Q316009)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "130",
+        "start_pos": "2241",
+        "end_pos": "2245",
+        "surface": "Nino",
+        "index_name": "Nino Pisano",
+        "candidates": [
+            "Nino (singer) >> en (Q472097)",
+            "Nino (footballer) >> en (Q513299)"
+        ],
+        "distances": [
+            4,
+            4
+        ]
+    },
+    {
+        "page": "94",
+        "start_pos": "1954",
+        "end_pos": "1960",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "29",
+        "start_pos": "68",
+        "end_pos": "82",
+        "surface": "NICCOLA PISANO",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccola Pisano >> en (Q364413)",
+            "Niccolò di Pietro >> en (Q4320785)",
+            "Niccolò di Giovanni >> ca (Q50476902)"
+        ],
+        "distances": [
+            0,
+            6,
+            6
+        ]
+    },
+    {
+        "page": "161",
+        "start_pos": "1870",
+        "end_pos": "1876",
+        "surface": "Pietro",
+        "index_name": "Cavallini, Pietro",
+        "candidates": [
+            "Saint Peter >> en (Q33923)",
+            "Peter the Great >> en (Q8479)"
+        ],
+        "distances": [
+            4,
+            4
+        ]
+    },
+    {
+        "page": "144",
+        "start_pos": "252",
+        "end_pos": "261",
+        "surface": "Buonamico",
+        "index_name": "Buffalmacco, Buonamico",
+        "candidates": [],
+        "distances": []
+    },
+    {
+        "page": "33",
+        "start_pos": "1571",
+        "end_pos": "1585",
+        "surface": "Niccola Pisano",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccola Pisano >> en (Q364413)",
+            "Niccolò Pisano >> it (Q3339591)"
+        ],
+        "distances": [
+            0,
+            1
+        ]
+    },
+    {
+        "page": "126",
+        "start_pos": "225",
+        "end_pos": "231",
+        "surface": "Andrea",
+        "index_name": "Andrea Pisano",
+        "candidates": [
+            "Andrea Pisano >> en (Q311031)",
+            "Andrea del Sarto >> en (Q5571)",
+            "Andrea Pisani >> en (Q2846400)",
+            "Andrea del Castagno >> en (Q240737)"
+        ],
+        "distances": [
+            0,
+            4,
+            1,
+            6
+        ]
+    },
+    {
+        "page": "180",
+        "start_pos": "8",
+        "end_pos": "20",
+        "surface": "TADDEO GADDI",
+        "index_name": "Gaddi, Taddeo",
+        "candidates": [
+            "Taddeo Gaddi >> en (Q315835)",
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0,
+            6
+        ]
+    },
+    {
+        "page": "148",
+        "start_pos": "205",
+        "end_pos": "210",
+        "surface": "Bruno",
+        "index_name": "Bruno di Giovanni",
+        "candidates": [
+            "Bruno (arcybiskup koloński) >> pl (Q56228)"
+        ],
+        "distances": [
+            5
+        ]
+    },
+    {
+        "page": "129",
+        "start_pos": "2188",
+        "end_pos": "2194",
+        "surface": "Andrea",
+        "index_name": "Andrea Pisano",
+        "candidates": [
+            "Andrea Pisano >> en (Q311031)",
+            "Andrea di Cosimo >> en (Q2846439)"
+        ],
+        "distances": [
+            0,
+            6
+        ]
+    },
+    {
+        "page": "87",
+        "start_pos": "2280",
+        "end_pos": "2287",
+        "surface": "Lorenzo",
+        "index_name": "Ghiberti, Lorenzo (Lorenzo di Cione Ghiberti)",
+        "candidates": [
+            "Lorenzo Ghiberti >> en (Q208125)",
+            "Lorenzo de' Medici >> en (Q177854)"
+        ],
+        "distances": [
+            0,
+            7
+        ]
+    },
+    {
+        "page": "78",
+        "start_pos": "1980",
+        "end_pos": "1986",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "72",
+        "start_pos": "1952",
+        "end_pos": "1958",
+        "surface": "Giotto",
+        "index_name": "Giotto",
+        "candidates": [
+            "Giotto >> en (Q7814)"
+        ],
+        "distances": [
+            0
+        ]
+    },
+    {
+        "page": "29",
+        "start_pos": "268",
+        "end_pos": "275",
+        "surface": "Niccola",
+        "index_name": "Niccola Pisano",
+        "candidates": [
+            "Niccolò Piccolomini >> en (Q3875885)",
+            "Niccolò di Giovanni Fiorentino >> en (Q735988)",
+            "Niccolò di Giovanni >> ca (Q50476902)"
+        ],
+        "distances": [
+            7,
+            6,
+            6
+        ]
+    }
+]
