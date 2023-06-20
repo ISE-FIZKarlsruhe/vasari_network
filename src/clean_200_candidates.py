@@ -20,7 +20,9 @@ def compute_min_distance(item, candidates, index, wikidata_dict):
     for row in index:
         if row["id"]==index_name:
             # create a list containing the full name and alias of the person mentioned
-            name_variants = [row["full_name"]] + [row["alias"].lower()]
+            alias=row["alias"].lower()
+            name_variants = [row["full_name"]]
+            name_variants.extend(alias.split(", "))
     for candidate in candidates:
         # get the labels of the filtered candidates and compute distance between wikidata labels and variants in index
         lev_distances = []
