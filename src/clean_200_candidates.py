@@ -20,7 +20,9 @@ def compute_min_distance(item, candidates, index, wikidata_dict):
     for row in index:
         if row["id"]==index_name:
             # create a list containing the full name and alias of the person mentioned
-            name_variants = [row["full_name"]] + [row["alias"].lower()]
+            alias=row["alias"].lower()
+            name_variants = [row["full_name"]]
+            name_variants.extend(alias.split(", "))
     for candidate in candidates:
         # get the labels of the filtered candidates and compute distance between wikidata labels and variants in index
         lev_distances = []
@@ -66,3 +68,24 @@ print(output)
 
 with open("../nel/sample_levenshtein_distances.json", "w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=4)
+
+output=[]
+for item_ in list_of_items:
+  filtered_candidates= filter_candidates(item=item_, wikidata_dict=wikidata_dict)
+  
+  min_distances = compute_min_distance(item=item_, candidates=filtered_candidates, wikidata_dict=wikidata_dict, index=index)
+  output_={
+      "page":item_["page"],
+      "start_pos":item_["start_pos"],
+      "end_pos":item_["end_pos"],
+      "surface":item_["surface"],
+      "index_name":item_["index_name"],
+      "candidates":filtered_candidates,
+      "distances":min_distances
+  }
+  output.append(output_)
+
+print(output)
+
+with open("../nel/levenshtein_distances.json", "w", encoding="utf-8") as f4:
+    json.dump(output, f4, ensure_ascii=False, indent=4)
