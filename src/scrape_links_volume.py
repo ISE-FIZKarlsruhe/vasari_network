@@ -6,7 +6,7 @@ import json
 
 
 # URL of the page to scrape
-url = "https://www.gutenberg.org/files/25326/25326-h/25326-h.htm"
+url = "https://www.gutenberg.org/files/25759/25759-h/25759-h.htm"
 
 # Send a GET request to the URL
 response = requests.get(url)
@@ -64,5 +64,5 @@ for text in results:
             output[name]=pages
 
 
-with open("index_names_vol1.json", "w", encoding="utf-8") as f:
+with open("index_names_vol2.json", "w", encoding="utf-8") as f:
     json.dump(output, f, indent=4, sort_keys=True, ensure_ascii=False)

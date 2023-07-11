@@ -4,7 +4,7 @@ import re
 import csv
 
 # Replace the URL with the webpage you want to scrape
-url = "https://www.gutenberg.org/files/25326/25326-h/25326-h.htm"
+url = "https://www.gutenberg.org/files/25759/25759-h/25759-h.htm"
 
 # Send a GET request to the URL and get the HTML content
 response = requests.get(url)
@@ -13,43 +13,33 @@ html_content = response.content
 # Use BeautifulSoup to parse the HTML content
 soup = BeautifulSoup(html_content, "html.parser")
 
-# Find all the text elements and join them into a single string
-text = ''.join(soup.find_all(text=True))
 
-# Split the text based on the regular expression "[Pg \d+]"
-texts = re.split(r"\[Pg \d+\]", text)
 
-# Put the title of the biography at the beginning of each text.
+paragraphs = soup.find_all('p')
+filtered_paragraphs = []
+for p in paragraphs:
+    if not p.find_parents("div", class_="figcenter"):
+        sibling_heading = p.find_previous_sibling(['h2'])
+        if sibling_heading:
+          p_string = sibling_heading.get_text() + ' ' + p.get_text()
+          filtered_paragraphs.append(p_string)
+        else:
+          filtered_paragraphs.append(p.get_text())
 
-texts_with_titles = []
-title = ""
-for text in texts[1:]:
-# remove whitespace and unnecessary characters
-    text = text.strip()
-    text = re.sub("(\n|\r)+", " ", text)
+page_id = None
+output = []
+for idx, text in enumerate(filtered_paragraphs):
+  text = re.sub(r"\r\n"," ", text)
+  page_num = re.findall(r"\[Pg ([0-9]+)\]", text)
+  if len(page_num)>0:
+    page_id = " ".join(page_num)
+  text = re.sub(r"\[Pg [a-z0-9]+\]", "",text)
+  if page_id!=None:
+    output.append({"pages":page_id, "paragraph_id":idx, "text":text})
+    print(output)
 
-# find title with regular expression
-    match_lst = re.findall("(LIFE OF [A-Z]+(,?\s[A-Z]+(?![a-z]))*)", text)
-
-# verify if we did not reach the last chapter of the book "Index of names"
-
-    if "INDEX OF NAMES" in text:
-        break
-    else:
-        if len(match_lst)>0:
-            title = match_lst[0][0]
-        if title != "":
-            if len(match_lst)>0:
-                texts_with_titles.append(text)
-            else:
-                texts_with_titles.append(title+" "+text)
-
-# define the start page number, is different in every volume 
-start_page = 3
-output = zip(range(start_page, start_page+len(texts_with_titles)),texts_with_titles)
-
-# store the output in csv 
-with open("pages_vol_1.csv", "w", encoding="utf-8") as f:
-    csv_writer = csv.writer(f)
-    csv_writer.writerow(["pg_num", "text"])
+keyz = output[0].keys()
+with open("pages_vol_2.csv", "w", encoding="utf-8") as f:
+    csv_writer = csv.DictWriter(f, keyz)
+    csv_writer.writeheader()
     csv_writer.writerows(output)
