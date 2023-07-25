@@ -86,11 +86,10 @@ print(names_data)
 i=0
 for name1 in names_data:
     i=i+1
-    s=1
+    s=i
     name1_variations = [name1["full_name"]]+[name1["alias"]]
     name1_variations = [name for name in name1_variations if len(name)>0]
     name1_variations = set(name1_variations)
-    #print(name1_variations)
     for name2 in names_data[i:]:
         name2_variations = [name2["full_name"]]+[name2["alias"]]
         name2_variations = [name for name in name2_variations if len(name)>0]
