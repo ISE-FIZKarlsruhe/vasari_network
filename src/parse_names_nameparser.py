@@ -105,7 +105,7 @@ for name1 in names_data:
                 names_data.pop(s)
         s=s+1
 print(names_data)
-with open('index_names_vol_1clear.csv', 'w') as file:
+with open('index_names_vol_1.csv', 'w') as file:
     csv_writer=csv.DictWriter(file, fieldnames=["id","first_name", "middle_name", "surname", "full_name", "alias", "pages"])
     csv_writer.writeheader()
     csv_writer.writerows(names_data)

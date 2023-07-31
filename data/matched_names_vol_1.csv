@@ -1,1827 +1,2297 @@
-page_number,id,match_string,start_pos,end_pos
-97,Agnolo (of Siena),AGNOLO,13,19
-97,Agnolo (of Siena),AGNOLO,50,56
-97,Agnolo (of Siena),Agnolo,204,210
-97,Agnolo (of Siena),Agnolo,905,911
-98,Agnolo (of Siena),AGNOLO,21,27
-98,Agnolo (of Siena),Agnolo,358,364
-98,Agnolo (of Siena),Agnolo,465,471
-98,Agnolo (of Siena),Agnolo,731,737
-98,Agnolo (of Siena),Agnolo,968,974
-98,Agnolo (of Siena),Agnolo,2279,2285
-99,Agnolo (of Siena),AGNOLO,21,27
-99,Agnolo (of Siena),Agnolo,168,174
-99,Agnolo (of Siena),Agnolo,952,958
-99,Agnolo (of Siena),Agnolo,1490,1496
-99,Agnolo (of Siena),Agnolo,1718,1724
-100,Agnolo (of Siena),AGNOLO,21,27
-100,Agnolo (of Siena),Agnolo,2109,2115
-101,Agnolo (of Siena),AGNOLO,21,27
-101,Agnolo (of Siena),Agnolo,599,605
-101,Agnolo (of Siena),Agnolo,1453,1459
-102,Agnolo (of Siena),AGNOLO,21,27
-102,Agnolo (of Siena),Agnolo,146,152
-102,Agnolo (of Siena),Agnolo,1600,1606
-102,Agnolo (of Siena),Agnolo,2266,2272
-103,Agnolo (of Siena),AGNOLO,21,27
-103,Agnolo (of Siena),Agnolo,531,537
-103,Agnolo (of Siena),Agnolo,1116,1122
-104,Agnolo (of Siena),AGNOLO,21,27
-104,Agnolo (of Siena),Agnolo,1937,1943
-105,Agnolo (of Siena),AGNOLO,21,27
-105,Agnolo (of Siena),Agnolo,783,789
-105,Agnolo (of Siena),Agnolo,1351,1357
-39,Agnolo (of Siena),Agnolo,1114,1120
-217,Agnolo Gaddi,AGNOLO GADDI,0,12
-217,Agnolo Gaddi,AGNOLO GADDI,21,33
-217,Agnolo Gaddi,Agnolo,359,365
-217,Agnolo Gaddi,Agnolo,644,650
-217,Agnolo Gaddi,Agnolo,954,960
-217,Agnolo Gaddi,Agnolo,1025,1031
-217,Agnolo Gaddi,Agnolo,1747,1753
-217,Agnolo Gaddi,Gaddi,180,185
-217,Agnolo Gaddi,Gaddi,490,495
-218,Agnolo Gaddi,AGNOLO GADDI,8,20
-218,Agnolo Gaddi,Agnolo,836,842
-218,Agnolo Gaddi,Agnolo,1163,1169
-218,Agnolo Gaddi,Agnolo,2011,2017
-219,Agnolo Gaddi,AGNOLO GADDI,8,20
-219,Agnolo Gaddi,Agnolo Gaddi,621,633
-219,Agnolo Gaddi,Agnolo,751,757
-219,Agnolo Gaddi,Agnolo,1583,1589
-219,Agnolo Gaddi,Agnolo,2027,2033
-220,Agnolo Gaddi,AGNOLO GADDI,8,20
-220,Agnolo Gaddi,Agnolo,251,257
-220,Agnolo Gaddi,Agnolo,1217,1223
-220,Agnolo Gaddi,Agnolo,1814,1820
-221,Agnolo Gaddi,AGNOLO GADDI,8,20
-221,Agnolo Gaddi,Agnolo,281,287
-221,Agnolo Gaddi,Agnolo,1073,1079
-221,Agnolo Gaddi,Agnolo,1478,1484
-221,Agnolo Gaddi,Agnolo,2016,2022
-221,Agnolo Gaddi,Gaddi,1126,1131
-222,Agnolo Gaddi,AGNOLO GADDI,8,20
-222,Agnolo Gaddi,Agnolo,1313,1319
-222,Agnolo Gaddi,Agnolo,2130,2136
-223,Agnolo Gaddi,AGNOLO GADDI,8,20
-223,Agnolo Gaddi,Agnolo,205,211
-185,Agnolo Gaddi,Agnolo,1221,1227
-185,Agnolo Gaddi,GADDI,15,20
-185,Agnolo Gaddi,Gaddi,585,590
-186,Agnolo Gaddi,Agnolo,231,237
-186,Agnolo Gaddi,GADDI,15,20
-208,Agnolo di Lorenzo,Agnolo di Lorenzo,972,989
-79,Agobbio,Agobbio,1207,1214
-79,Agobbio,Agobbio,2149,2156
-97,Agostino (of Siena),AGOSTINO,0,8
-97,Agostino (of Siena),AGOSTINO,37,45
-97,Agostino (of Siena),Agostino,191,199
-97,Agostino (of Siena),Agostino,892,900
-97,Agostino (of Siena),Agostino,1372,1380
-98,Agostino (of Siena),AGOSTINO,8,16
-98,Agostino (of Siena),Agostino,280,288
-98,Agostino (of Siena),Agostino,477,485
-98,Agostino (of Siena),Agostino,693,701
-98,Agostino (of Siena),Agostino,775,783
-98,Agostino (of Siena),Agostino,1097,1105
-98,Agostino (of Siena),Agostino,1494,1502
-98,Agostino (of Siena),Agostino,2266,2274
-99,Agostino (of Siena),AGOSTINO,8,16
-99,Agostino (of Siena),Agostino,155,163
-99,Agostino (of Siena),Agostino,939,947
-99,Agostino (of Siena),Agostino,1477,1485
-99,Agostino (of Siena),Agostino,1705,1713
-100,Agostino (of Siena),AGOSTINO,8,16
-100,Agostino (of Siena),Agostino,2120,2128
-101,Agostino (of Siena),AGOSTINO,8,16
-101,Agostino (of Siena),Agostino,586,594
-101,Agostino (of Siena),Agostino,1440,1448
-102,Agostino (of Siena),AGOSTINO,8,16
-102,Agostino (of Siena),Agostino,133,141
-102,Agostino (of Siena),Agostino,1587,1595
-103,Agostino (of Siena),AGOSTINO,8,16
-103,Agostino (of Siena),Agostino,237,245
-103,Agostino (of Siena),Agostino,1127,1135
-104,Agostino (of Siena),AGOSTINO,8,16
-104,Agostino (of Siena),Agostino,1924,1932
-105,Agostino (of Siena),AGOSTINO,8,16
-105,Agostino (of Siena),Agostino,770,778
-105,Agostino (of Siena),Agostino,1338,1346
-39,Agostino (of Siena),Agostino,1101,1109
-179,"Alberti, Leon Batista",Alberti,975,982
-4,Alesso Baldovinetti,Alesso Baldovinetti,1982,2001
-48,Alesso Baldovinetti,Alesso Baldovinetti,2139,2158
-155,Ambrogio Lorenzetti,AMBROGIO LORENZETTI,8,27
-155,Ambrogio Lorenzetti,Ambrogio Lorenzetti,425,444
-155,Ambrogio Lorenzetti,Ambrogio,1293,1301
-156,Ambrogio Lorenzetti,AMBROGIO LORENZETTI,8,27
-156,Ambrogio Lorenzetti,AMBROGIO LORENZETTI,2158,2177
-156,Ambrogio Lorenzetti,Ambrogio,2301,2309
-157,Ambrogio Lorenzetti,AMBROGIO LORENZETTI,8,27
-157,Ambrogio Lorenzetti,Ambrogio,379,387
-157,Ambrogio Lorenzetti,Ambrogio,1124,1132
-157,Ambrogio Lorenzetti,Ambrogio,1390,1398
-123,Andrea Pisano,ANDREA PISANO,0,13
-123,Andrea Pisano,ANDREA PISANO,22,35
-123,Andrea Pisano,Andrea Pisano,389,402
-124,Andrea Pisano,ANDREA PISANO,8,21
-124,Andrea Pisano,Andrea,139,145
-124,Andrea Pisano,Andrea,1659,1665
-125,Andrea Pisano,ANDREA PISANO,8,21
-125,Andrea Pisano,Andrea,297,303
-125,Andrea Pisano,Andrea,579,585
-125,Andrea Pisano,Andrea,915,921
-125,Andrea Pisano,Andrea,1827,1833
-126,Andrea Pisano,ANDREA PISANO,8,21
-126,Andrea Pisano,Andrea Pisano,1748,1761
-126,Andrea Pisano,Andrea,225,231
-126,Andrea Pisano,Andrea,507,513
-126,Andrea Pisano,Andrea,885,891
-126,Andrea Pisano,Andrea,1293,1299
-126,Andrea Pisano,Andrea,1500,1506
-127,Andrea Pisano,ANDREA PISANO,8,21
-127,Andrea Pisano,Andrea,1608,1614
-127,Andrea Pisano,Andrea,2225,2231
-128,Andrea Pisano,ANDREA PISANO,8,21
-128,Andrea Pisano,Andrea Pisano,1732,1745
-128,Andrea Pisano,Andrea,340,346
-128,Andrea Pisano,Andrea,924,930
-128,Andrea Pisano,Andrea,1478,1484
-128,Andrea Pisano,Andrea,1793,1799
-129,Andrea Pisano,ANDREA PISANO,8,21
-129,Andrea Pisano,Andrea Pisano,2064,2077
-129,Andrea Pisano,Andrea,387,393
-129,Andrea Pisano,Andrea,683,689
-129,Andrea Pisano,Andrea,1071,1077
-129,Andrea Pisano,Andrea,2188,2194
-130,Andrea Pisano,ANDREA PISANO,8,21
-130,Andrea Pisano,Andrea,163,169
-130,Andrea Pisano,Andrea,927,933
-130,Andrea Pisano,Andrea,977,983
-130,Andrea Pisano,Andrea,1253,1259
-130,Andrea Pisano,Andrea,1564,1570
-130,Andrea Pisano,Pisano,1027,1033
-130,Andrea Pisano,Pisano,1511,1517
-131,Andrea Pisano,ANDREA PISANO,8,21
-131,Andrea Pisano,ANDREA PISANO,825,838
-131,Andrea Pisano,Andrea,338,344
-131,Andrea Pisano,Andrea,936,942
-131,Andrea Pisano,ANDREA,1067,1073
-189,Andrea Pisano,Andrea Pisano,516,529
-189,Andrea Pisano,ANDREA,0,6
-189,Andrea Pisano,ANDREA,32,38
-47,Andrea Tafi,ANDREA TAFI,0,11
-47,Andrea Tafi,ANDREA TAFI,20,31
-47,Andrea Tafi,Andrea Tafi,292,303
-47,Andrea Tafi,Andrea,1197,1203
-48,Andrea Tafi,ANDREA TAFI,8,19
-49,Andrea Tafi,ANDREA TAFI,8,19
-49,Andrea Tafi,Andrea Tafi,41,52
-49,Andrea Tafi,Andrea,1881,1887
-49,Andrea Tafi,Andrea,2233,2239
-50,Andrea Tafi,ANDREA TAFI,8,19
-50,Andrea Tafi,Andrea Tafi,593,604
-50,Andrea Tafi,Andrea,943,949
-50,Andrea Tafi,Andrea,1476,1482
-50,Andrea Tafi,Andrea,1910,1916
-50,Andrea Tafi,ANDREA,1991,1997
-50,Andrea Tafi,Andrea,2110,2116
-51,Andrea Tafi,ANDREA TAFI,8,19
-51,Andrea Tafi,Andrea Tafi,271,282
-51,Andrea Tafi,Andrea Tafi,480,491
-51,Andrea Tafi,Andrea Tafi,1228,1239
-55,Andrea Tafi,Andrea Tafi,176,187
-56,Andrea Tafi,Andrea Tafi,41,52
-56,Andrea Tafi,Andrea,81,87
-58,Andrea Tafi,Andrea Tafi,632,643
-135,Andrea Tafi,Andrea Tafi,161,172
-135,Andrea Tafi,Andrea,649,655
-135,Andrea Tafi,Andrea,939,945
-135,Andrea Tafi,Andrea,1241,1247
-135,Andrea Tafi,Andrea,1332,1338
-219,Andrea Tafi,Andrea Tafi,1264,1275
-189,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,0,23
-189,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,32,55
-189,Andrea di Cione Orcagna,Andrea,516,522
-190,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
-190,Andrea di Cione Orcagna,Andrea,180,186
-190,Andrea di Cione Orcagna,Andrea,1126,1132
-190,Andrea di Cione Orcagna,di Cione Orcagna,780,796
-191,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
-191,Andrea di Cione Orcagna,Andrea,1076,1082
-192,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
-192,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,2094,2117
-193,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
-194,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
-194,Andrea di Cione Orcagna,Andrea,97,103
-194,Andrea di Cione Orcagna,Andrea,2117,2123
-195,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
-195,Andrea di Cione Orcagna,Andrea di Cione Orcagna,1191,1214
-195,Andrea di Cione Orcagna,ANDREA,1077,1083
-196,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
-196,Andrea di Cione Orcagna,ANDREA,1666,1672
-196,Andrea di Cione Orcagna,Andrea,2143,2149
-196,Andrea di Cione Orcagna,ANDREA,2241,2247
-196,Andrea di Cione Orcagna,ANDREA,2296,2302
-197,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
-197,Andrea di Cione Orcagna,Andrea,483,489
-197,Andrea di Cione Orcagna,Andrea,1888,1894
-197,Andrea di Cione Orcagna,Andrea,2194,2200
-198,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
-198,Andrea di Cione Orcagna,Andrea,1149,1155
-199,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
-199,Andrea di Cione Orcagna,Andrea,765,771
-199,Andrea di Cione Orcagna,Andrea,840,846
-162,"Angelico, Fra (Fra Giovanni da Fiesole)",Fra Giovanni da Fiesole,1989,2012
-125,Antonio (called Il Carota),Antonio,2309,2316
-125,Antonio (called Il Carota),Il Carota,2325,2334
-221,Antonio da Ferrara,Antonio da Ferrara,427,445
-32,Antonio da San Gallo,Antonio da San Gallo,549,569
-47,Apollonio,Apollonio,926,935
-49,Apollonio,Apollonio,57,66
-49,Apollonio,Apollonio,1928,1937
-17,"Aretino, Marchionne",Marchionne Aretino,139,157
-17,"Aretino, Marchionne",Marchionne,281,291
-17,"Aretino, Marchionne",Marchionne,1723,1733
-18,"Aretino, Marchionne",Marchionne,111,121
-130,"Aretino, Niccolò",Niccolò Aretino,526,541
-67,"Aretino, Spinello",Spinello,651,659
-20,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-20,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1820,1827
-20,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1904,1911
-21,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-21,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1771,1778
-22,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-22,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,677,684
-22,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1150,1157
-23,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-23,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,940,947
-23,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1087,1094
-23,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1386,1393
-23,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1574,1581
-24,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-24,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo di Lapo,217,232
-24,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,301,308
-24,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1268,1275
-24,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2406,2413
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,392,399
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO,1115,1122
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1316,1323
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1694,1701
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2134,2141
-26,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-26,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,434,441
-8,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1649,1656
-13,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,0,15
-13,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,24,39
-13,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,97,104
-13,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,115,122
-13,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,562,569
-13,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,841,848
-13,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1159,1166
-14,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-14,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,98,105
-20,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-20,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1820,1827
-20,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1904,1911
-21,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-21,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1771,1778
-22,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-22,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,677,684
-22,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1150,1157
-23,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-23,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,940,947
-23,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1087,1094
-23,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1386,1393
-23,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1574,1581
-24,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-24,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo di Lapo,217,232
-24,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,301,308
-24,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1268,1275
-24,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2406,2413
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,392,399
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO,1115,1122
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1316,1323
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1694,1701
-25,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2134,2141
-26,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
-26,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,434,441
-29,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo di Lapo,228,243
-30,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,737,744
-33,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1185,1192
-39,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1360,1367
-65,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,155,162
-126,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,660,667
-170,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,555,562
-174,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,612,619
-180,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,675,682
-120,Bartolommeo Bologhini,Bartolommeo Bologhini,1654,1675
-120,Bartolommeo Bologhini,Bartolommeo Bologhini,2178,2199
-94,Benedetto da Maiano,Benedetto da Maiano,1154,1173
-197,Bernardo Nello di Giovanni Falconi,Bernardo Nello di Giovanni Falconi,1912,1946
-189,Bernardo di Cione Orcagna,Bernardo,934,942
-189,Bernardo di Cione Orcagna,Bernardo,975,983
-189,Bernardo di Cione Orcagna,Bernardo,1746,1754
-189,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,7,23
-189,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,39,55
-190,Bernardo di Cione Orcagna,Bernardo di Cione Orcagna,771,796
-190,Bernardo di Cione Orcagna,Bernardo,289,297
-190,Bernardo di Cione Orcagna,Bernardo,494,502
-190,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
-193,Bernardo di Cione Orcagna,Bernardo,188,196
-193,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
-194,Bernardo di Cione Orcagna,Bernardo,87,95
-194,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
-195,Bernardo di Cione Orcagna,Bernardo,876,884
-195,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
-195,Bernardo di Cione Orcagna,di Cione Orcagna,1198,1214
-197,Bernardo di Cione Orcagna,Bernardo,384,392
-197,Bernardo di Cione Orcagna,Bernardo,1912,1920
-197,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
-79,"Bolognese, Franco",Franco Bolognese,1613,1629
-79,"Bolognese, Franco",Franco Bolognese,2272,2288
-15,Bonanno,Bonanno,1191,1198
-16,Bonanno,Bonanno,800,807
-32,Bramante da Urbino,Bramante,487,495
-22,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",Filippo,2119,2126
-23,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",Filippo,1410,1417
-26,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",Filippo,47,54
-48,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",Filippo,268,275
-130,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",Filippo,585,592
-135,Bruno di Giovanni,Bruno,293,298
-145,Bruno di Giovanni,Bruno di Giovanni,501,518
-145,Bruno di Giovanni,Bruno,588,593
-145,Bruno di Giovanni,Bruno,1331,1336
-145,Bruno di Giovanni,Bruno,1818,1823
-147,Bruno di Giovanni,Bruno,688,693
-147,Bruno di Giovanni,Bruno,837,842
-147,Bruno di Giovanni,Bruno,1167,1172
-148,Bruno di Giovanni,Bruno,205,210
-191,Bruno di Giovanni,Bruno,1696,1701
-135,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,0,21
-135,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,30,51
-135,"Buffalmacco, Buonamico",Buonamico,73,82
-135,"Buffalmacco, Buonamico",Buonamico,837,846
-135,"Buffalmacco, Buonamico",Buonamico,1851,1860
-135,"Buffalmacco, Buonamico",Buffalmacco,105,116
-135,"Buffalmacco, Buonamico",Buffalmacco,605,616
-135,"Buffalmacco, Buonamico",Buffalmacco,1423,1434
-135,"Buffalmacco, Buonamico",Buffalmacco,1729,1740
-136,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-136,"Buffalmacco, Buonamico",Buonamico,51,60
-136,"Buffalmacco, Buonamico",Buonamico,357,366
-136,"Buffalmacco, Buonamico",Buonamico,678,687
-136,"Buffalmacco, Buonamico",Buonamico,772,781
-136,"Buffalmacco, Buonamico",Buonamico,811,820
-136,"Buffalmacco, Buonamico",Buffalmacco,1515,1526
-136,"Buffalmacco, Buonamico",Buffalmacco,1895,1906
-136,"Buffalmacco, Buonamico",Buffalmacco,2270,2281
-137,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-137,"Buffalmacco, Buonamico",Buonamico,529,538
-137,"Buffalmacco, Buonamico",Buffalmacco,56,67
-137,"Buffalmacco, Buonamico",Buffalmacco,299,310
-137,"Buffalmacco, Buonamico",Buffalmacco,453,464
-137,"Buffalmacco, Buonamico",Buffalmacco,1953,1964
-138,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-138,"Buffalmacco, Buonamico",Buonamico,378,387
-138,"Buffalmacco, Buonamico",Buonamico,1719,1728
-138,"Buffalmacco, Buonamico",Buffalmacco,635,646
-138,"Buffalmacco, Buonamico",Buffalmacco,752,763
-138,"Buffalmacco, Buonamico",Buffalmacco,1810,1821
-139,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-139,"Buffalmacco, Buonamico",Buonamico,107,116
-139,"Buffalmacco, Buonamico",Buonamico,1128,1137
-139,"Buffalmacco, Buonamico",Buonamico,1571,1580
-139,"Buffalmacco, Buonamico",Buonamico,2038,2047
-140,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-140,"Buffalmacco, Buonamico",Buonamico,877,886
-140,"Buffalmacco, Buonamico",Buonamico,1745,1754
-140,"Buffalmacco, Buonamico",Buffalmacco,1435,1446
-140,"Buffalmacco, Buonamico",Buffalmacco,2211,2222
-141,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-141,"Buffalmacco, Buonamico",Buonamico,1072,1081
-141,"Buffalmacco, Buonamico",Buonamico,1677,1686
-141,"Buffalmacco, Buonamico",Buonamico,1835,1844
-141,"Buffalmacco, Buonamico",Buonamico,2184,2193
-142,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-142,"Buffalmacco, Buonamico",Buonamico,73,82
-142,"Buffalmacco, Buonamico",Buonamico,371,380
-142,"Buffalmacco, Buonamico",Buonamico,957,966
-142,"Buffalmacco, Buonamico",Buonamico,1411,1420
-142,"Buffalmacco, Buonamico",Buonamico,2092,2101
-142,"Buffalmacco, Buonamico",Buonamico,2257,2266
-143,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-143,"Buffalmacco, Buonamico",Buonamico,920,929
-143,"Buffalmacco, Buonamico",Buonamico,1103,1112
-143,"Buffalmacco, Buonamico",Buonamico,2235,2244
-143,"Buffalmacco, Buonamico",Buonamico,2358,2367
-143,"Buffalmacco, Buonamico",Buffalmacco,1470,1481
-144,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-144,"Buffalmacco, Buonamico",Buonamico,252,261
-144,"Buffalmacco, Buonamico",Buonamico,662,671
-144,"Buffalmacco, Buonamico",Buonamico,1362,1371
-144,"Buffalmacco, Buonamico",Buonamico,1864,1873
-145,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-145,"Buffalmacco, Buonamico",Buonamico,67,76
-145,"Buffalmacco, Buonamico",Buonamico,257,266
-145,"Buffalmacco, Buonamico",Buonamico,474,483
-145,"Buffalmacco, Buonamico",Buonamico,1430,1439
-145,"Buffalmacco, Buonamico",Buonamico,1703,1712
-145,"Buffalmacco, Buonamico",Buonamico,2255,2264
-146,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-146,"Buffalmacco, Buonamico",Buonamico,550,559
-146,"Buffalmacco, Buonamico",Buonamico,1656,1665
-147,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-147,"Buffalmacco, Buonamico",Buonamico,142,151
-147,"Buffalmacco, Buonamico",Buonamico,877,886
-147,"Buffalmacco, Buonamico",Buonamico,1747,1756
-148,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-148,"Buffalmacco, Buonamico",Buonamico,257,266
-148,"Buffalmacco, Buonamico",Buonamico,470,479
-148,"Buffalmacco, Buonamico",Buonamico,1210,1219
-148,"Buffalmacco, Buonamico",Buonamico,1320,1329
-148,"Buffalmacco, Buonamico",Buonamico,2118,2127
-149,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-149,"Buffalmacco, Buonamico",Buonamico,212,221
-149,"Buffalmacco, Buonamico",Buonamico,263,272
-149,"Buffalmacco, Buonamico",Buonamico,492,501
-149,"Buffalmacco, Buonamico",Buonamico,1058,1067
-149,"Buffalmacco, Buonamico",Buonamico,1713,1722
-149,"Buffalmacco, Buonamico",Buonamico,2112,2121
-149,"Buffalmacco, Buonamico",Buonamico,2270,2279
-150,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-150,"Buffalmacco, Buonamico",Buonamico Buffalmacco,2243,2264
-150,"Buffalmacco, Buonamico",Buonamico,702,711
-150,"Buffalmacco, Buonamico",Buonamico,960,969
-150,"Buffalmacco, Buonamico",Buonamico,1003,1012
-150,"Buffalmacco, Buonamico",Buonamico,1385,1394
-150,"Buffalmacco, Buonamico",Buonamico,1823,1832
-151,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-50,"Buffalmacco, Buonamico",Buonamico Buffalmacco,2121,2142
-135,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,0,21
-135,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,30,51
-135,"Buffalmacco, Buonamico",Buonamico,73,82
-135,"Buffalmacco, Buonamico",Buonamico,837,846
-135,"Buffalmacco, Buonamico",Buonamico,1851,1860
-135,"Buffalmacco, Buonamico",Buffalmacco,105,116
-135,"Buffalmacco, Buonamico",Buffalmacco,605,616
-135,"Buffalmacco, Buonamico",Buffalmacco,1423,1434
-135,"Buffalmacco, Buonamico",Buffalmacco,1729,1740
-136,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-136,"Buffalmacco, Buonamico",Buonamico,51,60
-136,"Buffalmacco, Buonamico",Buonamico,357,366
-136,"Buffalmacco, Buonamico",Buonamico,678,687
-136,"Buffalmacco, Buonamico",Buonamico,772,781
-136,"Buffalmacco, Buonamico",Buonamico,811,820
-136,"Buffalmacco, Buonamico",Buffalmacco,1515,1526
-136,"Buffalmacco, Buonamico",Buffalmacco,1895,1906
-136,"Buffalmacco, Buonamico",Buffalmacco,2270,2281
-137,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-137,"Buffalmacco, Buonamico",Buonamico,529,538
-137,"Buffalmacco, Buonamico",Buffalmacco,56,67
-137,"Buffalmacco, Buonamico",Buffalmacco,299,310
-137,"Buffalmacco, Buonamico",Buffalmacco,453,464
-137,"Buffalmacco, Buonamico",Buffalmacco,1953,1964
-138,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-138,"Buffalmacco, Buonamico",Buonamico,378,387
-138,"Buffalmacco, Buonamico",Buonamico,1719,1728
-138,"Buffalmacco, Buonamico",Buffalmacco,635,646
-138,"Buffalmacco, Buonamico",Buffalmacco,752,763
-138,"Buffalmacco, Buonamico",Buffalmacco,1810,1821
-139,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-139,"Buffalmacco, Buonamico",Buonamico,107,116
-139,"Buffalmacco, Buonamico",Buonamico,1128,1137
-139,"Buffalmacco, Buonamico",Buonamico,1571,1580
-139,"Buffalmacco, Buonamico",Buonamico,2038,2047
-140,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-140,"Buffalmacco, Buonamico",Buonamico,877,886
-140,"Buffalmacco, Buonamico",Buonamico,1745,1754
-140,"Buffalmacco, Buonamico",Buffalmacco,1435,1446
-140,"Buffalmacco, Buonamico",Buffalmacco,2211,2222
-141,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-141,"Buffalmacco, Buonamico",Buonamico,1072,1081
-141,"Buffalmacco, Buonamico",Buonamico,1677,1686
-141,"Buffalmacco, Buonamico",Buonamico,1835,1844
-141,"Buffalmacco, Buonamico",Buonamico,2184,2193
-142,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-142,"Buffalmacco, Buonamico",Buonamico,73,82
-142,"Buffalmacco, Buonamico",Buonamico,371,380
-142,"Buffalmacco, Buonamico",Buonamico,957,966
-142,"Buffalmacco, Buonamico",Buonamico,1411,1420
-142,"Buffalmacco, Buonamico",Buonamico,2092,2101
-142,"Buffalmacco, Buonamico",Buonamico,2257,2266
-143,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-143,"Buffalmacco, Buonamico",Buonamico,920,929
-143,"Buffalmacco, Buonamico",Buonamico,1103,1112
-143,"Buffalmacco, Buonamico",Buonamico,2235,2244
-143,"Buffalmacco, Buonamico",Buonamico,2358,2367
-143,"Buffalmacco, Buonamico",Buffalmacco,1470,1481
-144,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-144,"Buffalmacco, Buonamico",Buonamico,252,261
-144,"Buffalmacco, Buonamico",Buonamico,662,671
-144,"Buffalmacco, Buonamico",Buonamico,1362,1371
-144,"Buffalmacco, Buonamico",Buonamico,1864,1873
-145,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-145,"Buffalmacco, Buonamico",Buonamico,67,76
-145,"Buffalmacco, Buonamico",Buonamico,257,266
-145,"Buffalmacco, Buonamico",Buonamico,474,483
-145,"Buffalmacco, Buonamico",Buonamico,1430,1439
-145,"Buffalmacco, Buonamico",Buonamico,1703,1712
-145,"Buffalmacco, Buonamico",Buonamico,2255,2264
-146,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-146,"Buffalmacco, Buonamico",Buonamico,550,559
-146,"Buffalmacco, Buonamico",Buonamico,1656,1665
-147,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-147,"Buffalmacco, Buonamico",Buonamico,142,151
-147,"Buffalmacco, Buonamico",Buonamico,877,886
-147,"Buffalmacco, Buonamico",Buonamico,1747,1756
-148,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-148,"Buffalmacco, Buonamico",Buonamico,257,266
-148,"Buffalmacco, Buonamico",Buonamico,470,479
-148,"Buffalmacco, Buonamico",Buonamico,1210,1219
-148,"Buffalmacco, Buonamico",Buonamico,1320,1329
-148,"Buffalmacco, Buonamico",Buonamico,2118,2127
-149,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-149,"Buffalmacco, Buonamico",Buonamico,212,221
-149,"Buffalmacco, Buonamico",Buonamico,263,272
-149,"Buffalmacco, Buonamico",Buonamico,492,501
-149,"Buffalmacco, Buonamico",Buonamico,1058,1067
-149,"Buffalmacco, Buonamico",Buonamico,1713,1722
-149,"Buffalmacco, Buonamico",Buonamico,2112,2121
-149,"Buffalmacco, Buonamico",Buonamico,2270,2279
-150,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-150,"Buffalmacco, Buonamico",Buonamico Buffalmacco,2243,2264
-150,"Buffalmacco, Buonamico",Buonamico,702,711
-150,"Buffalmacco, Buonamico",Buonamico,960,969
-150,"Buffalmacco, Buonamico",Buonamico,1003,1012
-150,"Buffalmacco, Buonamico",Buonamico,1385,1394
-150,"Buffalmacco, Buonamico",Buonamico,1823,1832
-151,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
-170,"Buffalmacco, Buonamico",Buonamico,2102,2111
-190,"Buffalmacco, Buonamico",Buffalmacco,1060,1071
-190,"Buffalmacco, Buonamico",Buffalmacco,1280,1291
-191,"Buffalmacco, Buonamico",Buffalmacco,1649,1660
-211,"Buffalmacco, Buonamico",Buonamico Buffalmacco,1238,1259
-211,"Buffalmacco, Buonamico",Buffalmacco,1440,1451
-87,"Buonarroti, Michelagnolo",Michelagnolo Buonarroti,273,296
-14,Buono,Buono,996,1001
-14,Buono,Buono,2336,2341
-15,Buono,Buono,626,631
-135,Calandrino,Calandrino,303,313
-59,"Campi, Fra Ristoro da",Fra Ristoro da Campi,296,316
-85,"Capanna, Puccio",Puccio Capanna,1305,1319
-89,"Capanna, Puccio",Puccio Capanna,1999,2013
-89,"Capanna, Puccio",Puccio,2263,2269
-90,"Capanna, Puccio",Puccio,997,1003
-90,"Capanna, Puccio",PUCCIO,1135,1141
-90,"Capanna, Puccio",Puccio,1896,1902
-125,"Carota (Antonio, called Il Carota)",Carota,2328,2334
-125,"Carota (Antonio, called Il Carota)",Antonio,2309,2316
-183,"Casentino, Jacopo di",Jacopo di Casentino,803,822
-185,"Casentino, Jacopo di",Jacopo di Casentino,1295,1314
-161,"Cavallini, Pietro",PIETRO CAVALLINI,0,16
-161,"Cavallini, Pietro",PIETRO CAVALLINI,25,41
-161,"Cavallini, Pietro",Pietro Cavallini,244,260
-161,"Cavallini, Pietro",Pietro,512,518
-161,"Cavallini, Pietro",Pietro,1870,1876
-162,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
-162,"Cavallini, Pietro",Pietro,1114,1120
-162,"Cavallini, Pietro",Pietro,1736,1742
-163,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
-163,"Cavallini, Pietro",Pietro Cavallini,216,232
-163,"Cavallini, Pietro",Pietro,1611,1617
-163,"Cavallini, Pietro",Pietro,1801,1807
-163,"Cavallini, Pietro",Pietro,2124,2130
-163,"Cavallini, Pietro",Pietro,2390,2396
-164,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
-164,"Cavallini, Pietro",Pietro Cavallini,1651,1667
-164,"Cavallini, Pietro",Pietro Cavallini,2306,2322
-164,"Cavallini, Pietro",Pietro,351,357
-164,"Cavallini, Pietro",Pietro,401,407
-164,"Cavallini, Pietro",Pietro,1308,1314
-92,"Cavallini, Pietro",Pietro Cavallini,323,339
-92,"Cavallini, Pietro",Pietro,255,261
-177,"Cennini, Cennino di Drea",Cennino di Drea Cennini,930,953
-221,"Cennini, Cennino di Drea",Cennino di Drea Cennini,1501,1524
-222,"Cennini, Cennino di Drea",Cennino di Drea Cennini,1215,1238
-222,"Cennini, Cennino di Drea",Cennino,1119,1126
-222,"Cennini, Cennino di Drea",Cennino,1681,1688
-3,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-3,"Cimabue, Giovanni",Giovanni,443,451
-3,"Cimabue, Giovanni",Cimabue,462,469
-3,"Cimabue, Giovanni",Cimabue,511,518
-3,"Cimabue, Giovanni",Cimabue,804,811
-3,"Cimabue, Giovanni",Cimabue,1543,1550
-4,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-5,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-5,"Cimabue, Giovanni",Cimabue,723,730
-5,"Cimabue, Giovanni",Cimabue,1409,1416
-5,"Cimabue, Giovanni",Cimabue,2179,2186
-6,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-6,"Cimabue, Giovanni",Cimabue,1052,1059
-7,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-7,"Cimabue, Giovanni",Giovanni,618,626
-7,"Cimabue, Giovanni",Cimabue,370,377
-7,"Cimabue, Giovanni",Cimabue,1240,1247
-7,"Cimabue, Giovanni",Cimabue,2248,2255
-7,"Cimabue, Giovanni",Cimabue,2435,2442
-8,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-8,"Cimabue, Giovanni",Cimabue,81,88
-8,"Cimabue, Giovanni",Cimabue,749,756
-8,"Cimabue, Giovanni",Cimabue,1325,1332
-8,"Cimabue, Giovanni",Cimabue,1535,1542
-8,"Cimabue, Giovanni",Cimabue,2002,2009
-8,"Cimabue, Giovanni",Cimabue,2062,2069
-8,"Cimabue, Giovanni",Cimabue,2287,2294
-8,"Cimabue, Giovanni",Cimabue,2406,2413
-8,"Cimabue, Giovanni",Cimabue,2670,2677
-8,"Cimabue, Giovanni",Cimabue,2985,2992
-8,"Cimabue, Giovanni",Cimabue,3018,3025
-8,"Cimabue, Giovanni",Cimabue,4097,4104
-8,"Cimabue, Giovanni",Cimabue,4241,4248
-9,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-9,"Cimabue, Giovanni",Cimabue,496,503
-9,"Cimabue, Giovanni",Cimabue,1146,1153
-10,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-10,"Cimabue, Giovanni",CIMABUE,46,53
-3,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-3,"Cimabue, Giovanni",Giovanni,443,451
-3,"Cimabue, Giovanni",Cimabue,462,469
-3,"Cimabue, Giovanni",Cimabue,511,518
-3,"Cimabue, Giovanni",Cimabue,804,811
-3,"Cimabue, Giovanni",Cimabue,1543,1550
-4,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-5,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-5,"Cimabue, Giovanni",Cimabue,723,730
-5,"Cimabue, Giovanni",Cimabue,1409,1416
-5,"Cimabue, Giovanni",Cimabue,2179,2186
-6,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-6,"Cimabue, Giovanni",Cimabue,1052,1059
-7,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-7,"Cimabue, Giovanni",Giovanni,618,626
-7,"Cimabue, Giovanni",Cimabue,370,377
-7,"Cimabue, Giovanni",Cimabue,1240,1247
-7,"Cimabue, Giovanni",Cimabue,2248,2255
-7,"Cimabue, Giovanni",Cimabue,2435,2442
-8,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-8,"Cimabue, Giovanni",Cimabue,81,88
-8,"Cimabue, Giovanni",Cimabue,749,756
-8,"Cimabue, Giovanni",Cimabue,1325,1332
-8,"Cimabue, Giovanni",Cimabue,1535,1542
-8,"Cimabue, Giovanni",Cimabue,2002,2009
-8,"Cimabue, Giovanni",Cimabue,2062,2069
-8,"Cimabue, Giovanni",Cimabue,2287,2294
-8,"Cimabue, Giovanni",Cimabue,2406,2413
-8,"Cimabue, Giovanni",Cimabue,2670,2677
-8,"Cimabue, Giovanni",Cimabue,2985,2992
-8,"Cimabue, Giovanni",Cimabue,3018,3025
-8,"Cimabue, Giovanni",Cimabue,4097,4104
-8,"Cimabue, Giovanni",Cimabue,4241,4248
-9,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-9,"Cimabue, Giovanni",Cimabue,496,503
-9,"Cimabue, Giovanni",Cimabue,1146,1153
-10,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
-10,"Cimabue, Giovanni",CIMABUE,46,53
-20,"Cimabue, Giovanni",Giovanni,1333,1341
-20,"Cimabue, Giovanni",Cimabue,2008,2015
-21,"Cimabue, Giovanni",Giovanni,1342,1350
-21,"Cimabue, Giovanni",Cimabue,110,117
-29,"Cimabue, Giovanni",GIOVANNI,12,20
-29,"Cimabue, Giovanni",GIOVANNI,49,57
-29,"Cimabue, Giovanni",GIOVANNI,87,95
-29,"Cimabue, Giovanni",Giovanni,280,288
-29,"Cimabue, Giovanni",Giovanni,934,942
-29,"Cimabue, Giovanni",Cimabue,189,196
-47,"Cimabue, Giovanni",Giovanni,1112,1120
-47,"Cimabue, Giovanni",Giovanni,1354,1362
-47,"Cimabue, Giovanni",Cimabue,74,81
-50,"Cimabue, Giovanni",Giovanni,156,164
-50,"Cimabue, Giovanni",Giovanni,405,413
-50,"Cimabue, Giovanni",Cimabue,954,961
-50,"Cimabue, Giovanni",Cimabue,1100,1107
-50,"Cimabue, Giovanni",Cimabue,1523,1530
-55,"Cimabue, Giovanni",Cimabue,321,328
-55,"Cimabue, Giovanni",Cimabue,1819,1826
-56,"Cimabue, Giovanni",Giovanni,151,159
-56,"Cimabue, Giovanni",Cimabue,570,577
-58,"Cimabue, Giovanni",Giovanni,1343,1351
-58,"Cimabue, Giovanni",Giovanni,1696,1704
-58,"Cimabue, Giovanni",Cimabue,744,751
-63,"Cimabue, Giovanni",Cimabue,161,168
-72,"Cimabue, Giovanni",Giovanni,1499,1507
-72,"Cimabue, Giovanni",Cimabue,98,105
-72,"Cimabue, Giovanni",Cimabue,403,410
-72,"Cimabue, Giovanni",Cimabue,561,568
-72,"Cimabue, Giovanni",Cimabue,776,783
-74,"Cimabue, Giovanni",Giovanni,667,675
-74,"Cimabue, Giovanni",Giovanni,1780,1788
-74,"Cimabue, Giovanni",Cimabue,1283,1290
-89,"Cimabue, Giovanni",Cimabue,1631,1638
-94,"Cimabue, Giovanni",Cimabue,121,128
-94,"Cimabue, Giovanni",Cimabue,178,185
-113,"Cimabue, Giovanni",Cimabue,1354,1361
-117,"Cimabue, Giovanni",Cimabue,703,710
-145,"Cimabue, Giovanni",Giovanni,510,518
-145,"Cimabue, Giovanni",Cimabue,1774,1781
-174,"Cimabue, Giovanni",Giovanni,1077,1085
-174,"Cimabue, Giovanni",Cimabue,575,582
-103,Cione,Cione,1719,1724
-103,Cione,Cione,2186,2191
-104,Cione,Cione,229,234
-104,Cione,Cione,1066,1071
-48,"Como, Guido da",Guido da Como,1556,1569
-48,"Como, Guido da",GUIDO,1746,1751
-36,"Danti, Vincenzio",Vincenzio Danti,1437,1452
-112,Domenico Ghirlandajo,Domenico,1919,1927
-112,Domenico Ghirlandajo,Ghirlandajo,1932,1943
-126,Domenico Ghirlandajo,Domenico Ghirlandajo,49,69
-189,Domenico Ghirlandajo,Domenico Ghirlandajo,1491,1511
-48,Donato (Donatello),Donatello,299,308
-130,Donato (Donatello),Donatello,574,583
-178,Donato (Donatello),Donato,746,752
-91,"Faenza, Ottaviano da",Ottaviano da Faenza,1001,1020
-91,"Faenza, Ottaviano da",da Faenza,1336,1345
-91,"Faenza, Pace da",Pace da Faenza,1331,1345
-91,"Faenza, Pace da",Pace,1508,1512
-91,"Faenza, Pace da",da Faenza,1011,1020
-162,"Fiesole, Fra Giovanni da (called Fra Angelico)",Fra Giovanni da Fiesole,1989,2012
-130,"Fonte, Jacopo della (Jacopo della Quercia)",Jacopo,543,549
-130,"Fonte, Jacopo della (Jacopo della Quercia)",Jacopo,2075,2081
-92,"Forlì, Guglielmo da",Guglielmo,62,71
-104,Forzore di Spinello,Forzore di Spinello,273,292
-59,Fra Giovanni,Giovanni,268,276
-59,Fra Giovanni,Giovanni,1716,1724
-49,Fra Jacopo da Turrita,Fra Jacopo da Turrita,2421,2442
-56,Fra Jacopo da Turrita,Fra Jacopo da Turrita,1396,1417
-91,Francesco (called di Maestro Giotto),Francesco,1195,1204
-91,Francesco (called di Maestro Giotto),Francesco,1616,1625
-91,Francesco (called di Maestro Giotto),Francesco,2235,2244
-198,Francesco Traini,Francesco Traini,1485,1501
-199,Francesco Traini,Francesco Traini,706,722
-199,Francesco Traini,Francesco Traini,961,977
-30,Fuccio,Fuccio,779,785
-30,Fuccio,Fuccio,1309,1315
-30,Fuccio,Fuccio,1963,1969
-55,"Gaddi, Gaddo",GADDO GADDI,0,11
-55,"Gaddi, Gaddo",GADDO GADDI,20,31
-55,"Gaddi, Gaddo",Gaddo,53,58
-55,"Gaddi, Gaddo",Gaddo,1809,1814
-56,"Gaddi, Gaddo",GADDO GADDI,8,19
-56,"Gaddi, Gaddo",Gaddo,57,62
-56,"Gaddi, Gaddo",Gaddo,172,177
-56,"Gaddi, Gaddo",Gaddo,1183,1188
-57,"Gaddi, Gaddo",GADDO GADDI,8,19
-57,"Gaddi, Gaddo",Gaddo Gaddi,840,851
-57,"Gaddi, Gaddo",Gaddo,49,54
-57,"Gaddi, Gaddo",Gaddo,428,433
-57,"Gaddi, Gaddo",Gaddo,1329,1334
-57,"Gaddi, Gaddo",Gaddo,1618,1623
-57,"Gaddi, Gaddo",Gaddo,1947,1952
-58,"Gaddi, Gaddo",GADDO GADDI,8,19
-58,"Gaddi, Gaddo",Gaddo Gaddi,912,923
-58,"Gaddi, Gaddo",Gaddo,550,555
-58,"Gaddi, Gaddo",Gaddo,705,710
-50,"Gaddi, Gaddo",Gaddo Gaddi,612,623
-50,"Gaddi, Gaddo",Gaddo Gaddi,1745,1756
-55,"Gaddi, Gaddo",GADDO GADDI,0,11
-55,"Gaddi, Gaddo",GADDO GADDI,20,31
-55,"Gaddi, Gaddo",Gaddo,53,58
-55,"Gaddi, Gaddo",Gaddo,1809,1814
-56,"Gaddi, Gaddo",GADDO GADDI,8,19
-56,"Gaddi, Gaddo",Gaddo,57,62
-56,"Gaddi, Gaddo",Gaddo,172,177
-56,"Gaddi, Gaddo",Gaddo,1183,1188
-57,"Gaddi, Gaddo",GADDO GADDI,8,19
-57,"Gaddi, Gaddo",Gaddo Gaddi,840,851
-57,"Gaddi, Gaddo",Gaddo,49,54
-57,"Gaddi, Gaddo",Gaddo,428,433
-57,"Gaddi, Gaddo",Gaddo,1329,1334
-57,"Gaddi, Gaddo",Gaddo,1618,1623
-57,"Gaddi, Gaddo",Gaddo,1947,1952
-58,"Gaddi, Gaddo",GADDO GADDI,8,19
-58,"Gaddi, Gaddo",Gaddo Gaddi,912,923
-58,"Gaddi, Gaddo",Gaddo,550,555
-58,"Gaddi, Gaddo",Gaddo,705,710
-177,"Gaddi, Gaddo",Gaddo Gaddi,753,764
-177,"Gaddi, Gaddo",Gaddo,903,908
-177,"Gaddi, Gaddo",GADDI,7,12
-177,"Gaddi, Gaddo",GADDI,28,33
-177,"Gaddi, Gaddo",Gaddi,705,710
-186,"Gaddi, Gaddo",Gaddo,332,337
-186,"Gaddi, Gaddo",GADDI,15,20
-217,"Gaddi, Gaddo",Gaddo,629,634
-217,"Gaddi, Gaddo",GADDI,7,12
-217,"Gaddi, Gaddo",GADDI,28,33
-217,"Gaddi, Gaddo",Gaddi,180,185
-217,"Gaddi, Gaddo",Gaddi,490,495
-219,"Gaddi, Gaddo",Gaddo,893,898
-219,"Gaddi, Gaddo",GADDI,15,20
-219,"Gaddi, Gaddo",Gaddi,628,633
-221,"Gaddi, Gaddo",Gaddo,1217,1222
-221,"Gaddi, Gaddo",GADDI,15,20
-221,"Gaddi, Gaddo",Gaddi,1126,1131
-185,"Gaddi, Giovanni",Giovanni,1232,1240
-185,"Gaddi, Giovanni",Giovanni,1339,1347
-185,"Gaddi, Giovanni",Giovanni,1417,1425
-185,"Gaddi, Giovanni",GADDI,15,20
-185,"Gaddi, Giovanni",Gaddi,585,590
-186,"Gaddi, Giovanni",Giovanni,242,250
-186,"Gaddi, Giovanni",GADDI,15,20
-217,"Gaddi, Giovanni",Giovanni,370,378
-217,"Gaddi, Giovanni",Giovanni,656,664
-217,"Gaddi, Giovanni",Giovanni,965,973
-217,"Gaddi, Giovanni",GADDI,7,12
-217,"Gaddi, Giovanni",GADDI,28,33
-217,"Gaddi, Giovanni",Gaddi,180,185
-217,"Gaddi, Giovanni",Gaddi,490,495
-221,"Gaddi, Giovanni",Giovanni Gaddi,1117,1131
-221,"Gaddi, Giovanni",GADDI,15,20
-177,"Gaddi, Taddeo",TADDEO GADDI,0,12
-177,"Gaddi, Taddeo",TADDEO GADDI,21,33
-177,"Gaddi, Taddeo",Taddeo Gaddi,698,710
-177,"Gaddi, Taddeo",Taddeo,743,749
-177,"Gaddi, Taddeo",Gaddi,759,764
-178,"Gaddi, Taddeo",TADDEO GADDI,8,20
-178,"Gaddi, Taddeo",Taddeo Gaddi,2135,2147
-179,"Gaddi, Taddeo",TADDEO GADDI,8,20
-179,"Gaddi, Taddeo",Taddeo Gaddi,1263,1275
-179,"Gaddi, Taddeo",Taddeo,1082,1088
-179,"Gaddi, Taddeo",Taddeo,1605,1611
-180,"Gaddi, Taddeo",TADDEO GADDI,8,20
-180,"Gaddi, Taddeo",Taddeo Gaddi,2240,2252
-180,"Gaddi, Taddeo",Taddeo,440,446
-181,"Gaddi, Taddeo",TADDEO GADDI,8,20
-181,"Gaddi, Taddeo",Taddeo,782,788
-181,"Gaddi, Taddeo",Taddeo,1457,1463
-181,"Gaddi, Taddeo",Taddeo,1783,1789
-181,"Gaddi, Taddeo",Taddeo,2145,2151
-182,"Gaddi, Taddeo",TADDEO GADDI,8,20
-182,"Gaddi, Taddeo",TADDEO,455,461
-182,"Gaddi, Taddeo",Taddeo,530,536
-182,"Gaddi, Taddeo",Taddeo,2019,2025
-183,"Gaddi, Taddeo",TADDEO GADDI,8,20
-183,"Gaddi, Taddeo",TADDEO GADDI,554,566
-183,"Gaddi, Taddeo",Taddeo,1736,1742
-183,"Gaddi, Taddeo",Taddeo,2219,2225
-184,"Gaddi, Taddeo",TADDEO GADDI,8,20
-185,"Gaddi, Taddeo",TADDEO GADDI,8,20
-185,"Gaddi, Taddeo",Taddeo,83,89
-185,"Gaddi, Taddeo",Taddeo,467,473
-185,"Gaddi, Taddeo",Taddeo,646,652
-185,"Gaddi, Taddeo",Taddeo,884,890
-185,"Gaddi, Taddeo",Taddeo,1158,1164
-185,"Gaddi, Taddeo",Taddeo,1405,1411
-185,"Gaddi, Taddeo",Taddeo,1996,2002
-185,"Gaddi, Taddeo",Gaddi,585,590
-186,"Gaddi, Taddeo",TADDEO GADDI,8,20
-186,"Gaddi, Taddeo",Taddeo,80,86
-186,"Gaddi, Taddeo",Taddeo,210,216
-186,"Gaddi, Taddeo",Taddeo,1031,1037
-186,"Gaddi, Taddeo",Taddeo,1150,1156
-57,"Gaddi, Taddeo",Taddeo,1724,1730
-57,"Gaddi, Taddeo",Taddeo,1764,1770
-57,"Gaddi, Taddeo",Taddeo,1962,1968
-57,"Gaddi, Taddeo",GADDI,14,19
-57,"Gaddi, Taddeo",Gaddi,846,851
-58,"Gaddi, Taddeo",Taddeo,579,585
-58,"Gaddi, Taddeo",GADDI,14,19
-58,"Gaddi, Taddeo",Gaddi,918,923
-81,"Gaddi, Taddeo",Taddeo Gaddi,593,605
-88,"Gaddi, Taddeo",Taddeo Gaddi,766,778
-89,"Gaddi, Taddeo",Taddeo Gaddi,1939,1951
-129,"Gaddi, Taddeo",Taddeo Gaddi,1992,2004
-177,"Gaddi, Taddeo",TADDEO GADDI,0,12
-177,"Gaddi, Taddeo",TADDEO GADDI,21,33
-177,"Gaddi, Taddeo",Taddeo Gaddi,698,710
-177,"Gaddi, Taddeo",Taddeo,743,749
-177,"Gaddi, Taddeo",Gaddi,759,764
-178,"Gaddi, Taddeo",TADDEO GADDI,8,20
-178,"Gaddi, Taddeo",Taddeo Gaddi,2135,2147
-179,"Gaddi, Taddeo",TADDEO GADDI,8,20
-179,"Gaddi, Taddeo",Taddeo Gaddi,1263,1275
-179,"Gaddi, Taddeo",Taddeo,1082,1088
-179,"Gaddi, Taddeo",Taddeo,1605,1611
-180,"Gaddi, Taddeo",TADDEO GADDI,8,20
-180,"Gaddi, Taddeo",Taddeo Gaddi,2240,2252
-180,"Gaddi, Taddeo",Taddeo,440,446
-181,"Gaddi, Taddeo",TADDEO GADDI,8,20
-181,"Gaddi, Taddeo",Taddeo,782,788
-181,"Gaddi, Taddeo",Taddeo,1457,1463
-181,"Gaddi, Taddeo",Taddeo,1783,1789
-181,"Gaddi, Taddeo",Taddeo,2145,2151
-182,"Gaddi, Taddeo",TADDEO GADDI,8,20
-182,"Gaddi, Taddeo",TADDEO,455,461
-182,"Gaddi, Taddeo",Taddeo,530,536
-182,"Gaddi, Taddeo",Taddeo,2019,2025
-183,"Gaddi, Taddeo",TADDEO GADDI,8,20
-183,"Gaddi, Taddeo",TADDEO GADDI,554,566
-183,"Gaddi, Taddeo",Taddeo,1736,1742
-183,"Gaddi, Taddeo",Taddeo,2219,2225
-184,"Gaddi, Taddeo",TADDEO GADDI,8,20
-185,"Gaddi, Taddeo",TADDEO GADDI,8,20
-185,"Gaddi, Taddeo",Taddeo,83,89
-185,"Gaddi, Taddeo",Taddeo,467,473
-185,"Gaddi, Taddeo",Taddeo,646,652
-185,"Gaddi, Taddeo",Taddeo,884,890
-185,"Gaddi, Taddeo",Taddeo,1158,1164
-185,"Gaddi, Taddeo",Taddeo,1405,1411
-185,"Gaddi, Taddeo",Taddeo,1996,2002
-185,"Gaddi, Taddeo",Gaddi,585,590
-186,"Gaddi, Taddeo",TADDEO GADDI,8,20
-186,"Gaddi, Taddeo",Taddeo,80,86
-186,"Gaddi, Taddeo",Taddeo,210,216
-186,"Gaddi, Taddeo",Taddeo,1031,1037
-186,"Gaddi, Taddeo",Taddeo,1150,1156
-217,"Gaddi, Taddeo",Taddeo Gaddi,173,185
-217,"Gaddi, Taddeo",Taddeo,636,642
-217,"Gaddi, Taddeo",Taddeo,884,890
-217,"Gaddi, Taddeo",GADDI,7,12
-217,"Gaddi, Taddeo",GADDI,28,33
-217,"Gaddi, Taddeo",Gaddi,490,495
-218,"Gaddi, Taddeo",Taddeo,890,896
-218,"Gaddi, Taddeo",Taddeo,907,913
-218,"Gaddi, Taddeo",GADDI,15,20
-221,"Gaddi, Taddeo",Taddeo,1230,1236
-221,"Gaddi, Taddeo",GADDI,15,20
-221,"Gaddi, Taddeo",Gaddi,1126,1131
-222,"Gaddi, Taddeo",Taddeo,1323,1329
-222,"Gaddi, Taddeo",Taddeo,1383,1389
-222,"Gaddi, Taddeo",GADDI,15,20
-87,"Ghiberti, Lorenzo (Lorenzo di Cione Ghiberti)",Lorenzo,2058,2065
-87,"Ghiberti, Lorenzo (Lorenzo di Cione Ghiberti)",Lorenzo,2280,2287
-87,"Ghiberti, Lorenzo (Lorenzo di Cione Ghiberti)",Ghiberti,2075,2083
-112,"Ghiberti, Lorenzo (Lorenzo di Cione Ghiberti)",Lorenzo Ghiberti,1895,1911
-127,"Ghiberti, Lorenzo (Lorenzo di Cione Ghiberti)",Lorenzo Ghiberti,2043,2059
-130,"Ghiberti, Lorenzo (Lorenzo di Cione Ghiberti)",Lorenzo Ghiberti,617,633
-125,"Ghirlandajo, Ridolfo",Ridolfo,2408,2415
-203,"Giottino (Tommaso, or Maso)",GIOTTINO,16,24
-203,"Giottino (Tommaso, or Maso)",GIOTTINO,49,57
-203,"Giottino (Tommaso, or Maso)",Giottino,1104,1112
-203,"Giottino (Tommaso, or Maso)",Giottino,1547,1555
-203,"Giottino (Tommaso, or Maso)",TOMMASO,0,7
-203,"Giottino (Tommaso, or Maso)",TOMMASO,33,40
-203,"Giottino (Tommaso, or Maso)",Tommaso,1077,1084
-204,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
-204,"Giottino (Tommaso, or Maso)",Giottino,641,649
-204,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
-205,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
-205,"Giottino (Tommaso, or Maso)",Giottino,1062,1070
-205,"Giottino (Tommaso, or Maso)",Giottino,1499,1507
-205,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
-205,"Giottino (Tommaso, or Maso)",Tommaso,956,963
-206,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
-206,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
-206,"Giottino (Tommaso, or Maso)",Tommaso,587,594
-207,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
-207,"Giottino (Tommaso, or Maso)",GIOTTINO,196,204
-207,"Giottino (Tommaso, or Maso)",Giottino,1747,1755
-207,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
-207,"Giottino (Tommaso, or Maso)",Tommaso,100,107
-207,"Giottino (Tommaso, or Maso)",Tommaso,295,302
-208,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
-208,"Giottino (Tommaso, or Maso)",Giottino,67,75
-208,"Giottino (Tommaso, or Maso)",Giottino,1690,1698
-208,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
-208,"Giottino (Tommaso, or Maso)",Tommaso,312,319
-208,"Giottino (Tommaso, or Maso)",Tommaso,1846,1853
-112,"Giottino (Tommaso, or Maso)",Giottino,1625,1633
-112,"Giottino (Tommaso, or Maso)",Maso,1612,1616
-71,Giotto,GIOTTO,0,6
-71,Giotto,GIOTTO,15,21
-71,Giotto,Giotto,332,338
-71,Giotto,Giotto,780,786
-71,Giotto,Giotto,1203,1209
-72,Giotto,GIOTTO,8,14
-72,Giotto,Giotto,184,190
-72,Giotto,Giotto,1225,1231
-72,Giotto,Giotto,1454,1460
-72,Giotto,Giotto,1581,1587
-72,Giotto,Giotto,1952,1958
-72,Giotto,Giotto,2353,2359
-73,Giotto,GIOTTO,8,14
-73,Giotto,Giotto,1001,1007
-73,Giotto,Giotto,1227,1233
-73,Giotto,Giotto,1884,1890
-73,Giotto,Giotto,2188,2194
-74,Giotto,GIOTTO,8,14
-75,Giotto,GIOTTO,8,14
-75,Giotto,Giotto,396,402
-75,Giotto,Giotto,684,690
-76,Giotto,GIOTTO,8,14
-76,Giotto,Giotto,951,957
-76,Giotto,Giotto,1189,1195
-76,Giotto,Giotto,2376,2382
-77,Giotto,GIOTTO,8,14
-77,Giotto,Giotto,392,398
-78,Giotto,GIOTTO,8,14
-78,Giotto,Giotto,625,631
-78,Giotto,Giotto,756,762
-78,Giotto,Giotto,983,989
-78,Giotto,Giotto,1201,1207
-78,Giotto,Giotto,1659,1665
-78,Giotto,Giotto,1980,1986
-78,Giotto,Giotto,2191,2197
-78,Giotto,Giotto,2420,2426
-79,Giotto,GIOTTO,8,14
-79,Giotto,Giotto,86,92
-79,Giotto,Giotto,428,434
-79,Giotto,Giotto,1243,1249
-80,Giotto,GIOTTO,8,14
-80,Giotto,Giotto,115,121
-80,Giotto,Giotto,260,266
-80,Giotto,Giotto,964,970
-80,Giotto,Giotto,2104,2110
-80,Giotto,Giotto,2410,2416
-81,Giotto,GIOTTO,8,14
-81,Giotto,Giotto,640,646
-81,Giotto,Giotto,1355,1361
-82,Giotto,GIOTTO,8,14
-82,Giotto,Giotto,625,631
-82,Giotto,Giotto,754,760
-82,Giotto,Giotto,925,931
-82,Giotto,Giotto,1123,1129
-82,Giotto,GIOTTO,1709,1715
-82,Giotto,Giotto,1810,1816
-82,Giotto,Giotto,1984,1990
-82,Giotto,Giotto,2114,2120
-82,Giotto,Giotto,2384,2390
-83,Giotto,GIOTTO,8,14
-83,Giotto,Giotto,188,194
-83,Giotto,Giotto,593,599
-83,Giotto,Giotto,693,699
-83,Giotto,Giotto,959,965
-83,Giotto,Giotto,1169,1175
-83,Giotto,Giotto,1392,1398
-83,Giotto,Giotto,2075,2081
-84,Giotto,GIOTTO,8,14
-84,Giotto,Giotto,2256,2262
-85,Giotto,GIOTTO,8,14
-85,Giotto,Giotto,286,292
-85,Giotto,Giotto,2230,2236
-86,Giotto,GIOTTO,8,14
-86,Giotto,Giotto,299,305
-86,Giotto,Giotto,694,700
-86,Giotto,Giotto,1066,1072
-86,Giotto,Giotto,1472,1478
-86,Giotto,Giotto,1713,1719
-86,Giotto,Giotto,1843,1849
-86,Giotto,Giotto,2142,2148
-86,Giotto,Giotto,2338,2344
-87,Giotto,GIOTTO,8,14
-87,Giotto,Giotto,766,772
-87,Giotto,Giotto,1633,1639
-87,Giotto,Giotto,2105,2111
-87,Giotto,Giotto,2341,2347
-88,Giotto,GIOTTO,8,14
-88,Giotto,Giotto,191,197
-88,Giotto,Giotto,516,522
-88,Giotto,Giotto,892,898
-89,Giotto,GIOTTO,8,14
-89,Giotto,Giotto,371,377
-89,Giotto,Giotto,564,570
-89,Giotto,Giotto,1449,1455
-89,Giotto,Giotto,1694,1700
-89,Giotto,Giotto,1709,1715
-90,Giotto,GIOTTO,8,14
-90,Giotto,Giotto,100,106
-90,Giotto,Giotto,382,388
-90,Giotto,Giotto,1964,1970
-91,Giotto,GIOTTO,8,14
-91,Giotto,Giotto,430,436
-91,Giotto,Giotto,710,716
-91,Giotto,Giotto,962,968
-91,Giotto,Giotto,1313,1319
-91,Giotto,Giotto,2264,2270
-92,Giotto,GIOTTO,8,14
-92,Giotto,Giotto,104,110
-92,Giotto,Giotto,236,242
-92,Giotto,Giotto,500,506
-92,Giotto,Giotto,842,848
-92,Giotto,Giotto,1404,1410
-92,Giotto,Giotto,1627,1633
-92,Giotto,Giotto,1849,1855
-92,Giotto,Giotto,1931,1937
-92,Giotto,Giotto,2019,2025
-92,Giotto,Giotto,2144,2150
-92,Giotto,Giotto,2196,2202
-93,Giotto,GIOTTO,8,14
-93,Giotto,Giotto,706,712
-93,Giotto,Giotto,844,850
-93,Giotto,Giotto,915,921
-93,Giotto,Giotto,1043,1049
-93,Giotto,Giotto,1135,1141
-93,Giotto,Giotto,1226,1232
-93,Giotto,Giotto,1947,1953
-93,Giotto,Giotto,1964,1970
-93,Giotto,Giotto,2126,2132
-93,Giotto,Giotto,2241,2247
-94,Giotto,GIOTTO,8,14
-94,Giotto,Giotto,78,84
-94,Giotto,Giotto,418,424
-94,Giotto,Giotto,675,681
-94,Giotto,Giotto,1455,1461
-94,Giotto,Giotto,1954,1960
-7,Giotto,Giotto,907,913
-8,Giotto,Giotto,1927,1933
-8,Giotto,Giotto,1982,1988
-8,Giotto,Giotto,2461,2467
-8,Giotto,Giotto,2719,2725
-8,Giotto,Giotto,2854,2860
-8,Giotto,Giotto,3505,3511
-8,Giotto,Giotto,4106,4112
-8,Giotto,Giotto,4328,4334
-25,Giotto,Giotto,1718,1724
-39,Giotto,Giotto,1400,1406
-50,Giotto,Giotto,864,870
-50,Giotto,Giotto,1120,1126
-50,Giotto,Giotto,1758,1764
-51,Giotto,Giotto,881,887
-51,Giotto,Giotto,948,954
-57,Giotto,Giotto,1816,1822
-57,Giotto,Giotto,1925,1931
-63,Giotto,Giotto,189,195
-71,Giotto,GIOTTO,0,6
-71,Giotto,GIOTTO,15,21
-71,Giotto,Giotto,332,338
-71,Giotto,Giotto,780,786
-71,Giotto,Giotto,1203,1209
-72,Giotto,GIOTTO,8,14
-72,Giotto,Giotto,184,190
-72,Giotto,Giotto,1225,1231
-72,Giotto,Giotto,1454,1460
-72,Giotto,Giotto,1581,1587
-72,Giotto,Giotto,1952,1958
-72,Giotto,Giotto,2353,2359
-73,Giotto,GIOTTO,8,14
-73,Giotto,Giotto,1001,1007
-73,Giotto,Giotto,1227,1233
-73,Giotto,Giotto,1884,1890
-73,Giotto,Giotto,2188,2194
-74,Giotto,GIOTTO,8,14
-75,Giotto,GIOTTO,8,14
-75,Giotto,Giotto,396,402
-75,Giotto,Giotto,684,690
-76,Giotto,GIOTTO,8,14
-76,Giotto,Giotto,951,957
-76,Giotto,Giotto,1189,1195
-76,Giotto,Giotto,2376,2382
-77,Giotto,GIOTTO,8,14
-77,Giotto,Giotto,392,398
-78,Giotto,GIOTTO,8,14
-78,Giotto,Giotto,625,631
-78,Giotto,Giotto,756,762
-78,Giotto,Giotto,983,989
-78,Giotto,Giotto,1201,1207
-78,Giotto,Giotto,1659,1665
-78,Giotto,Giotto,1980,1986
-78,Giotto,Giotto,2191,2197
-78,Giotto,Giotto,2420,2426
-79,Giotto,GIOTTO,8,14
-79,Giotto,Giotto,86,92
-79,Giotto,Giotto,428,434
-79,Giotto,Giotto,1243,1249
-80,Giotto,GIOTTO,8,14
-80,Giotto,Giotto,115,121
-80,Giotto,Giotto,260,266
-80,Giotto,Giotto,964,970
-80,Giotto,Giotto,2104,2110
-80,Giotto,Giotto,2410,2416
-81,Giotto,GIOTTO,8,14
-81,Giotto,Giotto,640,646
-81,Giotto,Giotto,1355,1361
-82,Giotto,GIOTTO,8,14
-82,Giotto,Giotto,625,631
-82,Giotto,Giotto,754,760
-82,Giotto,Giotto,925,931
-82,Giotto,Giotto,1123,1129
-82,Giotto,GIOTTO,1709,1715
-82,Giotto,Giotto,1810,1816
-82,Giotto,Giotto,1984,1990
-82,Giotto,Giotto,2114,2120
-82,Giotto,Giotto,2384,2390
-83,Giotto,GIOTTO,8,14
-83,Giotto,Giotto,188,194
-83,Giotto,Giotto,593,599
-83,Giotto,Giotto,693,699
-83,Giotto,Giotto,959,965
-83,Giotto,Giotto,1169,1175
-83,Giotto,Giotto,1392,1398
-83,Giotto,Giotto,2075,2081
-84,Giotto,GIOTTO,8,14
-84,Giotto,Giotto,2256,2262
-85,Giotto,GIOTTO,8,14
-85,Giotto,Giotto,286,292
-85,Giotto,Giotto,2230,2236
-86,Giotto,GIOTTO,8,14
-86,Giotto,Giotto,299,305
-86,Giotto,Giotto,694,700
-86,Giotto,Giotto,1066,1072
-86,Giotto,Giotto,1472,1478
-86,Giotto,Giotto,1713,1719
-86,Giotto,Giotto,1843,1849
-86,Giotto,Giotto,2142,2148
-86,Giotto,Giotto,2338,2344
-87,Giotto,GIOTTO,8,14
-87,Giotto,Giotto,766,772
-87,Giotto,Giotto,1633,1639
-87,Giotto,Giotto,2105,2111
-87,Giotto,Giotto,2341,2347
-88,Giotto,GIOTTO,8,14
-88,Giotto,Giotto,191,197
-88,Giotto,Giotto,516,522
-88,Giotto,Giotto,892,898
-89,Giotto,GIOTTO,8,14
-89,Giotto,Giotto,371,377
-89,Giotto,Giotto,564,570
-89,Giotto,Giotto,1449,1455
-89,Giotto,Giotto,1694,1700
-89,Giotto,Giotto,1709,1715
-90,Giotto,GIOTTO,8,14
-90,Giotto,Giotto,100,106
-90,Giotto,Giotto,382,388
-90,Giotto,Giotto,1964,1970
-91,Giotto,GIOTTO,8,14
-91,Giotto,Giotto,430,436
-91,Giotto,Giotto,710,716
-91,Giotto,Giotto,962,968
-91,Giotto,Giotto,1313,1319
-91,Giotto,Giotto,2264,2270
-92,Giotto,GIOTTO,8,14
-92,Giotto,Giotto,104,110
-92,Giotto,Giotto,236,242
-92,Giotto,Giotto,500,506
-92,Giotto,Giotto,842,848
-92,Giotto,Giotto,1404,1410
-92,Giotto,Giotto,1627,1633
-92,Giotto,Giotto,1849,1855
-92,Giotto,Giotto,1931,1937
-92,Giotto,Giotto,2019,2025
-92,Giotto,Giotto,2144,2150
-92,Giotto,Giotto,2196,2202
-93,Giotto,GIOTTO,8,14
-93,Giotto,Giotto,706,712
-93,Giotto,Giotto,844,850
-93,Giotto,Giotto,915,921
-93,Giotto,Giotto,1043,1049
-93,Giotto,Giotto,1135,1141
-93,Giotto,Giotto,1226,1232
-93,Giotto,Giotto,1947,1953
-93,Giotto,Giotto,1964,1970
-93,Giotto,Giotto,2126,2132
-93,Giotto,Giotto,2241,2247
-94,Giotto,GIOTTO,8,14
-94,Giotto,Giotto,78,84
-94,Giotto,Giotto,418,424
-94,Giotto,Giotto,675,681
-94,Giotto,Giotto,1455,1461
-94,Giotto,Giotto,1954,1960
-99,Giotto,Giotto,526,532
-99,Giotto,Giotto,727,733
-99,Giotto,Giotto,1045,1051
-99,Giotto,Giotto,1349,1355
-99,Giotto,Giotto,1377,1383
-109,Giotto,Giotto,151,157
-109,Giotto,Giotto,568,574
-109,Giotto,Giotto,1152,1158
-111,Giotto,Giotto,389,395
-111,Giotto,Giotto,671,677
-111,Giotto,Giotto,944,950
-111,Giotto,Giotto,1219,1225
-112,Giotto,Giotto,1785,1791
-112,Giotto,Giotto,2007,2013
-112,Giotto,Giotto,2117,2123
-113,Giotto,Giotto,1378,1384
-113,Giotto,Giotto,2232,2238
-117,Giotto,Giotto,539,545
-117,Giotto,Giotto,715,721
-118,Giotto,Giotto,169,175
-118,Giotto,Giotto,1825,1831
-123,Giotto,Giotto,445,451
-124,Giotto,Giotto,463,469
-124,Giotto,Giotto,1826,1832
-125,Giotto,Giotto,239,245
-126,Giotto,Giotto,683,689
-126,Giotto,Giotto,1994,2000
-126,Giotto,Giotto,2199,2205
-127,Giotto,Giotto,660,666
-161,Giotto,Giotto,282,288
-161,Giotto,Giotto,434,440
-161,Giotto,Giotto,464,470
-161,Giotto,Giotto,1009,1015
-161,Giotto,Giotto,1250,1256
-162,Giotto,Giotto,371,377
-162,Giotto,Giotto,1201,1207
-162,Giotto,Giotto,1221,1227
-168,Giotto,Giotto,553,559
-168,Giotto,Giotto,896,902
-170,Giotto,Giotto,2091,2097
-174,Giotto,Giotto,819,825
-177,Giotto,Giotto,799,805
-177,Giotto,Giotto,1341,1347
-177,Giotto,Giotto,1535,1541
-178,Giotto,Giotto,260,266
-178,Giotto,Giotto,978,984
-178,Giotto,Giotto,1738,1744
-180,Giotto,Giotto,245,251
-180,Giotto,Giotto,2274,2280
-35,Giovanni Pisano,GIOVANNI,20,28
-35,Giovanni Pisano,Giovanni,2151,2159
-35,Giovanni Pisano,Pisano,418,424
-36,Giovanni Pisano,Giovanni Pisano,682,697
-36,Giovanni Pisano,GIOVANNI,20,28
-36,Giovanni Pisano,Giovanni,133,141
-36,Giovanni Pisano,Giovanni,1215,1223
-36,Giovanni Pisano,Giovanni,1699,1707
-36,Giovanni Pisano,Giovanni,2262,2270
-37,Giovanni Pisano,GIOVANNI,20,28
-37,Giovanni Pisano,Giovanni,206,214
-37,Giovanni Pisano,Giovanni,797,805
-37,Giovanni Pisano,Giovanni,1401,1409
-37,Giovanni Pisano,Giovanni,1851,1859
-38,Giovanni Pisano,GIOVANNI,20,28
-38,Giovanni Pisano,Giovanni,118,126
-38,Giovanni Pisano,Giovanni,2128,2136
-39,Giovanni Pisano,Giovanni Pisano,192,207
-39,Giovanni Pisano,Giovanni Pisano,263,278
-39,Giovanni Pisano,GIOVANNI,20,28
-39,Giovanni Pisano,Giovanni,505,513
-39,Giovanni Pisano,Giovanni,1052,1060
-39,Giovanni Pisano,Giovanni,1245,1253
-39,Giovanni Pisano,Giovanni,1772,1780
-40,Giovanni Pisano,Giovanni Pisano,2051,2066
-40,Giovanni Pisano,GIOVANNI,20,28
-40,Giovanni Pisano,Giovanni,331,339
-40,Giovanni Pisano,Giovanni,422,430
-40,Giovanni Pisano,Giovanni,653,661
-40,Giovanni Pisano,Giovanni,719,727
-40,Giovanni Pisano,Giovanni,1403,1411
-40,Giovanni Pisano,Giovanni,1469,1477
-40,Giovanni Pisano,Giovanni,2213,2221
-41,Giovanni Pisano,GIOVANNI,20,28
-41,Giovanni Pisano,Giovanni,1121,1129
-41,Giovanni Pisano,Giovanni,1477,1485
-42,Giovanni Pisano,Giovanni Pisano,1665,1680
-42,Giovanni Pisano,GIOVANNI,20,28
-42,Giovanni Pisano,Giovanni,553,561
-42,Giovanni Pisano,Giovanni,773,781
-42,Giovanni Pisano,Giovanni,1180,1188
-43,Giovanni Pisano,GIOVANNI,20,28
-43,Giovanni Pisano,Giovanni,814,822
-43,Giovanni Pisano,Giovanni,1187,1195
-43,Giovanni Pisano,Giovanni,1575,1583
-43,Giovanni Pisano,Giovanni,1722,1730
-43,Giovanni Pisano,Giovanni,2032,2040
-44,Giovanni Pisano,GIOVANNI,20,28
-44,Giovanni Pisano,GIOVANNI,513,521
-29,Giovanni Pisano,GIOVANNI PISANO,87,102
-29,Giovanni Pisano,GIOVANNI,12,20
-29,Giovanni Pisano,GIOVANNI,49,57
-29,Giovanni Pisano,Giovanni,280,288
-29,Giovanni Pisano,Giovanni,934,942
-29,Giovanni Pisano,PISANO,76,82
-29,Giovanni Pisano,Pisano,774,780
-35,Giovanni Pisano,GIOVANNI,20,28
-35,Giovanni Pisano,Giovanni,2151,2159
-35,Giovanni Pisano,Pisano,418,424
-36,Giovanni Pisano,Giovanni Pisano,682,697
-36,Giovanni Pisano,GIOVANNI,20,28
-36,Giovanni Pisano,Giovanni,133,141
-36,Giovanni Pisano,Giovanni,1215,1223
-36,Giovanni Pisano,Giovanni,1699,1707
-36,Giovanni Pisano,Giovanni,2262,2270
-37,Giovanni Pisano,GIOVANNI,20,28
-37,Giovanni Pisano,Giovanni,206,214
-37,Giovanni Pisano,Giovanni,797,805
-37,Giovanni Pisano,Giovanni,1401,1409
-37,Giovanni Pisano,Giovanni,1851,1859
-38,Giovanni Pisano,GIOVANNI,20,28
-38,Giovanni Pisano,Giovanni,118,126
-38,Giovanni Pisano,Giovanni,2128,2136
-39,Giovanni Pisano,Giovanni Pisano,192,207
-39,Giovanni Pisano,Giovanni Pisano,263,278
-39,Giovanni Pisano,GIOVANNI,20,28
-39,Giovanni Pisano,Giovanni,505,513
-39,Giovanni Pisano,Giovanni,1052,1060
-39,Giovanni Pisano,Giovanni,1245,1253
-39,Giovanni Pisano,Giovanni,1772,1780
-40,Giovanni Pisano,Giovanni Pisano,2051,2066
-40,Giovanni Pisano,GIOVANNI,20,28
-40,Giovanni Pisano,Giovanni,331,339
-40,Giovanni Pisano,Giovanni,422,430
-40,Giovanni Pisano,Giovanni,653,661
-40,Giovanni Pisano,Giovanni,719,727
-40,Giovanni Pisano,Giovanni,1403,1411
-40,Giovanni Pisano,Giovanni,1469,1477
-40,Giovanni Pisano,Giovanni,2213,2221
-41,Giovanni Pisano,GIOVANNI,20,28
-41,Giovanni Pisano,Giovanni,1121,1129
-41,Giovanni Pisano,Giovanni,1477,1485
-42,Giovanni Pisano,Giovanni Pisano,1665,1680
-42,Giovanni Pisano,GIOVANNI,20,28
-42,Giovanni Pisano,Giovanni,553,561
-42,Giovanni Pisano,Giovanni,773,781
-42,Giovanni Pisano,Giovanni,1180,1188
-43,Giovanni Pisano,GIOVANNI,20,28
-43,Giovanni Pisano,Giovanni,814,822
-43,Giovanni Pisano,Giovanni,1187,1195
-43,Giovanni Pisano,Giovanni,1575,1583
-43,Giovanni Pisano,Giovanni,1722,1730
-43,Giovanni Pisano,Giovanni,2032,2040
-44,Giovanni Pisano,GIOVANNI,20,28
-44,Giovanni Pisano,GIOVANNI,513,521
-76,Giovanni Pisano,Giovanni,2311,2319
-76,Giovanni Pisano,Pisano,2336,2342
-97,Giovanni Pisano,Giovanni,161,169
-97,Giovanni Pisano,Giovanni,960,968
-97,Giovanni Pisano,Giovanni,1107,1115
-97,Giovanni Pisano,Giovanni,1629,1637
-98,Giovanni Pisano,Giovanni,331,339
-98,Giovanni Pisano,Giovanni,821,829
-98,Giovanni Pisano,Giovanni,1174,1182
-98,Giovanni Pisano,Giovanni,1690,1698
-220,Giovanni Pisano,Giovanni Pisano,1156,1171
-208,Giovanni Tossicani,Giovanni Tossicani,114,132
-208,Giovanni Tossicani,Giovanni Tossicani,243,261
-208,Giovanni Tossicani,Giovanni Tossicani,1803,1821
-208,Giovanni Tossicani,Giovanni,155,163
-208,Giovanni Tossicani,Giovanni,1236,1244
-182,Giovanni da Milano,Giovanni da Milano,668,686
-183,Giovanni da Milano,Giovanni,931,939
-185,Giovanni da Milano,Giovanni da Milano,1339,1357
-185,Giovanni da Milano,Giovanni,1232,1240
-185,Giovanni da Milano,Giovanni,1417,1425
-164,Giovanni da Pistoia,Giovanni da Pistoia,1672,1691
-211,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),GIOVANNI DAL PONTE,0,18
-211,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),GIOVANNI DAL PONTE,27,45
-211,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,871,879
-212,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),GIOVANNI DAL PONTE,8,26
-212,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni dal Ponte,1233,1251
-212,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,726,734
-212,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,1430,1438
-212,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,2249,2257
-213,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),GIOVANNI DAL PONTE,8,26
-213,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni dal Ponte,379,397
-213,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,547,555
-208,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni dal Ponte,155,173
-208,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,114,122
-208,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,243,251
-208,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,1236,1244
-208,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,1803,1811
-221,Giuliano,Giuliano,1794,1802
-15,Guglielmo,Guglielmo,995,1004
-15,Guglielmo,Guglielmo,1133,1142
-105,Jacobello,Jacobello,709,718
-104,Jacopo Lanfrani,Jacopo Lanfrani,2108,2123
-104,Jacopo Lanfrani,Jacopo,1283,1289
-105,Jacopo Lanfrani,Jacopo,93,99
-105,Jacopo Lanfrani,Jacopo,446,452
-14,Jacopo Tedesco (Lapo),LAPO,19,23
-14,Jacopo Tedesco (Lapo),Lapo,86,90
-18,Jacopo Tedesco (Lapo),Jacopo Tedesco,2042,2056
-18,Jacopo Tedesco (Lapo),LAPO,19,23
-18,Jacopo Tedesco (Lapo),Lapo,660,664
-19,Jacopo Tedesco (Lapo),Jacopo Tedesco,1556,1570
-19,Jacopo Tedesco (Lapo),Jacopo,2196,2202
-19,Jacopo Tedesco (Lapo),Jacopo,2331,2337
-19,Jacopo Tedesco (Lapo),LAPO,19,23
-20,Jacopo Tedesco (Lapo),Jacopo,294,300
-20,Jacopo Tedesco (Lapo),LAPO,19,23
-20,Jacopo Tedesco (Lapo),Lapo,305,309
-23,Jacopo Tedesco (Lapo),LAPO,19,23
-23,Jacopo Tedesco (Lapo),Lapo,1191,1195
-24,Jacopo Tedesco (Lapo),LAPO,19,23
-24,Jacopo Tedesco (Lapo),Lapo,228,232
-24,Jacopo Tedesco (Lapo),Lapo,818,822
-65,Jacopo Tedesco (Lapo),Lapo,631,635
-65,Jacopo Tedesco (Lapo),Lapo,1248,1252
-174,Jacopo Tedesco (Lapo),Lapo,598,602
-130,Jacopo della Quercia (or della Fonte),Jacopo della Quercia,543,563
-130,Jacopo della Quercia (or della Fonte),Jacopo,2075,2081
-194,Jacopo di Cione Orcagna,Jacopo,125,131
-194,Jacopo di Cione Orcagna,Jacopo,222,228
-194,Jacopo di Cione Orcagna,DI CIONE ORCAGNA,15,31
-197,Jacopo di Cione Orcagna,Jacopo,2214,2220
-197,Jacopo di Cione Orcagna,DI CIONE ORCAGNA,15,31
-198,Jacopo di Cione Orcagna,DI CIONE ORCAGNA,15,31
-14,Lapo (Maestro Jacopo Tedesco),LAPO,19,23
-14,Lapo (Maestro Jacopo Tedesco),Lapo,86,90
-18,Lapo (Maestro Jacopo Tedesco),LAPO,19,23
-18,Lapo (Maestro Jacopo Tedesco),Lapo,660,664
-18,Lapo (Maestro Jacopo Tedesco),Maestro Jacopo Tedesco,2034,2056
-19,Lapo (Maestro Jacopo Tedesco),LAPO,19,23
-19,Lapo (Maestro Jacopo Tedesco),Maestro Jacopo Tedesco,1548,1570
-20,Lapo (Maestro Jacopo Tedesco),LAPO,19,23
-20,Lapo (Maestro Jacopo Tedesco),Lapo,305,309
-23,Lapo (Maestro Jacopo Tedesco),LAPO,19,23
-23,Lapo (Maestro Jacopo Tedesco),Lapo,1191,1195
-24,Lapo (Maestro Jacopo Tedesco),LAPO,19,23
-24,Lapo (Maestro Jacopo Tedesco),Lapo,228,232
-24,Lapo (Maestro Jacopo Tedesco),Lapo,818,822
-65,Lapo (Maestro Jacopo Tedesco),Lapo,631,635
-65,Lapo (Maestro Jacopo Tedesco),Lapo,1248,1252
-174,Lapo (Maestro Jacopo Tedesco),Lapo,598,602
-117,"Laurati, Pietro (called Lorenzetti)",PIETRO LAURATI,8,22
-117,"Laurati, Pietro (called Lorenzetti)",Pietro Laurati,61,75
-117,"Laurati, Pietro (called Lorenzetti)",PIETRO,24,30
-117,"Laurati, Pietro (called Lorenzetti)",Pietro,1285,1291
-117,"Laurati, Pietro (called Lorenzetti)",LORENZETTI,31,41
-118,"Laurati, Pietro (called Lorenzetti)",PIETRO LAURATI,8,22
-118,"Laurati, Pietro (called Lorenzetti)",PIETRO,824,830
-118,"Laurati, Pietro (called Lorenzetti)",Pietro,952,958
-118,"Laurati, Pietro (called Lorenzetti)",LAURATI,806,813
-118,"Laurati, Pietro (called Lorenzetti)",LORENZETTI,831,841
-119,"Laurati, Pietro (called Lorenzetti)",PIETRO LAURATI,8,22
-120,"Laurati, Pietro (called Lorenzetti)",PIETRO LAURATI,8,22
-120,"Laurati, Pietro (called Lorenzetti)",Pietro Laurati,1161,1175
-120,"Laurati, Pietro (called Lorenzetti)",Pietro,1249,1255
-120,"Laurati, Pietro (called Lorenzetti)",Pietro,1340,1346
-120,"Laurati, Pietro (called Lorenzetti)",Pietro,1643,1649
-120,"Laurati, Pietro (called Lorenzetti)",Pietro,1988,1994
-120,"Laurati, Pietro (called Lorenzetti)",Pietro,2133,2139
-92,"Laurati, Pietro (called Lorenzetti)",Pietro Laurati,255,269
-92,"Laurati, Pietro (called Lorenzetti)",Pietro,323,329
-104,Leonardo di Ser Giovanni,Leonardo di Ser Giovanni,1083,1107
-43,Lino,Lino,1780,1784
-48,Lippo,lippo,270,275
-48,Lippo,Lippo,2171,2176
-208,Lippo,Lippo,179,184
-172,Lippo Memmi,Lippo Memmi,377,388
-172,Lippo Memmi,LIPPO MEMMI,1902,1913
-172,Lippo Memmi,Lippo,976,981
-172,Lippo Memmi,Lippo,2034,2039
-172,Lippo Memmi,Memmi,2018,2023
-173,Lippo Memmi,Lippo,269,274
-173,Lippo Memmi,Lippo,336,341
-173,Lippo Memmi,Lippo,504,509
-173,Lippo Memmi,Lippo,2179,2184
-174,Lippo Memmi,Lippo Memmi,1750,1761
-174,Lippo Memmi,Lippo,306,311
-174,Lippo Memmi,MEMMI,281,286
-174,Lippo Memmi,MEMMI,418,423
-174,Lippo Memmi,MEMMI,1174,1179
-117,"Lorenzetti, Pietro (Laurati)",PIETRO LORENZETTI,24,41
-117,"Lorenzetti, Pietro (Laurati)",PIETRO,8,14
-117,"Lorenzetti, Pietro (Laurati)",Pietro,61,67
-117,"Lorenzetti, Pietro (Laurati)",Pietro,1285,1291
-117,"Lorenzetti, Pietro (Laurati)",LAURATI,15,22
-117,"Lorenzetti, Pietro (Laurati)",Laurati,68,75
-118,"Lorenzetti, Pietro (Laurati)",PIETRO LORENZETTI,824,841
-118,"Lorenzetti, Pietro (Laurati)",PIETRO,8,14
-118,"Lorenzetti, Pietro (Laurati)",Pietro,952,958
-118,"Lorenzetti, Pietro (Laurati)",LAURATI,15,22
-118,"Lorenzetti, Pietro (Laurati)",LAURATI,806,813
-119,"Lorenzetti, Pietro (Laurati)",PIETRO,8,14
-119,"Lorenzetti, Pietro (Laurati)",LAURATI,15,22
-120,"Lorenzetti, Pietro (Laurati)",PIETRO,8,14
-120,"Lorenzetti, Pietro (Laurati)",Pietro,1161,1167
-120,"Lorenzetti, Pietro (Laurati)",Pietro,1249,1255
-120,"Lorenzetti, Pietro (Laurati)",Pietro,1340,1346
-120,"Lorenzetti, Pietro (Laurati)",Pietro,1643,1649
-120,"Lorenzetti, Pietro (Laurati)",Pietro,1988,1994
-120,"Lorenzetti, Pietro (Laurati)",Pietro,2133,2139
-120,"Lorenzetti, Pietro (Laurati)",LAURATI,15,22
-120,"Lorenzetti, Pietro (Laurati)",Laurati,1168,1175
-92,"Lorenzetti, Pietro (Laurati)",Pietro,255,261
-92,"Lorenzetti, Pietro (Laurati)",Pietro,323,329
-92,"Lorenzetti, Pietro (Laurati)",Laurati,262,269
-34,Maglione,Maglione,711,719
-197,"Marco, Tommaso di",Tommaso di Marco,2006,2022
-63,Margaritone,MARGARITONE,0,11
-63,Margaritone,MARGARITONE,20,31
-63,Margaritone,Margaritone,284,295
-63,Margaritone,Margaritone,489,500
-64,Margaritone,MARGARITONE,8,19
-64,Margaritone,Margaritone,1964,1975
-65,Margaritone,MARGARITONE,8,19
-65,Margaritone,Margaritone,723,734
-65,Margaritone,Margaritone,1188,1199
-65,Margaritone,Margaritone,1980,1991
-66,Margaritone,MARGARITONE,8,19
-66,Margaritone,Margaritone,1349,1360
-67,Margaritone,MARGARITONE,8,19
-67,Margaritone,Margaritone,197,208
-67,Margaritone,Margaritone,623,634
-38,Margaritone,Margaritone,84,95
-118,Margaritone,Margaritone,1346,1357
-198,Mariotto,Mariotto,1129,1137
-221,Michele da Milano,Michele da Milano,1091,1108
-208,Michelino,Michelino,144,153
-172,Neroccio,Neroccio,1396,1404
-29,Niccola Pisano,NICCOLA PISANO,68,82
-29,Niccola Pisano,Niccola Pisano,766,780
-29,Niccola Pisano,NICCOLA,0,7
-29,Niccola Pisano,NICCOLA,37,44
-29,Niccola Pisano,Niccola,268,275
-29,Niccola Pisano,PISANO,96,102
-30,Niccola Pisano,Niccola Pisano,362,376
-30,Niccola Pisano,NICCOLA,8,15
-30,Niccola Pisano,Niccola,402,409
-30,Niccola Pisano,Niccola,1235,1242
-30,Niccola Pisano,Niccola,1921,1928
-31,Niccola Pisano,NICCOLA,8,15
-31,Niccola Pisano,Niccola,230,237
-31,Niccola Pisano,Niccola,888,895
-31,Niccola Pisano,Niccola,1319,1326
-31,Niccola Pisano,Niccola,1977,1984
-31,Niccola Pisano,Niccola,2019,2026
-32,Niccola Pisano,NICCOLA,8,15
-32,Niccola Pisano,Niccola,686,693
-32,Niccola Pisano,Niccola,1295,1302
-32,Niccola Pisano,Niccola,2073,2080
-33,Niccola Pisano,Niccola Pisano,1571,1585
-33,Niccola Pisano,NICCOLA,8,15
-33,Niccola Pisano,Niccola,543,550
-33,Niccola Pisano,Niccola,665,672
-33,Niccola Pisano,Niccola,1197,1204
-33,Niccola Pisano,Niccola,1687,1694
-33,Niccola Pisano,Niccola,2289,2296
-34,Niccola Pisano,NICCOLA,8,15
-34,Niccola Pisano,Niccola,291,298
-34,Niccola Pisano,Niccola,943,950
-34,Niccola Pisano,Niccola,964,971
-34,Niccola Pisano,Niccola,1962,1969
-34,Niccola Pisano,Niccola,2089,2096
-35,Niccola Pisano,Niccola Pisano,410,424
-35,Niccola Pisano,NICCOLA,8,15
-35,Niccola Pisano,Niccola,49,56
-35,Niccola Pisano,Niccola,508,515
-35,Niccola Pisano,Niccola,1145,1152
-35,Niccola Pisano,Niccola,1235,1242
-35,Niccola Pisano,Niccola,2111,2118
-35,Niccola Pisano,Niccola,2363,2370
-36,Niccola Pisano,NICCOLA,8,15
-36,Niccola Pisano,Niccola,2071,2078
-36,Niccola Pisano,Niccola,2233,2240
-36,Niccola Pisano,Pisano,691,697
-37,Niccola Pisano,NICCOLA,8,15
-37,Niccola Pisano,Niccola,517,524
-29,Niccola Pisano,NICCOLA PISANO,68,82
-29,Niccola Pisano,Niccola Pisano,766,780
-29,Niccola Pisano,NICCOLA,0,7
-29,Niccola Pisano,NICCOLA,37,44
-29,Niccola Pisano,Niccola,268,275
-29,Niccola Pisano,PISANO,96,102
-30,Niccola Pisano,Niccola Pisano,362,376
-30,Niccola Pisano,NICCOLA,8,15
-30,Niccola Pisano,Niccola,402,409
-30,Niccola Pisano,Niccola,1235,1242
-30,Niccola Pisano,Niccola,1921,1928
-31,Niccola Pisano,NICCOLA,8,15
-31,Niccola Pisano,Niccola,230,237
-31,Niccola Pisano,Niccola,888,895
-31,Niccola Pisano,Niccola,1319,1326
-31,Niccola Pisano,Niccola,1977,1984
-31,Niccola Pisano,Niccola,2019,2026
-32,Niccola Pisano,NICCOLA,8,15
-32,Niccola Pisano,Niccola,686,693
-32,Niccola Pisano,Niccola,1295,1302
-32,Niccola Pisano,Niccola,2073,2080
-33,Niccola Pisano,Niccola Pisano,1571,1585
-33,Niccola Pisano,NICCOLA,8,15
-33,Niccola Pisano,Niccola,543,550
-33,Niccola Pisano,Niccola,665,672
-33,Niccola Pisano,Niccola,1197,1204
-33,Niccola Pisano,Niccola,1687,1694
-33,Niccola Pisano,Niccola,2289,2296
-34,Niccola Pisano,NICCOLA,8,15
-34,Niccola Pisano,Niccola,291,298
-34,Niccola Pisano,Niccola,943,950
-34,Niccola Pisano,Niccola,964,971
-34,Niccola Pisano,Niccola,1962,1969
-34,Niccola Pisano,Niccola,2089,2096
-35,Niccola Pisano,Niccola Pisano,410,424
-35,Niccola Pisano,NICCOLA,8,15
-35,Niccola Pisano,Niccola,49,56
-35,Niccola Pisano,Niccola,508,515
-35,Niccola Pisano,Niccola,1145,1152
-35,Niccola Pisano,Niccola,1235,1242
-35,Niccola Pisano,Niccola,2111,2118
-35,Niccola Pisano,Niccola,2363,2370
-36,Niccola Pisano,NICCOLA,8,15
-36,Niccola Pisano,Niccola,2071,2078
-36,Niccola Pisano,Niccola,2233,2240
-36,Niccola Pisano,Pisano,691,697
-37,Niccola Pisano,NICCOLA,8,15
-37,Niccola Pisano,Niccola,517,524
-40,Niccola Pisano,NICCOLA,8,15
-40,Niccola Pisano,Niccola,40,47
-40,Niccola Pisano,Niccola,312,319
-40,Niccola Pisano,Pisano,2060,2066
-41,Niccola Pisano,NICCOLA,8,15
-43,Niccola Pisano,NICCOLA,8,15
-43,Niccola Pisano,Niccola,1386,1393
-43,Niccola Pisano,Niccola,1674,1681
-43,Niccola Pisano,Niccola,2020,2027
-44,Niccola Pisano,NICCOLA,8,15
-76,Niccola Pisano,Niccola Pisano,2328,2342
-97,Niccola Pisano,Niccola,174,181
-97,Niccola Pisano,Niccola,973,980
-127,Nino Pisano,Nino,2268,2272
-127,Nino Pisano,PISANO,15,21
-130,Nino Pisano,Nino Pisano,1506,1517
-130,Nino Pisano,Nino,1587,1591
-130,Nino Pisano,Nino,2241,2245
-130,Nino Pisano,PISANO,15,21
-130,Nino Pisano,Pisano,1027,1033
-131,Nino Pisano,Nino,92,96
-131,Nino Pisano,Nino,417,421
-131,Nino Pisano,Nino,695,699
-131,Nino Pisano,NINO,803,807
-131,Nino Pisano,Nino,1012,1016
-131,Nino Pisano,PISANO,15,21
-131,Nino Pisano,PISANO,832,838
-103,Paolo,Paolo,1065,1070
-221,"Perugia, Piero da",Piero da Perugia,897,913
-105,Pesarese,Pesarese,1102,1110
-103,Pietro,Pietro,1054,1060
-105,Pietro Paolo,Pietro Paolo,723,735
-130,"Pisano, Tommaso",Tommaso Pisano,1019,1033
-130,"Pisano, Tommaso",Tommaso,1209,1216
-130,"Pisano, Tommaso",PISANO,15,21
-130,"Pisano, Tommaso",Pisano,1511,1517
-86,Raffaello Sanzio (or da Urbino),Raffaello,1772,1781
-113,"Sanese, Ugolino (Ugolino da Siena)",UGOLINO SANESE,45,59
-113,"Sanese, Ugolino (Ugolino da Siena)",Ugolino Sanese,920,934
-113,"Sanese, Ugolino (Ugolino da Siena)",Ugolino,1072,1079
-113,"Sanese, Ugolino (Ugolino da Siena)",Ugolino,1431,1438
-113,"Sanese, Ugolino (Ugolino da Siena)",Ugolino,2402,2409
-113,"Siena, Ugolino da (Sanese)",UGOLINO,45,52
-113,"Siena, Ugolino da (Sanese)",Ugolino,920,927
-113,"Siena, Ugolino da (Sanese)",Ugolino,1072,1079
-113,"Siena, Ugolino da (Sanese)",Ugolino,1431,1438
-113,"Siena, Ugolino da (Sanese)",Ugolino,2402,2409
-113,"Siena, Ugolino da (Sanese)",da Siena,936,944
-113,"Siena, Ugolino da (Sanese)",SANESE,53,59
-113,"Siena, Ugolino da (Sanese)",Sanese,928,934
-193,Sollazzino,Sollazzino,340,350
-67,"Spinello, Aretino",Spinello,651,659
-109,Stefano,STEFANO,0,7
-109,Stefano,STEFANO,35,42
-109,Stefano,Stefano,106,113
-110,Stefano,STEFANO,8,15
-110,Stefano,Stefano,963,970
-110,Stefano,Stefano,1881,1888
-110,Stefano,Stefano,2202,2209
-111,Stefano,STEFANO,8,15
-111,Stefano,Stefano,965,972
-111,Stefano,Stefano,1901,1908
-112,Stefano,STEFANO,8,15
-112,Stefano,Stefano,369,376
-112,Stefano,Stefano,1692,1699
-112,Stefano,Stefano,1991,1998
-112,Stefano,Stefano,2047,2054
-113,Stefano,STEFANO,8,15
-113,Stefano,Stefano,489,496
-113,Stefano,Stefano,1034,1041
-114,Stefano,STEFANO,8,15
-114,Stefano,Stefano,77,84
-92,Stefano,Stefano,296,303
-203,Stefano,Stefano,1088,1095
-203,Stefano,Stefano,1387,1394
-204,Stefano,Stefano,111,118
-204,Stefano,Stefano,619,626
-204,Stefano,Stefano,692,699
-221,Stefano da Verona,Stefano da Verona,534,551
-51,Tafi,TAFI,15,19
-51,Tafi,Tafi,278,282
-51,Tafi,Tafi,487,491
-51,Tafi,Tafi,1235,1239
-203,"Tommaso (or Maso, called Giottino)",TOMMASO,0,7
-203,"Tommaso (or Maso, called Giottino)",TOMMASO,33,40
-203,"Tommaso (or Maso, called Giottino)",Tommaso,1077,1084
-203,"Tommaso (or Maso, called Giottino)",GIOTTINO,16,24
-203,"Tommaso (or Maso, called Giottino)",GIOTTINO,49,57
-203,"Tommaso (or Maso, called Giottino)",Giottino,1104,1112
-203,"Tommaso (or Maso, called Giottino)",Giottino,1547,1555
-204,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
-204,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
-204,"Tommaso (or Maso, called Giottino)",Giottino,641,649
-205,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
-205,"Tommaso (or Maso, called Giottino)",Tommaso,956,963
-205,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
-205,"Tommaso (or Maso, called Giottino)",Giottino,1062,1070
-205,"Tommaso (or Maso, called Giottino)",Giottino,1499,1507
-206,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
-206,"Tommaso (or Maso, called Giottino)",Tommaso,587,594
-206,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
-207,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
-207,"Tommaso (or Maso, called Giottino)",Tommaso,100,107
-207,"Tommaso (or Maso, called Giottino)",Tommaso,295,302
-207,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
-207,"Tommaso (or Maso, called Giottino)",GIOTTINO,196,204
-207,"Tommaso (or Maso, called Giottino)",Giottino,1747,1755
-208,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
-208,"Tommaso (or Maso, called Giottino)",Tommaso,312,319
-208,"Tommaso (or Maso, called Giottino)",Tommaso,1846,1853
-208,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
-208,"Tommaso (or Maso, called Giottino)",Giottino,67,75
-208,"Tommaso (or Maso, called Giottino)",Giottino,1690,1698
-112,"Tommaso (or Maso, called Giottino)",Maso,1612,1616
-112,"Tommaso (or Maso, called Giottino)",Giottino,1625,1633
-86,"Urbino, Raffaello da (Raffaello Sanzio)",Raffaello da Urbino,1772,1791
-31,"Vasari, Giorgio",Giorgio Vasari,1164,1178
-39,"Vasari, Giorgio",Giorgio Vasari,37,51
-50,Vicino,Vicino,777,783
-57,Vicino,Vicino,1982,1988
+paragraph_id,name,match_string,start_pos,end_pos
+225,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+225,Agnolo (of Siena),Agnolo,150,156
+225,Agnolo (of Siena),Agnolo,851,857
+225,Agnolo (of Siena),Agnolo,2111,2117
+225,Agnolo (of Siena),Agnolo,2218,2224
+225,Agnolo (of Siena),Agnolo,2484,2490
+226,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+226,Agnolo (of Siena),Agnolo,231,237
+226,Agnolo (of Siena),Agnolo,1542,1548
+226,Agnolo (of Siena),Agnolo,1769,1775
+227,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+227,Agnolo (of Siena),Agnolo of Siena,540,555
+227,Agnolo (of Siena),Agnolo of Siena,1078,1093
+227,Agnolo (of Siena),Agnolo,1308,1314
+228,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+229,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+230,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+230,Agnolo (of Siena),Agnolo,38,44
+230,Agnolo (of Siena),Agnolo,709,715
+232,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+232,Agnolo (of Siena),Agnolo,767,773
+233,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+233,Agnolo (of Siena),Agnolo,471,477
+234,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+235,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+235,Agnolo (of Siena),Agnolo,607,613
+236,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+236,Agnolo (of Siena),Agnolo,397,403
+236,Agnolo (of Siena),Agnolo,917,923
+237,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+237,Agnolo (of Siena),Agnolo,508,514
+238,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+239,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+241,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+241,Agnolo (of Siena),Agnolo,69,75
+241,Agnolo (of Siena),Agnolo,1163,1169
+242,Agnolo (of Siena),AGNOLO OF SIENA,21,36
+242,Agnolo (of Siena),Agnolo,469,475
+131,Agnolo (of Siena),Agnolo,891,897
+407,Agnolo Gaddi,AGNOLO GADDI,8,20
+407,Agnolo Gaddi,Agnolo,326,332
+407,Agnolo Gaddi,Agnolo,611,617
+407,Agnolo Gaddi,Gaddi,147,152
+407,Agnolo Gaddi,Gaddi,457,462
+408,Agnolo Gaddi,AGNOLO GADDI,8,20
+408,Agnolo Gaddi,Agnolo,92,98
+408,Agnolo Gaddi,Agnolo,163,169
+408,Agnolo Gaddi,Agnolo,885,891
+408,Agnolo Gaddi,Agnolo,1735,1741
+408,Agnolo Gaddi,Agnolo,2062,2068
+408,Agnolo Gaddi,Agnolo,2910,2916
+409,Agnolo Gaddi,AGNOLO GADDI,8,20
+410,Agnolo Gaddi,AGNOLO GADDI,8,20
+410,Agnolo Gaddi,Agnolo,72,78
+410,Agnolo Gaddi,Agnolo,904,910
+410,Agnolo Gaddi,Agnolo,1348,1354
+410,Agnolo Gaddi,Agnolo,1975,1981
+411,Agnolo Gaddi,AGNOLO GADDI,8,20
+411,Agnolo Gaddi,Agnolo,871,877
+411,Agnolo Gaddi,Agnolo,1468,1474
+411,Agnolo Gaddi,Agnolo,2220,2226
+412,Agnolo Gaddi,AGNOLO GADDI,8,20
+412,Agnolo Gaddi,Agnolo,696,702
+412,Agnolo Gaddi,Agnolo,1101,1107
+412,Agnolo Gaddi,Agnolo,1639,1645
+412,Agnolo Gaddi,Gaddi,749,754
+413,Agnolo Gaddi,AGNOLO GADDI,8,20
+413,Agnolo Gaddi,Agnolo,221,227
+414,Agnolo Gaddi,AGNOLO GADDI,8,20
+414,Agnolo Gaddi,Agnolo,45,51
+414,Agnolo Gaddi,Agnolo,331,337
+361,Agnolo Gaddi,GADDI,15,20
+362,Agnolo Gaddi,GADDI,15,20
+362,Agnolo Gaddi,Gaddi,375,380
+363,Agnolo Gaddi,Agnolo,171,177
+363,Agnolo Gaddi,GADDI,15,20
+364,Agnolo Gaddi,GADDI,15,20
+365,Agnolo Gaddi,Agnolo,43,49
+365,Agnolo Gaddi,GADDI,15,20
+366,Agnolo Gaddi,GADDI,15,20
+394,Agnolo di Lorenzo,Agnolo di Lorenzo,954,971
+194,Agobbio,Agobbio,142,149
+225,Agostino (of Siena),AGOSTINO,8,16
+225,Agostino (of Siena),Agostino,137,145
+225,Agostino (of Siena),Agostino,838,846
+225,Agostino (of Siena),Agostino,1319,1327
+225,Agostino (of Siena),Agostino,2033,2041
+225,Agostino (of Siena),Agostino,2230,2238
+225,Agostino (of Siena),Agostino,2446,2454
+226,Agostino (of Siena),AGOSTINO,8,16
+226,Agostino (of Siena),Agostino,38,46
+226,Agostino (of Siena),Agostino,360,368
+226,Agostino (of Siena),Agostino,757,765
+226,Agostino (of Siena),Agostino,1529,1537
+226,Agostino (of Siena),Agostino,1756,1764
+227,Agostino (of Siena),AGOSTINO,8,16
+227,Agostino (of Siena),Agostino,527,535
+227,Agostino (of Siena),Agostino,1065,1073
+227,Agostino (of Siena),Agostino,1295,1303
+228,Agostino (of Siena),AGOSTINO,8,16
+229,Agostino (of Siena),AGOSTINO,8,16
+230,Agostino (of Siena),Agostino of Siena,49,66
+230,Agostino (of Siena),AGOSTINO,8,16
+230,Agostino (of Siena),Agostino,696,704
+232,Agostino (of Siena),AGOSTINO,8,16
+232,Agostino (of Siena),Agostino,754,762
+233,Agostino (of Siena),AGOSTINO,8,16
+233,Agostino (of Siena),Agostino,458,466
+234,Agostino (of Siena),AGOSTINO,8,16
+235,Agostino (of Siena),AGOSTINO,8,16
+235,Agostino (of Siena),Agostino,594,602
+236,Agostino (of Siena),AGOSTINO,8,16
+236,Agostino (of Siena),Agostino,623,631
+237,Agostino (of Siena),Agostino of Siena,519,536
+237,Agostino (of Siena),AGOSTINO,8,16
+238,Agostino (of Siena),AGOSTINO,8,16
+239,Agostino (of Siena),AGOSTINO,8,16
+241,Agostino (of Siena),AGOSTINO,8,16
+241,Agostino (of Siena),Agostino,56,64
+241,Agostino (of Siena),Agostino,1150,1158
+242,Agostino (of Siena),AGOSTINO,8,16
+242,Agostino (of Siena),Agostino,456,464
+131,Agostino (of Siena),Agostino,878,886
+349,"Alberti, Leon Batista",Alberti,1156,1163
+349,"Alberti, Leon Batista",Leon,1142,1146
+77,Alesso Baldovinetti,Alesso Baldovinetti,614,633
+306,Ambrogio Lorenzetti,AMBROGIO LORENZETTI,0,19
+307,Ambrogio Lorenzetti,AMBROGIO LORENZETTI,8,27
+307,Ambrogio Lorenzetti,Ambrogio Lorenzetti,408,427
+307,Ambrogio Lorenzetti,Ambrogio,1276,1284
+308,Ambrogio Lorenzetti,AMBROGIO LORENZETTI,8,27
+309,Ambrogio Lorenzetti,AMBROGIO LORENZETTI,8,27
+309,Ambrogio Lorenzetti,Ambrogio,49,57
+309,Ambrogio Lorenzetti,Ambrogio,636,644
+310,Ambrogio Lorenzetti,AMBROGIO LORENZETTI,8,27
+310,Ambrogio Lorenzetti,Ambrogio,62,70
+266,Andrea Pisano,ANDREA PISANO,8,21
+266,Andrea Pisano,Andrea Pisano,352,365
+266,Andrea Pisano,Andrea,1938,1944
+267,Andrea Pisano,ANDREA PISANO,8,21
+267,Andrea Pisano,Andrea,87,93
+267,Andrea Pisano,Andrea,1110,1116
+267,Andrea Pisano,Andrea,1392,1398
+267,Andrea Pisano,Andrea,1729,1735
+267,Andrea Pisano,Andrea,2646,2652
+267,Andrea Pisano,Andrea,3420,3426
+268,Andrea Pisano,ANDREA PISANO,8,21
+268,Andrea Pisano,Andrea,40,46
+268,Andrea Pisano,Andrea,418,424
+268,Andrea Pisano,Andrea,827,833
+268,Andrea Pisano,Andrea,1034,1040
+267,Andrea Pisano,ANDREA PISANO,8,21
+267,Andrea Pisano,Andrea,87,93
+267,Andrea Pisano,Andrea,1110,1116
+267,Andrea Pisano,Andrea,1392,1398
+267,Andrea Pisano,Andrea,1729,1735
+267,Andrea Pisano,Andrea,2646,2652
+267,Andrea Pisano,Andrea,3420,3426
+268,Andrea Pisano,ANDREA PISANO,8,21
+268,Andrea Pisano,Andrea,40,46
+268,Andrea Pisano,Andrea,418,424
+268,Andrea Pisano,Andrea,827,833
+268,Andrea Pisano,Andrea,1034,1040
+269,Andrea Pisano,ANDREA PISANO,8,21
+269,Andrea Pisano,Andrea,2216,2222
+269,Andrea Pisano,Andrea,2833,2839
+270,Andrea Pisano,ANDREA PISANO,8,21
+270,Andrea Pisano,Andrea,55,61
+270,Andrea Pisano,Andrea,639,645
+271,Andrea Pisano,ANDREA PISANO,8,21
+272,Andrea Pisano,ANDREA PISANO,8,21
+273,Andrea Pisano,ANDREA PISANO,8,21
+274,Andrea Pisano,ANDREA PISANO,8,21
+274,Andrea Pisano,Andrea,112,118
+269,Andrea Pisano,ANDREA PISANO,8,21
+269,Andrea Pisano,Andrea,2216,2222
+269,Andrea Pisano,Andrea,2833,2839
+270,Andrea Pisano,ANDREA PISANO,8,21
+270,Andrea Pisano,Andrea,55,61
+270,Andrea Pisano,Andrea,639,645
+271,Andrea Pisano,ANDREA PISANO,8,21
+272,Andrea Pisano,ANDREA PISANO,8,21
+273,Andrea Pisano,ANDREA PISANO,8,21
+274,Andrea Pisano,ANDREA PISANO,8,21
+274,Andrea Pisano,Andrea,112,118
+275,Andrea Pisano,ANDREA PISANO,8,21
+275,Andrea Pisano,Andrea Pisano,2450,2463
+275,Andrea Pisano,Andrea,23,29
+275,Andrea Pisano,Andrea,773,779
+275,Andrea Pisano,Andrea,1069,1075
+275,Andrea Pisano,Andrea,1457,1463
+275,Andrea Pisano,Andrea,2574,2580
+276,Andrea Pisano,ANDREA PISANO,8,21
+276,Andrea Pisano,Andrea,43,49
+276,Andrea Pisano,Andrea,808,814
+277,Andrea Pisano,ANDREA PISANO,8,21
+277,Andrea Pisano,Andrea,23,29
+277,Andrea Pisano,Andrea,301,307
+277,Andrea Pisano,Pisano,73,79
+275,Andrea Pisano,ANDREA PISANO,8,21
+275,Andrea Pisano,Andrea Pisano,2450,2463
+275,Andrea Pisano,Andrea,23,29
+275,Andrea Pisano,Andrea,773,779
+275,Andrea Pisano,Andrea,1069,1075
+275,Andrea Pisano,Andrea,1457,1463
+275,Andrea Pisano,Andrea,2574,2580
+276,Andrea Pisano,ANDREA PISANO,8,21
+276,Andrea Pisano,Andrea,43,49
+276,Andrea Pisano,Andrea,808,814
+277,Andrea Pisano,ANDREA PISANO,8,21
+277,Andrea Pisano,Andrea,23,29
+277,Andrea Pisano,Andrea,301,307
+277,Andrea Pisano,Pisano,73,79
+278,Andrea Pisano,ANDREA PISANO,8,21
+278,Andrea Pisano,ANDREA PISANO,1614,1627
+278,Andrea Pisano,Andrea,23,29
+278,Andrea Pisano,Andrea,1125,1131
+279,Andrea Pisano,ANDREA PISANO,8,21
+279,Andrea Pisano,Andrea,23,29
+280,Andrea Pisano,ANDREA PISANO,8,21
+280,Andrea Pisano,ANDREA,32,38
+155,Andrea Tafi,ANDREA TAFI,8,19
+155,Andrea Tafi,Andrea Tafi,260,271
+155,Andrea Tafi,Andrea,1165,1171
+156,Andrea Tafi,ANDREA TAFI,8,19
+157,Andrea Tafi,ANDREA TAFI,8,19
+158,Andrea Tafi,ANDREA TAFI,8,19
+158,Andrea Tafi,Andrea Tafi,21,32
+158,Andrea Tafi,Andrea Tafi,2993,3004
+158,Andrea Tafi,Andrea,1865,1871
+158,Andrea Tafi,Andrea,2217,2223
+159,Andrea Tafi,ANDREA TAFI,8,19
+159,Andrea Tafi,Andrea,179,185
+160,Andrea Tafi,ANDREA TAFI,8,19
+160,Andrea Tafi,Andrea,21,27
+160,Andrea Tafi,Andrea,455,461
+161,Andrea Tafi,ANDREA TAFI,8,19
+161,Andrea Tafi,ANDREA,31,37
+162,Andrea Tafi,ANDREA TAFI,8,19
+162,Andrea Tafi,Andrea Tafi,384,395
+162,Andrea Tafi,Andrea,35,41
+163,Andrea Tafi,ANDREA TAFI,8,19
+163,Andrea Tafi,Andrea Tafi,43,54
+163,Andrea Tafi,Andrea Tafi,791,802
+166,Andrea Tafi,ANDREA TAFI,8,19
+167,Andrea Tafi,Andrea Tafi,144,155
+167,Andrea Tafi,Andrea Tafi,1815,1826
+167,Andrea Tafi,Andrea,1855,1861
+173,Andrea Tafi,Andrea Tafi,191,202
+283,Andrea Tafi,ANDREA,8,14
+284,Andrea Tafi,Andrea Tafi,119,130
+284,Andrea Tafi,Andrea,607,613
+284,Andrea Tafi,Andrea,897,903
+284,Andrea Tafi,Andrea,1199,1205
+284,Andrea Tafi,Andrea,1290,1296
+370,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+370,Andrea di Cione Orcagna,Andrea,446,452
+370,Andrea di Cione Orcagna,Andrea,1990,1996
+371,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+371,Andrea di Cione Orcagna,Andrea,316,322
+371,Andrea di Cione Orcagna,Andrea,2766,2772
+372,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+373,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+374,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+375,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+376,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+376,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+377,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+377,Andrea di Cione Orcagna,Andrea,51,57
+377,Andrea di Cione Orcagna,Andrea,2071,2077
+377,Andrea di Cione Orcagna,ANDREA,3435,3441
+378,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+378,Andrea di Cione Orcagna,ANDREA,2891,2897
+379,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+379,Andrea di Cione Orcagna,Andrea,427,433
+380,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+380,Andrea di Cione Orcagna,ANDREA,72,78
+380,Andrea di Cione Orcagna,ANDREA,127,133
+380,Andrea di Cione Orcagna,Andrea,625,631
+381,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+382,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+382,Andrea di Cione Orcagna,Andrea,46,52
+383,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+383,Andrea di Cione Orcagna,Andrea,52,58
+383,Andrea di Cione Orcagna,Andrea,1162,1168
+384,Andrea di Cione Orcagna,ANDREA DI CIONE ORCAGNA,8,31
+384,Andrea di Cione Orcagna,Andrea,1712,1718
+384,Andrea di Cione Orcagna,Andrea,1787,1793
+267,Antonio (called Il Carota),Il Carota,3144,3153
+267,Antonio (called Il Carota),Antonio,3128,3135
+118,Antonio da San Gallo,Antonio da San Gallo,4915,4935
+99,"Aretino, Marchionne",Marchionne Aretino,608,626
+99,"Aretino, Marchionne",Marchionne,750,760
+99,"Aretino, Marchionne",Marchionne,2195,2205
+100,"Aretino, Marchionne",Marchionne,362,372
+276,"Aretino, Niccolò",Niccolò Aretino,406,422
+185,"Aretino, Spinello",Spinello,65,73
+102,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+102,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1926,1933
+103,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+103,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,30,37
+104,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+104,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,203,210
+104,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1507,1514
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,321,328
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2488,2495
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2635,2642
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2934,2941
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,3122,3129
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,321,328
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2488,2495
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2635,2642
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2934,2941
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,3122,3129
+106,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+106,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,42,49
+106,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1009,1016
+106,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2147,2154
+107,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+107,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,66,73
+108,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+108,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO,266,273
+109,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+109,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,33,40
+109,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,411,418
+109,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,855,862
+109,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1389,1396
+83,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo Lapi,178,190
+93,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,34,41
+93,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,54,61
+93,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,501,508
+93,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,780,787
+94,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+94,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,316,323
+102,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+102,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1926,1933
+103,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+103,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,30,37
+104,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+104,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,203,210
+104,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1507,1514
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,321,328
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2488,2495
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2635,2642
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2934,2941
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,3122,3129
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,321,328
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2488,2495
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2635,2642
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2934,2941
+105,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,3122,3129
+106,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+106,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,42,49
+106,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1009,1016
+106,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,2147,2154
+107,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+107,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,66,73
+108,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+108,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO,266,273
+109,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+109,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,33,40
+109,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,411,418
+109,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,855,862
+109,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1389,1396
+111,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",ARNOLFO DI LAPO,8,23
+112,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo di Lapo,136,151
+120,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1526,1533
+131,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1137,1144
+181,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,588,595
+268,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,193,200
+333,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,1627,1634
+340,"Arnolfo di Lapo (Arnolfo Lapo, Arnolfo Lapi)",Arnolfo,195,202
+262,Bartolommeo Bologhini,Bartolommeo Bologhini,46,67
+262,Bartolommeo Bologhini,Bartolommeo Bologhini,570,591
+220,Benedetto da Maiano,Benedetto da Maiano,541,560
+380,Bernardo Nello di Giovanni Falconi,Bernardo,526,534
+382,Bernardo Nello di Giovanni Falconi,Bernardo Nello di Giovanni Falconi,70,104
+370,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+370,Bernardo di Cione Orcagna,Bernardo,864,872
+370,Bernardo di Cione Orcagna,Bernardo,905,913
+370,Bernardo di Cione Orcagna,Bernardo,1676,1684
+370,Bernardo di Cione Orcagna,Bernardo,2099,2107
+370,Bernardo di Cione Orcagna,Bernardo,2304,2312
+376,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+376,Bernardo di Cione Orcagna,Bernardo,206,214
+376,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+376,Bernardo di Cione Orcagna,Bernardo,206,214
+377,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+377,Bernardo di Cione Orcagna,Bernardo,41,49
+377,Bernardo di Cione Orcagna,Bernardo,3234,3242
+380,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+380,Bernardo di Cione Orcagna,Bernardo,526,534
+381,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+382,Bernardo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+382,Bernardo di Cione Orcagna,Bernardo,70,78
+194,"Bolognese, Franco",Franco Bolognese,548,564
+96,Bonanno,Bonanno,641,648
+96,Bonanno,Bonanno,2456,2463
+118,Bramante da Urbino,Bramante,4853,4861
+105,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",Filippo di Ser Brunellesco,1294,1320
+105,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",Filippo di Ser Brunellesco,2958,2984
+109,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",Filippo di Ser Brunellesco,1002,1028
+155,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",Filippo di Ser Brunellesco,2034,2060
+276,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",Filippo di Ser Brunellesco,466,492
+294,Bruno di Giovanni,Bruno di Giovanni,73,90
+294,Bruno di Giovanni,Bruno,160,165
+294,Bruno di Giovanni,Bruno,903,908
+294,Bruno di Giovanni,Bruno,1390,1395
+298,Bruno di Giovanni,Bruno,320,325
+298,Bruno di Giovanni,Bruno,469,474
+298,Bruno di Giovanni,Bruno,799,804
+299,Bruno di Giovanni,Bruno,37,42
+371,Bruno di Giovanni,Bruno,3386,3391
+284,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+284,"Buffalmacco, Buonamico",Buffalmacco,63,74
+284,"Buffalmacco, Buonamico",Buffalmacco,563,574
+284,"Buffalmacco, Buonamico",Buffalmacco,1381,1392
+284,"Buffalmacco, Buonamico",Buffalmacco,1687,1698
+284,"Buffalmacco, Buonamico",Buffalmacco,3357,3368
+284,"Buffalmacco, Buonamico",Buffalmacco,3737,3748
+284,"Buffalmacco, Buonamico",Buffalmacco,4112,4123
+284,"Buffalmacco, Buonamico",Buonamico,31,40
+284,"Buffalmacco, Buonamico",Buonamico,795,804
+284,"Buffalmacco, Buonamico",Buonamico,1809,1818
+284,"Buffalmacco, Buonamico",Buonamico,1893,1902
+284,"Buffalmacco, Buonamico",Buonamico,2199,2208
+284,"Buffalmacco, Buonamico",Buonamico,2520,2529
+284,"Buffalmacco, Buonamico",Buonamico,2614,2623
+284,"Buffalmacco, Buonamico",Buonamico,2653,2662
+284,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+284,"Buffalmacco, Buonamico",Buffalmacco,63,74
+284,"Buffalmacco, Buonamico",Buffalmacco,563,574
+284,"Buffalmacco, Buonamico",Buffalmacco,1381,1392
+284,"Buffalmacco, Buonamico",Buffalmacco,1687,1698
+284,"Buffalmacco, Buonamico",Buffalmacco,3357,3368
+284,"Buffalmacco, Buonamico",Buffalmacco,3737,3748
+284,"Buffalmacco, Buonamico",Buffalmacco,4112,4123
+284,"Buffalmacco, Buonamico",Buonamico,31,40
+284,"Buffalmacco, Buonamico",Buonamico,795,804
+284,"Buffalmacco, Buonamico",Buonamico,1809,1818
+284,"Buffalmacco, Buonamico",Buonamico,1893,1902
+284,"Buffalmacco, Buonamico",Buonamico,2199,2208
+284,"Buffalmacco, Buonamico",Buonamico,2520,2529
+284,"Buffalmacco, Buonamico",Buonamico,2614,2623
+284,"Buffalmacco, Buonamico",Buonamico,2653,2662
+285,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+285,"Buffalmacco, Buonamico",Buffalmacco,36,47
+285,"Buffalmacco, Buonamico",Buffalmacco,279,290
+285,"Buffalmacco, Buonamico",Buffalmacco,433,444
+285,"Buffalmacco, Buonamico",Buffalmacco,1933,1944
+285,"Buffalmacco, Buonamico",Buffalmacco,2988,2999
+285,"Buffalmacco, Buonamico",Buonamico,509,518
+285,"Buffalmacco, Buonamico",Buonamico,2731,2740
+286,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+286,"Buffalmacco, Buonamico",Buffalmacco,31,42
+287,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+287,"Buffalmacco, Buonamico",Buffalmacco,315,326
+287,"Buffalmacco, Buonamico",Buonamico,224,233
+287,"Buffalmacco, Buonamico",Buonamico,1002,1011
+287,"Buffalmacco, Buonamico",Buonamico,2023,2032
+287,"Buffalmacco, Buonamico",Buonamico,2466,2475
+287,"Buffalmacco, Buonamico",Buonamico,2933,2942
+288,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+288,"Buffalmacco, Buonamico",Buffalmacco,1110,1121
+288,"Buffalmacco, Buonamico",Buonamico,552,561
+287,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+287,"Buffalmacco, Buonamico",Buffalmacco,315,326
+287,"Buffalmacco, Buonamico",Buonamico,224,233
+287,"Buffalmacco, Buonamico",Buonamico,1002,1011
+287,"Buffalmacco, Buonamico",Buonamico,2023,2032
+287,"Buffalmacco, Buonamico",Buonamico,2466,2475
+287,"Buffalmacco, Buonamico",Buonamico,2933,2942
+288,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+288,"Buffalmacco, Buonamico",Buffalmacco,1110,1121
+288,"Buffalmacco, Buonamico",Buonamico,552,561
+289,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+289,"Buffalmacco, Buonamico",Buffalmacco,497,508
+289,"Buffalmacco, Buonamico",Buonamico,31,40
+289,"Buffalmacco, Buonamico",Buonamico,1688,1697
+290,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+290,"Buffalmacco, Buonamico",Buonamico,412,421
+290,"Buffalmacco, Buonamico",Buonamico,570,579
+290,"Buffalmacco, Buonamico",Buonamico,919,928
+290,"Buffalmacco, Buonamico",Buonamico,1169,1178
+290,"Buffalmacco, Buonamico",Buonamico,1467,1476
+290,"Buffalmacco, Buonamico",Buonamico,2053,2062
+290,"Buffalmacco, Buonamico",Buonamico,2507,2516
+290,"Buffalmacco, Buonamico",Buonamico,3188,3197
+290,"Buffalmacco, Buonamico",Buonamico,3353,3362
+290,"Buffalmacco, Buonamico",Buonamico,4387,4396
+290,"Buffalmacco, Buonamico",Buonamico,4570,4579
+290,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+290,"Buffalmacco, Buonamico",Buonamico,412,421
+290,"Buffalmacco, Buonamico",Buonamico,570,579
+290,"Buffalmacco, Buonamico",Buonamico,919,928
+290,"Buffalmacco, Buonamico",Buonamico,1169,1178
+290,"Buffalmacco, Buonamico",Buonamico,1467,1476
+290,"Buffalmacco, Buonamico",Buonamico,2053,2062
+290,"Buffalmacco, Buonamico",Buonamico,2507,2516
+290,"Buffalmacco, Buonamico",Buonamico,3188,3197
+290,"Buffalmacco, Buonamico",Buonamico,3353,3362
+290,"Buffalmacco, Buonamico",Buonamico,4387,4396
+290,"Buffalmacco, Buonamico",Buonamico,4570,4579
+291,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+291,"Buffalmacco, Buonamico",Buffalmacco,155,166
+291,"Buffalmacco, Buonamico",Buonamico,920,929
+291,"Buffalmacco, Buonamico",Buonamico,1043,1052
+291,"Buffalmacco, Buonamico",Buonamico,1286,1295
+292,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+292,"Buffalmacco, Buonamico",Buonamico,54,63
+293,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+293,"Buffalmacco, Buonamico",Buonamico,87,96
+293,"Buffalmacco, Buonamico",Buonamico,589,598
+293,"Buffalmacco, Buonamico",Buonamico,1107,1116
+293,"Buffalmacco, Buonamico",Buonamico,1297,1306
+294,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+294,"Buffalmacco, Buonamico",Buonamico,46,55
+294,"Buffalmacco, Buonamico",Buonamico,1002,1011
+294,"Buffalmacco, Buonamico",Buonamico,1275,1284
+295,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+295,"Buffalmacco, Buonamico",Buonamico,44,53
+295,"Buffalmacco, Buonamico",Buonamico,672,681
+296,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+297,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+297,"Buffalmacco, Buonamico",Buonamico,80,89
+297,"Buffalmacco, Buonamico",Buonamico,538,547
+298,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+298,"Buffalmacco, Buonamico",Buonamico,509,518
+298,"Buffalmacco, Buonamico",Buonamico,1379,1388
+299,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+299,"Buffalmacco, Buonamico",Buonamico,89,98
+299,"Buffalmacco, Buonamico",Buonamico,302,311
+299,"Buffalmacco, Buonamico",Buonamico,1042,1051
+300,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+300,"Buffalmacco, Buonamico",Buonamico,113,122
+301,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+301,"Buffalmacco, Buonamico",Buonamico,95,104
+301,"Buffalmacco, Buonamico",Buonamico,454,463
+301,"Buffalmacco, Buonamico",Buonamico,505,514
+301,"Buffalmacco, Buonamico",Buonamico,734,743
+301,"Buffalmacco, Buonamico",Buonamico,1300,1309
+301,"Buffalmacco, Buonamico",Buonamico,1955,1964
+301,"Buffalmacco, Buonamico",Buonamico,2354,2363
+301,"Buffalmacco, Buonamico",Buonamico,2512,2521
+301,"Buffalmacco, Buonamico",Buonamico,3245,3254
+301,"Buffalmacco, Buonamico",Buonamico,3503,3512
+301,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+301,"Buffalmacco, Buonamico",Buonamico,95,104
+301,"Buffalmacco, Buonamico",Buonamico,454,463
+301,"Buffalmacco, Buonamico",Buonamico,505,514
+301,"Buffalmacco, Buonamico",Buonamico,734,743
+301,"Buffalmacco, Buonamico",Buonamico,1300,1309
+301,"Buffalmacco, Buonamico",Buonamico,1955,1964
+301,"Buffalmacco, Buonamico",Buonamico,2354,2363
+301,"Buffalmacco, Buonamico",Buonamico,2512,2521
+301,"Buffalmacco, Buonamico",Buonamico,3245,3254
+301,"Buffalmacco, Buonamico",Buonamico,3503,3512
+302,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+302,"Buffalmacco, Buonamico",Buonamico Buffalmacco,1271,1292
+302,"Buffalmacco, Buonamico",Buonamico,31,40
+302,"Buffalmacco, Buonamico",Buonamico,413,422
+302,"Buffalmacco, Buonamico",Buonamico,851,860
+303,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+162,"Buffalmacco, Buonamico",Buonamico Buffalmacco,46,67
+284,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+284,"Buffalmacco, Buonamico",Buffalmacco,63,74
+284,"Buffalmacco, Buonamico",Buffalmacco,563,574
+284,"Buffalmacco, Buonamico",Buffalmacco,1381,1392
+284,"Buffalmacco, Buonamico",Buffalmacco,1687,1698
+284,"Buffalmacco, Buonamico",Buffalmacco,3357,3368
+284,"Buffalmacco, Buonamico",Buffalmacco,3737,3748
+284,"Buffalmacco, Buonamico",Buffalmacco,4112,4123
+284,"Buffalmacco, Buonamico",Buonamico,31,40
+284,"Buffalmacco, Buonamico",Buonamico,795,804
+284,"Buffalmacco, Buonamico",Buonamico,1809,1818
+284,"Buffalmacco, Buonamico",Buonamico,1893,1902
+284,"Buffalmacco, Buonamico",Buonamico,2199,2208
+284,"Buffalmacco, Buonamico",Buonamico,2520,2529
+284,"Buffalmacco, Buonamico",Buonamico,2614,2623
+284,"Buffalmacco, Buonamico",Buonamico,2653,2662
+284,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+284,"Buffalmacco, Buonamico",Buffalmacco,63,74
+284,"Buffalmacco, Buonamico",Buffalmacco,563,574
+284,"Buffalmacco, Buonamico",Buffalmacco,1381,1392
+284,"Buffalmacco, Buonamico",Buffalmacco,1687,1698
+284,"Buffalmacco, Buonamico",Buffalmacco,3357,3368
+284,"Buffalmacco, Buonamico",Buffalmacco,3737,3748
+284,"Buffalmacco, Buonamico",Buffalmacco,4112,4123
+284,"Buffalmacco, Buonamico",Buonamico,31,40
+284,"Buffalmacco, Buonamico",Buonamico,795,804
+284,"Buffalmacco, Buonamico",Buonamico,1809,1818
+284,"Buffalmacco, Buonamico",Buonamico,1893,1902
+284,"Buffalmacco, Buonamico",Buonamico,2199,2208
+284,"Buffalmacco, Buonamico",Buonamico,2520,2529
+284,"Buffalmacco, Buonamico",Buonamico,2614,2623
+284,"Buffalmacco, Buonamico",Buonamico,2653,2662
+285,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+285,"Buffalmacco, Buonamico",Buffalmacco,36,47
+285,"Buffalmacco, Buonamico",Buffalmacco,279,290
+285,"Buffalmacco, Buonamico",Buffalmacco,433,444
+285,"Buffalmacco, Buonamico",Buffalmacco,1933,1944
+285,"Buffalmacco, Buonamico",Buffalmacco,2988,2999
+285,"Buffalmacco, Buonamico",Buonamico,509,518
+285,"Buffalmacco, Buonamico",Buonamico,2731,2740
+286,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+286,"Buffalmacco, Buonamico",Buffalmacco,31,42
+287,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+287,"Buffalmacco, Buonamico",Buffalmacco,315,326
+287,"Buffalmacco, Buonamico",Buonamico,224,233
+287,"Buffalmacco, Buonamico",Buonamico,1002,1011
+287,"Buffalmacco, Buonamico",Buonamico,2023,2032
+287,"Buffalmacco, Buonamico",Buonamico,2466,2475
+287,"Buffalmacco, Buonamico",Buonamico,2933,2942
+288,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+288,"Buffalmacco, Buonamico",Buffalmacco,1110,1121
+288,"Buffalmacco, Buonamico",Buonamico,552,561
+287,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+287,"Buffalmacco, Buonamico",Buffalmacco,315,326
+287,"Buffalmacco, Buonamico",Buonamico,224,233
+287,"Buffalmacco, Buonamico",Buonamico,1002,1011
+287,"Buffalmacco, Buonamico",Buonamico,2023,2032
+287,"Buffalmacco, Buonamico",Buonamico,2466,2475
+287,"Buffalmacco, Buonamico",Buonamico,2933,2942
+288,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+288,"Buffalmacco, Buonamico",Buffalmacco,1110,1121
+288,"Buffalmacco, Buonamico",Buonamico,552,561
+289,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+289,"Buffalmacco, Buonamico",Buffalmacco,497,508
+289,"Buffalmacco, Buonamico",Buonamico,31,40
+289,"Buffalmacco, Buonamico",Buonamico,1688,1697
+290,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+290,"Buffalmacco, Buonamico",Buonamico,412,421
+290,"Buffalmacco, Buonamico",Buonamico,570,579
+290,"Buffalmacco, Buonamico",Buonamico,919,928
+290,"Buffalmacco, Buonamico",Buonamico,1169,1178
+290,"Buffalmacco, Buonamico",Buonamico,1467,1476
+290,"Buffalmacco, Buonamico",Buonamico,2053,2062
+290,"Buffalmacco, Buonamico",Buonamico,2507,2516
+290,"Buffalmacco, Buonamico",Buonamico,3188,3197
+290,"Buffalmacco, Buonamico",Buonamico,3353,3362
+290,"Buffalmacco, Buonamico",Buonamico,4387,4396
+290,"Buffalmacco, Buonamico",Buonamico,4570,4579
+290,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+290,"Buffalmacco, Buonamico",Buonamico,412,421
+290,"Buffalmacco, Buonamico",Buonamico,570,579
+290,"Buffalmacco, Buonamico",Buonamico,919,928
+290,"Buffalmacco, Buonamico",Buonamico,1169,1178
+290,"Buffalmacco, Buonamico",Buonamico,1467,1476
+290,"Buffalmacco, Buonamico",Buonamico,2053,2062
+290,"Buffalmacco, Buonamico",Buonamico,2507,2516
+290,"Buffalmacco, Buonamico",Buonamico,3188,3197
+290,"Buffalmacco, Buonamico",Buonamico,3353,3362
+290,"Buffalmacco, Buonamico",Buonamico,4387,4396
+290,"Buffalmacco, Buonamico",Buonamico,4570,4579
+291,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+291,"Buffalmacco, Buonamico",Buffalmacco,155,166
+291,"Buffalmacco, Buonamico",Buonamico,920,929
+291,"Buffalmacco, Buonamico",Buonamico,1043,1052
+291,"Buffalmacco, Buonamico",Buonamico,1286,1295
+292,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+292,"Buffalmacco, Buonamico",Buonamico,54,63
+293,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+293,"Buffalmacco, Buonamico",Buonamico,87,96
+293,"Buffalmacco, Buonamico",Buonamico,589,598
+293,"Buffalmacco, Buonamico",Buonamico,1107,1116
+293,"Buffalmacco, Buonamico",Buonamico,1297,1306
+294,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+294,"Buffalmacco, Buonamico",Buonamico,46,55
+294,"Buffalmacco, Buonamico",Buonamico,1002,1011
+294,"Buffalmacco, Buonamico",Buonamico,1275,1284
+295,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+295,"Buffalmacco, Buonamico",Buonamico,44,53
+295,"Buffalmacco, Buonamico",Buonamico,672,681
+296,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+297,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+297,"Buffalmacco, Buonamico",Buonamico,80,89
+297,"Buffalmacco, Buonamico",Buonamico,538,547
+298,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+298,"Buffalmacco, Buonamico",Buonamico,509,518
+298,"Buffalmacco, Buonamico",Buonamico,1379,1388
+299,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+299,"Buffalmacco, Buonamico",Buonamico,89,98
+299,"Buffalmacco, Buonamico",Buonamico,302,311
+299,"Buffalmacco, Buonamico",Buonamico,1042,1051
+300,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+300,"Buffalmacco, Buonamico",Buonamico,113,122
+301,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+301,"Buffalmacco, Buonamico",Buonamico,95,104
+301,"Buffalmacco, Buonamico",Buonamico,454,463
+301,"Buffalmacco, Buonamico",Buonamico,505,514
+301,"Buffalmacco, Buonamico",Buonamico,734,743
+301,"Buffalmacco, Buonamico",Buonamico,1300,1309
+301,"Buffalmacco, Buonamico",Buonamico,1955,1964
+301,"Buffalmacco, Buonamico",Buonamico,2354,2363
+301,"Buffalmacco, Buonamico",Buonamico,2512,2521
+301,"Buffalmacco, Buonamico",Buonamico,3245,3254
+301,"Buffalmacco, Buonamico",Buonamico,3503,3512
+301,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+301,"Buffalmacco, Buonamico",Buonamico,95,104
+301,"Buffalmacco, Buonamico",Buonamico,454,463
+301,"Buffalmacco, Buonamico",Buonamico,505,514
+301,"Buffalmacco, Buonamico",Buonamico,734,743
+301,"Buffalmacco, Buonamico",Buonamico,1300,1309
+301,"Buffalmacco, Buonamico",Buonamico,1955,1964
+301,"Buffalmacco, Buonamico",Buonamico,2354,2363
+301,"Buffalmacco, Buonamico",Buonamico,2512,2521
+301,"Buffalmacco, Buonamico",Buonamico,3245,3254
+301,"Buffalmacco, Buonamico",Buonamico,3503,3512
+302,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+302,"Buffalmacco, Buonamico",Buonamico Buffalmacco,1271,1292
+302,"Buffalmacco, Buonamico",Buonamico,31,40
+302,"Buffalmacco, Buonamico",Buonamico,413,422
+302,"Buffalmacco, Buonamico",Buonamico,851,860
+303,"Buffalmacco, Buonamico",BUONAMICO BUFFALMACCO,8,29
+333,"Buffalmacco, Buonamico",Buonamico,3174,3183
+371,"Buffalmacco, Buonamico",Buffalmacco,250,261
+371,"Buffalmacco, Buonamico",Buffalmacco,470,481
+371,"Buffalmacco, Buonamico",Buffalmacco,3339,3350
+204,"Buonarroti, Michelagnolo",Michelagnolo Buonarroti,793,816
+95,Buono,Buono,974,979
+95,Buono,Buono,2314,2319
+174,"Campi, Fra Ristoro da",Fra Ristoro da Campi,1782,1802
+202,"Capanna, Puccio",Puccio Capanna,641,655
+212,"Capanna, Puccio",Puccio Capanna,95,109
+212,"Capanna, Puccio",Puccio,359,365
+212,"Capanna, Puccio",Puccio,1375,1381
+212,"Capanna, Puccio",PUCCIO,1513,1519
+212,"Capanna, Puccio",Puccio,2274,2280
+212,"Capanna, Puccio",Puccio Capanna,95,109
+212,"Capanna, Puccio",Puccio,359,365
+212,"Capanna, Puccio",Puccio,1375,1381
+212,"Capanna, Puccio",PUCCIO,1513,1519
+212,"Capanna, Puccio",Puccio,2274,2280
+360,"Casentino, Jacopo di",Jacopo di Casentino,176,195
+363,"Casentino, Jacopo di",Jacopo di Casentino,245,264
+315,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
+315,"Cavallini, Pietro",Pietro Cavallini,211,227
+315,"Cavallini, Pietro",Pietro,479,485
+315,"Cavallini, Pietro",Pietro,1839,1845
+316,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
+316,"Cavallini, Pietro",Pietro,44,50
+316,"Cavallini, Pietro",Pietro,666,672
+317,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
+317,"Cavallini, Pietro",Pietro,1361,1367
+317,"Cavallini, Pietro",Pietro,1551,1557
+318,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
+318,"Cavallini, Pietro",Pietro,121,127
+318,"Cavallini, Pietro",Pietro,387,393
+319,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
+319,"Cavallini, Pietro",Pietro Cavallini,1450,1466
+319,"Cavallini, Pietro",Pietro,150,156
+319,"Cavallini, Pietro",Pietro,200,206
+319,"Cavallini, Pietro",Pietro,1107,1113
+320,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
+321,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
+322,"Cavallini, Pietro",PIETRO CAVALLINI,8,24
+215,"Cavallini, Pietro",Pietro Cavallini,279,295
+215,"Cavallini, Pietro",Pietro,211,217
+412,"Cennini, Cennino di Drea",Cennino di Drea Cennini,1124,1147
+413,"Cennini, Cennino di Drea",Cennino di Drea Cennini,123,146
+413,"Cennini, Cennino di Drea",Cennino,27,34
+413,"Cennini, Cennino di Drea",Cennino,589,596
+75,"Cimabue, Giovanni",GIOVANNI CIMABUE,0,16
+76,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+76,"Cimabue, Giovanni",Giovanni,423,431
+76,"Cimabue, Giovanni",Cimabue,442,449
+76,"Cimabue, Giovanni",Cimabue,491,498
+76,"Cimabue, Giovanni",Cimabue,784,791
+76,"Cimabue, Giovanni",Cimabue,1523,1530
+77,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+78,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+79,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+79,"Cimabue, Giovanni",Cimabue,26,33
+79,"Cimabue, Giovanni",Cimabue,712,719
+80,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+80,"Cimabue, Giovanni",Giovanni,3217,3225
+80,"Cimabue, Giovanni",Cimabue,70,77
+80,"Cimabue, Giovanni",Cimabue,1229,1236
+80,"Cimabue, Giovanni",Cimabue,2969,2976
+80,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+80,"Cimabue, Giovanni",Giovanni,3217,3225
+80,"Cimabue, Giovanni",Cimabue,70,77
+80,"Cimabue, Giovanni",Cimabue,1229,1236
+80,"Cimabue, Giovanni",Cimabue,2969,2976
+81,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+81,"Cimabue, Giovanni",Cimabue,62,69
+81,"Cimabue, Giovanni",Cimabue,1070,1077
+81,"Cimabue, Giovanni",Cimabue,1257,1264
+81,"Cimabue, Giovanni",Cimabue,1508,1515
+82,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+82,"Cimabue, Giovanni",Cimabue,239,246
+82,"Cimabue, Giovanni",Cimabue,815,822
+83,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+83,"Cimabue, Giovanni",Cimabue,64,71
+83,"Cimabue, Giovanni",Cimabue,531,538
+83,"Cimabue, Giovanni",Cimabue,591,598
+84,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+85,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+85,"Cimabue, Giovanni",Cimabue,81,88
+86,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+86,"Cimabue, Giovanni",Cimabue,36,43
+87,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+87,"Cimabue, Giovanni",Cimabue,244,251
+87,"Cimabue, Giovanni",Cimabue,277,284
+88,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+88,"Cimabue, Giovanni",Cimabue,43,50
+88,"Cimabue, Giovanni",Cimabue,187,194
+89,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+89,"Cimabue, Giovanni",Cimabue,42,49
+89,"Cimabue, Giovanni",Cimabue,694,701
+75,"Cimabue, Giovanni",GIOVANNI CIMABUE,0,16
+76,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+76,"Cimabue, Giovanni",Giovanni,423,431
+76,"Cimabue, Giovanni",Cimabue,442,449
+76,"Cimabue, Giovanni",Cimabue,491,498
+76,"Cimabue, Giovanni",Cimabue,784,791
+76,"Cimabue, Giovanni",Cimabue,1523,1530
+77,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+78,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+79,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+79,"Cimabue, Giovanni",Cimabue,26,33
+79,"Cimabue, Giovanni",Cimabue,712,719
+80,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+80,"Cimabue, Giovanni",Giovanni,3217,3225
+80,"Cimabue, Giovanni",Cimabue,70,77
+80,"Cimabue, Giovanni",Cimabue,1229,1236
+80,"Cimabue, Giovanni",Cimabue,2969,2976
+80,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+80,"Cimabue, Giovanni",Giovanni,3217,3225
+80,"Cimabue, Giovanni",Cimabue,70,77
+80,"Cimabue, Giovanni",Cimabue,1229,1236
+80,"Cimabue, Giovanni",Cimabue,2969,2976
+81,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+81,"Cimabue, Giovanni",Cimabue,62,69
+81,"Cimabue, Giovanni",Cimabue,1070,1077
+81,"Cimabue, Giovanni",Cimabue,1257,1264
+81,"Cimabue, Giovanni",Cimabue,1508,1515
+82,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+82,"Cimabue, Giovanni",Cimabue,239,246
+82,"Cimabue, Giovanni",Cimabue,815,822
+83,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+83,"Cimabue, Giovanni",Cimabue,64,71
+83,"Cimabue, Giovanni",Cimabue,531,538
+83,"Cimabue, Giovanni",Cimabue,591,598
+84,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+85,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+85,"Cimabue, Giovanni",Cimabue,81,88
+86,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+86,"Cimabue, Giovanni",Cimabue,36,43
+87,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+87,"Cimabue, Giovanni",Cimabue,244,251
+87,"Cimabue, Giovanni",Cimabue,277,284
+88,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+88,"Cimabue, Giovanni",Cimabue,43,50
+88,"Cimabue, Giovanni",Cimabue,187,194
+89,"Cimabue, Giovanni",GIOVANNI CIMABUE,8,24
+89,"Cimabue, Giovanni",Cimabue,42,49
+89,"Cimabue, Giovanni",Cimabue,694,701
+102,"Cimabue, Giovanni",Giovanni,1438,1446
+103,"Cimabue, Giovanni",Giovanni,1601,1609
+103,"Cimabue, Giovanni",Cimabue,134,141
+103,"Cimabue, Giovanni",Cimabue,369,376
+112,"Cimabue, Giovanni",GIOVANNI,20,28
+112,"Cimabue, Giovanni",Giovanni,188,196
+112,"Cimabue, Giovanni",Cimabue,97,104
+113,"Cimabue, Giovanni",GIOVANNI,20,28
+113,"Cimabue, Giovanni",Giovanni,206,214
+154,"Cimabue, Giovanni",GIOVANNI,20,28
+158,"Cimabue, Giovanni",Giovanni,2556,2564
+158,"Cimabue, Giovanni",Giovanni,2805,2813
+159,"Cimabue, Giovanni",Cimabue,190,197
+159,"Cimabue, Giovanni",Cimabue,336,343
+160,"Cimabue, Giovanni",Cimabue,68,75
+167,"Cimabue, Giovanni",Giovanni,1925,1933
+167,"Cimabue, Giovanni",Cimabue,289,296
+167,"Cimabue, Giovanni",Cimabue,1787,1794
+167,"Cimabue, Giovanni",Cimabue,2344,2351
+173,"Cimabue, Giovanni",Cimabue,303,310
+189,"Cimabue, Giovanni",Giovanni,3207,3215
+189,"Cimabue, Giovanni",Cimabue,1805,1812
+189,"Cimabue, Giovanni",Cimabue,2110,2117
+189,"Cimabue, Giovanni",Cimabue,2268,2275
+189,"Cimabue, Giovanni",Cimabue,2483,2490
+190,"Cimabue, Giovanni",Giovanni,3671,3679
+211,"Cimabue, Giovanni",Cimabue,198,205
+219,"Cimabue, Giovanni",Cimabue,75,82
+219,"Cimabue, Giovanni",Cimabue,132,139
+258,"Cimabue, Giovanni",Cimabue,663,670
+294,"Cimabue, Giovanni",Giovanni,82,90
+294,"Cimabue, Giovanni",Cimabue,1346,1353
+340,"Cimabue, Giovanni",Giovanni,660,668
+340,"Cimabue, Giovanni",Cimabue,158,165
+238,Cione,Cione,108,113
+238,Cione,Cione,575,580
+239,Cione,Cione,46,51
+239,Cione,Cione,883,888
+155,"Como, Guido da",Guido da Como,3323,3336
+156,"Como, Guido da",GUIDO,69,74
+126,"Danti, Vincenzio",Vincenzio Danti,1781,1796
+267,Domenico Ghirlandajo,Domenico Ghirlandajo,3243,3263
+155,Donato (Donatello),Donatello,2065,2074
+276,Donato (Donatello),Donatello,455,464
+347,Donato (Donatello),Donato,2583,2589
+213,"Faenza, Ottaviano da",Ottaviano da Faenza,78,97
+213,"Faenza, Pace da",da Faenza,88,97
+276,"Fonte, Jacopo della (Jacopo della Quercia)",Jacopo della Quercia,424,444
+215,"Forlì, Guglielmo da",Guglielmo,16,25
+239,Forzore di Spinello,Forzore di Spinello,90,109
+174,Fra Giovanni,Giovanni,554,562
+174,Fra Giovanni,Giovanni,907,915
+174,Fra Giovanni,Giovanni,1754,1762
+176,Fra Giovanni,Giovanni,211,219
+158,Fra Jacopo da Turrita,Fra Jacopo da Turrita,2405,2426
+168,Fra Jacopo da Turrita,Fra Jacopo da Turrita,278,299
+212,Francesco (called di Maestro Giotto),Francesco,505,514
+212,Francesco (called di Maestro Giotto),Francesco,1038,1047
+212,Francesco (called di Maestro Giotto),Francesco,1820,1829
+213,Francesco (called di Maestro Giotto),Francesco,272,281
+384,Francesco Traini,Francesco Traini,101,117
+384,Francesco Traini,Francesco Traini,1653,1669
+118,Fuccio,Fuccio,415,421
+118,Fuccio,Fuccio,945,951
+118,Fuccio,Fuccio,1599,1605
+167,"Gaddi, Gaddo",GADDO GADDI,8,19
+167,"Gaddi, Gaddo",Gaddo,21,26
+167,"Gaddi, Gaddo",Gaddo,1777,1782
+167,"Gaddi, Gaddo",Gaddo,1831,1836
+167,"Gaddi, Gaddo",Gaddo,1946,1951
+168,"Gaddi, Gaddo",GADDO GADDI,8,19
+168,"Gaddi, Gaddo",Gaddo,65,70
+169,"Gaddi, Gaddo",GADDO GADDI,8,19
+169,"Gaddi, Gaddo",Gaddo Gaddi,1251,1262
+169,"Gaddi, Gaddo",Gaddo,460,465
+169,"Gaddi, Gaddo",Gaddo,839,844
+170,"Gaddi, Gaddo",GADDO GADDI,8,19
+170,"Gaddi, Gaddo",Gaddo,467,472
+171,"Gaddi, Gaddo",GADDO GADDI,8,19
+171,"Gaddi, Gaddo",Gaddo,21,26
+171,"Gaddi, Gaddo",Gaddo,350,355
+173,"Gaddi, Gaddo",GADDO GADDI,8,19
+173,"Gaddi, Gaddo",Gaddo,109,114
+173,"Gaddi, Gaddo",Gaddo,264,269
+158,"Gaddi, Gaddo",Gaddo Gaddi,3012,3023
+160,"Gaddi, Gaddo",Gaddo Gaddi,290,301
+167,"Gaddi, Gaddo",GADDO GADDI,8,19
+167,"Gaddi, Gaddo",Gaddo,21,26
+167,"Gaddi, Gaddo",Gaddo,1777,1782
+167,"Gaddi, Gaddo",Gaddo,1831,1836
+167,"Gaddi, Gaddo",Gaddo,1946,1951
+168,"Gaddi, Gaddo",GADDO GADDI,8,19
+168,"Gaddi, Gaddo",Gaddo,65,70
+169,"Gaddi, Gaddo",GADDO GADDI,8,19
+169,"Gaddi, Gaddo",Gaddo Gaddi,1251,1262
+169,"Gaddi, Gaddo",Gaddo,460,465
+169,"Gaddi, Gaddo",Gaddo,839,844
+170,"Gaddi, Gaddo",GADDO GADDI,8,19
+170,"Gaddi, Gaddo",Gaddo,467,472
+171,"Gaddi, Gaddo",GADDO GADDI,8,19
+171,"Gaddi, Gaddo",Gaddo,21,26
+171,"Gaddi, Gaddo",Gaddo,350,355
+173,"Gaddi, Gaddo",GADDO GADDI,8,19
+173,"Gaddi, Gaddo",Gaddo,109,114
+173,"Gaddi, Gaddo",Gaddo,264,269
+364,"Gaddi, Gaddo",GADDI,15,20
+365,"Gaddi, Gaddo",Gaddo,144,149
+365,"Gaddi, Gaddo",GADDI,15,20
+366,"Gaddi, Gaddo",GADDI,15,20
+407,"Gaddi, Gaddo",Gaddo,596,601
+407,"Gaddi, Gaddo",GADDI,15,20
+407,"Gaddi, Gaddo",Gaddi,147,152
+407,"Gaddi, Gaddo",Gaddi,457,462
+409,"Gaddi, Gaddo",GADDI,15,20
+411,"Gaddi, Gaddo",GADDI,15,20
+361,"Gaddi, Giovanni",GADDI,15,20
+362,"Gaddi, Giovanni",GADDI,15,20
+362,"Gaddi, Giovanni",Gaddi,375,380
+363,"Gaddi, Giovanni",Giovanni,182,190
+363,"Gaddi, Giovanni",Giovanni,289,297
+363,"Gaddi, Giovanni",Giovanni,367,375
+363,"Gaddi, Giovanni",GADDI,15,20
+364,"Gaddi, Giovanni",GADDI,15,20
+365,"Gaddi, Giovanni",Giovanni,54,62
+365,"Gaddi, Giovanni",GADDI,15,20
+366,"Gaddi, Giovanni",GADDI,15,20
+406,"Gaddi, Giovanni",GIOVANNI,8,16
+407,"Gaddi, Giovanni",Giovanni,337,345
+407,"Gaddi, Giovanni",Giovanni,623,631
+407,"Gaddi, Giovanni",GADDI,15,20
+407,"Gaddi, Giovanni",Gaddi,147,152
+407,"Gaddi, Giovanni",Gaddi,457,462
+411,"Gaddi, Giovanni",Giovanni,810,818
+411,"Gaddi, Giovanni",GADDI,15,20
+347,"Gaddi, Taddeo",TADDEO GADDI,8,20
+347,"Gaddi, Taddeo",Taddeo Gaddi,665,677
+347,"Gaddi, Taddeo",Taddeo,710,716
+347,"Gaddi, Taddeo",Gaddi,726,731
+348,"Gaddi, Taddeo",TADDEO GADDI,8,20
+349,"Gaddi, Taddeo",TADDEO GADDI,8,20
+349,"Gaddi, Taddeo",Taddeo,1263,1269
+350,"Gaddi, Taddeo",TADDEO GADDI,8,20
+350,"Gaddi, Taddeo",Taddeo Gaddi,66,78
+350,"Gaddi, Taddeo",Taddeo,408,414
+351,"Gaddi, Taddeo",TADDEO GADDI,8,20
+352,"Gaddi, Taddeo",TADDEO GADDI,8,20
+353,"Gaddi, Taddeo",TADDEO GADDI,8,20
+353,"Gaddi, Taddeo",Taddeo Gaddi,1857,1869
+353,"Gaddi, Taddeo",Taddeo,57,63
+353,"Gaddi, Taddeo",Taddeo,2706,2712
+354,"Gaddi, Taddeo",TADDEO GADDI,8,20
+354,"Gaddi, Taddeo",Taddeo,39,45
+354,"Gaddi, Taddeo",Taddeo,365,371
+355,"Gaddi, Taddeo",TADDEO GADDI,8,20
+355,"Gaddi, Taddeo",Taddeo,91,97
+356,"Gaddi, Taddeo",TADDEO GADDI,8,20
+357,"Gaddi, Taddeo",TADDEO GADDI,8,20
+358,"Gaddi, Taddeo",TADDEO GADDI,8,20
+358,"Gaddi, Taddeo",TADDEO,23,29
+359,"Gaddi, Taddeo",TADDEO GADDI,8,20
+359,"Gaddi, Taddeo",Taddeo,22,28
+359,"Gaddi, Taddeo",Taddeo,1511,1517
+360,"Gaddi, Taddeo",TADDEO GADDI,8,20
+361,"Gaddi, Taddeo",TADDEO GADDI,8,20
+361,"Gaddi, Taddeo",Taddeo,514,520
+361,"Gaddi, Taddeo",Taddeo,997,1003
+361,"Gaddi, Taddeo",Taddeo,3660,3666
+362,"Gaddi, Taddeo",TADDEO GADDI,8,20
+362,"Gaddi, Taddeo",Taddeo,257,263
+362,"Gaddi, Taddeo",Taddeo,436,442
+362,"Gaddi, Taddeo",Taddeo,676,682
+362,"Gaddi, Taddeo",Gaddi,375,380
+363,"Gaddi, Taddeo",TADDEO GADDI,8,20
+363,"Gaddi, Taddeo",Taddeo,108,114
+363,"Gaddi, Taddeo",Taddeo,355,361
+361,"Gaddi, Taddeo",TADDEO GADDI,8,20
+361,"Gaddi, Taddeo",Taddeo,514,520
+361,"Gaddi, Taddeo",Taddeo,997,1003
+361,"Gaddi, Taddeo",Taddeo,3660,3666
+362,"Gaddi, Taddeo",TADDEO GADDI,8,20
+362,"Gaddi, Taddeo",Taddeo,257,263
+362,"Gaddi, Taddeo",Taddeo,436,442
+362,"Gaddi, Taddeo",Taddeo,676,682
+362,"Gaddi, Taddeo",Gaddi,375,380
+363,"Gaddi, Taddeo",TADDEO GADDI,8,20
+363,"Gaddi, Taddeo",Taddeo,108,114
+363,"Gaddi, Taddeo",Taddeo,355,361
+364,"Gaddi, Taddeo",TADDEO GADDI,8,20
+364,"Gaddi, Taddeo",Taddeo,22,28
+364,"Gaddi, Taddeo",Taddeo,412,418
+365,"Gaddi, Taddeo",TADDEO GADDI,8,20
+365,"Gaddi, Taddeo",Taddeo,22,28
+365,"Gaddi, Taddeo",Taddeo,843,849
+366,"Gaddi, Taddeo",TADDEO GADDI,8,20
+169,"Gaddi, Taddeo",GADDI,14,19
+169,"Gaddi, Taddeo",Gaddi,1257,1262
+170,"Gaddi, Taddeo",GADDI,14,19
+171,"Gaddi, Taddeo",Taddeo,127,133
+171,"Gaddi, Taddeo",Taddeo,167,173
+171,"Gaddi, Taddeo",Taddeo,365,371
+171,"Gaddi, Taddeo",GADDI,14,19
+173,"Gaddi, Taddeo",Taddeo,138,144
+173,"Gaddi, Taddeo",GADDI,14,19
+197,"Gaddi, Taddeo",Taddeo Gaddi,894,906
+205,"Gaddi, Taddeo",Taddeo Gaddi,2271,2283
+275,"Gaddi, Taddeo",Taddeo Gaddi,2378,2390
+347,"Gaddi, Taddeo",TADDEO GADDI,8,20
+347,"Gaddi, Taddeo",Taddeo Gaddi,665,677
+347,"Gaddi, Taddeo",Taddeo,710,716
+347,"Gaddi, Taddeo",Gaddi,726,731
+348,"Gaddi, Taddeo",TADDEO GADDI,8,20
+349,"Gaddi, Taddeo",TADDEO GADDI,8,20
+349,"Gaddi, Taddeo",Taddeo,1263,1269
+350,"Gaddi, Taddeo",TADDEO GADDI,8,20
+350,"Gaddi, Taddeo",Taddeo Gaddi,66,78
+350,"Gaddi, Taddeo",Taddeo,408,414
+351,"Gaddi, Taddeo",TADDEO GADDI,8,20
+352,"Gaddi, Taddeo",TADDEO GADDI,8,20
+353,"Gaddi, Taddeo",TADDEO GADDI,8,20
+353,"Gaddi, Taddeo",Taddeo Gaddi,1857,1869
+353,"Gaddi, Taddeo",Taddeo,57,63
+353,"Gaddi, Taddeo",Taddeo,2706,2712
+354,"Gaddi, Taddeo",TADDEO GADDI,8,20
+354,"Gaddi, Taddeo",Taddeo,39,45
+354,"Gaddi, Taddeo",Taddeo,365,371
+355,"Gaddi, Taddeo",TADDEO GADDI,8,20
+355,"Gaddi, Taddeo",Taddeo,91,97
+356,"Gaddi, Taddeo",TADDEO GADDI,8,20
+357,"Gaddi, Taddeo",TADDEO GADDI,8,20
+358,"Gaddi, Taddeo",TADDEO GADDI,8,20
+358,"Gaddi, Taddeo",TADDEO,23,29
+359,"Gaddi, Taddeo",TADDEO GADDI,8,20
+359,"Gaddi, Taddeo",Taddeo,22,28
+359,"Gaddi, Taddeo",Taddeo,1511,1517
+360,"Gaddi, Taddeo",TADDEO GADDI,8,20
+361,"Gaddi, Taddeo",TADDEO GADDI,8,20
+361,"Gaddi, Taddeo",Taddeo,514,520
+361,"Gaddi, Taddeo",Taddeo,997,1003
+361,"Gaddi, Taddeo",Taddeo,3660,3666
+362,"Gaddi, Taddeo",TADDEO GADDI,8,20
+362,"Gaddi, Taddeo",Taddeo,257,263
+362,"Gaddi, Taddeo",Taddeo,436,442
+362,"Gaddi, Taddeo",Taddeo,676,682
+362,"Gaddi, Taddeo",Gaddi,375,380
+363,"Gaddi, Taddeo",TADDEO GADDI,8,20
+363,"Gaddi, Taddeo",Taddeo,108,114
+363,"Gaddi, Taddeo",Taddeo,355,361
+361,"Gaddi, Taddeo",TADDEO GADDI,8,20
+361,"Gaddi, Taddeo",Taddeo,514,520
+361,"Gaddi, Taddeo",Taddeo,997,1003
+361,"Gaddi, Taddeo",Taddeo,3660,3666
+362,"Gaddi, Taddeo",TADDEO GADDI,8,20
+362,"Gaddi, Taddeo",Taddeo,257,263
+362,"Gaddi, Taddeo",Taddeo,436,442
+362,"Gaddi, Taddeo",Taddeo,676,682
+362,"Gaddi, Taddeo",Gaddi,375,380
+363,"Gaddi, Taddeo",TADDEO GADDI,8,20
+363,"Gaddi, Taddeo",Taddeo,108,114
+363,"Gaddi, Taddeo",Taddeo,355,361
+364,"Gaddi, Taddeo",TADDEO GADDI,8,20
+364,"Gaddi, Taddeo",Taddeo,22,28
+364,"Gaddi, Taddeo",Taddeo,412,418
+365,"Gaddi, Taddeo",TADDEO GADDI,8,20
+365,"Gaddi, Taddeo",Taddeo,22,28
+365,"Gaddi, Taddeo",Taddeo,843,849
+366,"Gaddi, Taddeo",TADDEO GADDI,8,20
+407,"Gaddi, Taddeo",Taddeo Gaddi,140,152
+407,"Gaddi, Taddeo",Taddeo,603,609
+407,"Gaddi, Taddeo",GADDI,15,20
+407,"Gaddi, Taddeo",Gaddi,457,462
+408,"Gaddi, Taddeo",Taddeo,22,28
+408,"Gaddi, Taddeo",Taddeo,1789,1795
+408,"Gaddi, Taddeo",Taddeo,1806,1812
+408,"Gaddi, Taddeo",GADDI,15,20
+411,"Gaddi, Taddeo",GADDI,15,20
+412,"Gaddi, Taddeo",Taddeo,853,859
+412,"Gaddi, Taddeo",GADDI,15,20
+412,"Gaddi, Taddeo",Gaddi,749,754
+413,"Gaddi, Taddeo",Taddeo,231,237
+413,"Gaddi, Taddeo",Taddeo,291,297
+413,"Gaddi, Taddeo",GADDI,15,20
+269,"Ghiberti, Lorenzo (Lorenzo di Cione Ghiberti)",Lorenzo Ghiberti,2651,2667
+276,"Ghiberti, Lorenzo (Lorenzo di Cione Ghiberti)",Lorenzo Ghiberti,498,514
+267,"Ghirlandajo, Ridolfo",Ghirlandajo,3252,3263
+267,"Ghirlandajo, Ridolfo",Ridolfo,3227,3234
+388,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
+388,"Giottino (Tommaso, or Maso)",Giottino,1059,1067
+388,"Giottino (Tommaso, or Maso)",Giottino,1502,1510
+388,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
+388,"Giottino (Tommaso, or Maso)",Tommaso,1032,1039
+389,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
+389,"Giottino (Tommaso, or Maso)",Giottino,534,542
+389,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
+389,"Giottino (Tommaso, or Maso)",Tommaso,3169,3176
+390,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
+390,"Giottino (Tommaso, or Maso)",Giottino,58,66
+390,"Giottino (Tommaso, or Maso)",Giottino,495,503
+390,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
+391,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
+391,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
+391,"Giottino (Tommaso, or Maso)",Tommaso,86,93
+392,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
+392,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
+392,"Giottino (Tommaso, or Maso)",Tommaso,1327,1334
+393,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
+393,"Giottino (Tommaso, or Maso)",Giottino,1502,1510
+393,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
+393,"Giottino (Tommaso, or Maso)",Tommaso,50,57
+394,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
+394,"Giottino (Tommaso, or Maso)",Giottino,47,55
+394,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
+394,"Giottino (Tommaso, or Maso)",Tommaso,292,299
+395,"Giottino (Tommaso, or Maso)",GIOTTINO,24,32
+395,"Giottino (Tommaso, or Maso)",TOMMASO,8,15
+188,Giotto,GIOTTO,0,6
+189,Giotto,GIOTTO,8,14
+189,Giotto,Giotto,279,285
+189,Giotto,Giotto,727,733
+189,Giotto,Giotto,1150,1156
+189,Giotto,Giotto,1891,1897
+189,Giotto,Giotto,2932,2938
+189,Giotto,Giotto,3162,3168
+189,Giotto,Giotto,3289,3295
+190,Giotto,GIOTTO,8,14
+190,Giotto,Giotto,38,44
+190,Giotto,Giotto,439,445
+190,Giotto,Giotto,1602,1608
+190,Giotto,Giotto,1828,1834
+190,Giotto,Giotto,2485,2491
+190,Giotto,Giotto,2789,2795
+190,Giotto,GIOTTO,8,14
+190,Giotto,Giotto,38,44
+190,Giotto,Giotto,439,445
+190,Giotto,Giotto,1602,1608
+190,Giotto,Giotto,1828,1834
+190,Giotto,Giotto,2485,2491
+190,Giotto,Giotto,2789,2795
+191,Giotto,GIOTTO,8,14
+191,Giotto,Giotto,1745,1751
+191,Giotto,Giotto,2033,2039
+191,Giotto,Giotto,4694,4700
+191,Giotto,Giotto,4932,4938
+191,Giotto,GIOTTO,8,14
+191,Giotto,Giotto,1745,1751
+191,Giotto,Giotto,2033,2039
+191,Giotto,Giotto,4694,4700
+191,Giotto,Giotto,4932,4938
+192,Giotto,GIOTTO,8,14
+192,Giotto,Giotto,1123,1129
+192,Giotto,Giotto,1586,1592
+192,Giotto,Giotto,4219,4225
+192,Giotto,Giotto,4350,4356
+192,Giotto,Giotto,4577,4583
+192,Giotto,Giotto,4795,4801
+192,Giotto,Giotto,5253,5259
+192,Giotto,Giotto,5574,5580
+192,Giotto,Giotto,5785,5791
+192,Giotto,Giotto,6015,6021
+192,Giotto,Giotto,6048,6054
+193,Giotto,GIOTTO,8,14
+194,Giotto,GIOTTO,8,14
+194,Giotto,Giotto,178,184
+192,Giotto,GIOTTO,8,14
+192,Giotto,Giotto,1123,1129
+192,Giotto,Giotto,1586,1592
+192,Giotto,Giotto,4219,4225
+192,Giotto,Giotto,4350,4356
+192,Giotto,Giotto,4577,4583
+192,Giotto,Giotto,4795,4801
+192,Giotto,Giotto,5253,5259
+192,Giotto,Giotto,5574,5580
+192,Giotto,Giotto,5785,5791
+192,Giotto,Giotto,6015,6021
+192,Giotto,Giotto,6048,6054
+193,Giotto,GIOTTO,8,14
+194,Giotto,GIOTTO,8,14
+194,Giotto,Giotto,178,184
+192,Giotto,GIOTTO,8,14
+192,Giotto,Giotto,1123,1129
+192,Giotto,Giotto,1586,1592
+192,Giotto,Giotto,4219,4225
+192,Giotto,Giotto,4350,4356
+192,Giotto,Giotto,4577,4583
+192,Giotto,Giotto,4795,4801
+192,Giotto,Giotto,5253,5259
+192,Giotto,Giotto,5574,5580
+192,Giotto,Giotto,5785,5791
+192,Giotto,Giotto,6015,6021
+192,Giotto,Giotto,6048,6054
+193,Giotto,GIOTTO,8,14
+194,Giotto,GIOTTO,8,14
+194,Giotto,Giotto,178,184
+195,Giotto,GIOTTO,8,14
+196,Giotto,GIOTTO,8,14
+196,Giotto,Giotto,69,75
+196,Giotto,Giotto,214,220
+196,Giotto,Giotto,919,925
+197,Giotto,GIOTTO,8,14
+197,Giotto,Giotto,16,22
+197,Giotto,Giotto,322,328
+197,Giotto,Giotto,941,947
+197,Giotto,Giotto,1656,1662
+197,Giotto,Giotto,3225,3231
+198,Giotto,GIOTTO,8,14
+198,Giotto,Giotto,28,34
+198,Giotto,Giotto,199,205
+198,Giotto,Giotto,397,403
+197,Giotto,GIOTTO,8,14
+197,Giotto,Giotto,16,22
+197,Giotto,Giotto,322,328
+197,Giotto,Giotto,941,947
+197,Giotto,Giotto,1656,1662
+197,Giotto,Giotto,3225,3231
+198,Giotto,GIOTTO,8,14
+198,Giotto,Giotto,28,34
+198,Giotto,Giotto,199,205
+198,Giotto,Giotto,397,403
+199,Giotto,GIOTTO,8,14
+199,Giotto,Giotto,41,47
+199,Giotto,Giotto,215,221
+199,Giotto,Giotto,345,351
+199,Giotto,Giotto,615,621
+199,Giotto,Giotto,758,764
+199,Giotto,Giotto,1163,1169
+199,Giotto,Giotto,1263,1269
+199,Giotto,Giotto,1529,1535
+200,Giotto,GIOTTO,8,14
+200,Giotto,Giotto,62,68
+200,Giotto,Giotto,285,291
+200,Giotto,Giotto,968,974
+201,Giotto,GIOTTO,8,14
+201,Giotto,Giotto,1604,1610
+201,Giotto,Giotto,2021,2027
+202,Giotto,GIOTTO,8,14
+203,Giotto,GIOTTO,8,14
+203,Giotto,Giotto,596,602
+203,Giotto,Giotto,935,941
+203,Giotto,Giotto,1330,1336
+203,Giotto,Giotto,1702,1708
+203,Giotto,Giotto,2108,2114
+203,Giotto,Giotto,2349,2355
+204,Giotto,GIOTTO,8,14
+204,Giotto,Giotto,66,72
+204,Giotto,Giotto,365,371
+204,Giotto,Giotto,561,567
+204,Giotto,Giotto,1286,1292
+205,Giotto,GIOTTO,8,14
+205,Giotto,Giotto,753,759
+205,Giotto,Giotto,1229,1235
+205,Giotto,Giotto,1465,1471
+205,Giotto,Giotto,1696,1702
+205,Giotto,Giotto,2021,2027
+206,Giotto,GIOTTO,8,14
+207,Giotto,GIOTTO,8,14
+207,Giotto,Giotto,1182,1188
+208,Giotto,GIOTTO,8,14
+209,Giotto,GIOTTO,8,14
+210,Giotto,GIOTTO,8,14
+211,Giotto,GIOTTO,8,14
+211,Giotto,Giotto,16,22
+211,Giotto,Giotto,261,267
+211,Giotto,Giotto,276,282
+212,Giotto,GIOTTO,8,14
+212,Giotto,Giotto,478,484
+212,Giotto,Giotto,760,766
+212,Giotto,Giotto,2342,2348
+212,Giotto,Giotto,3245,3251
+212,Giotto,Giotto,3525,3531
+213,Giotto,GIOTTO,8,14
+213,Giotto,Giotto,39,45
+212,Giotto,GIOTTO,8,14
+212,Giotto,Giotto,478,484
+212,Giotto,Giotto,760,766
+212,Giotto,Giotto,2342,2348
+212,Giotto,Giotto,3245,3251
+212,Giotto,Giotto,3525,3531
+213,Giotto,GIOTTO,8,14
+213,Giotto,Giotto,39,45
+214,Giotto,GIOTTO,8,14
+214,Giotto,Giotto,30,36
+214,Giotto,Giotto,983,989
+215,Giotto,GIOTTO,8,14
+215,Giotto,Giotto,59,65
+215,Giotto,Giotto,192,198
+215,Giotto,Giotto,456,462
+216,Giotto,GIOTTO,8,14
+216,Giotto,Giotto,16,22
+217,Giotto,GIOTTO,8,14
+217,Giotto,Giotto,20,26
+218,Giotto,GIOTTO,8,14
+218,Giotto,Giotto,69,75
+218,Giotto,Giotto,291,297
+218,Giotto,Giotto,373,379
+218,Giotto,Giotto,461,467
+218,Giotto,Giotto,586,592
+218,Giotto,Giotto,638,644
+218,Giotto,Giotto,1486,1492
+218,Giotto,Giotto,1624,1630
+218,Giotto,Giotto,1695,1701
+218,Giotto,Giotto,1823,1829
+218,Giotto,Giotto,1915,1921
+218,Giotto,Giotto,2006,2012
+218,Giotto,Giotto,2727,2733
+218,Giotto,Giotto,2744,2750
+218,Giotto,Giotto,2906,2912
+218,Giotto,Giotto,3021,3027
+219,Giotto,GIOTTO,8,14
+219,Giotto,Giotto,32,38
+219,Giotto,Giotto,372,378
+220,Giotto,GIOTTO,8,14
+220,Giotto,Giotto,62,68
+220,Giotto,Giotto,842,848
+221,Giotto,GIOTTO,8,14
+218,Giotto,GIOTTO,8,14
+218,Giotto,Giotto,69,75
+218,Giotto,Giotto,291,297
+218,Giotto,Giotto,373,379
+218,Giotto,Giotto,461,467
+218,Giotto,Giotto,586,592
+218,Giotto,Giotto,638,644
+218,Giotto,Giotto,1486,1492
+218,Giotto,Giotto,1624,1630
+218,Giotto,Giotto,1695,1701
+218,Giotto,Giotto,1823,1829
+218,Giotto,Giotto,1915,1921
+218,Giotto,Giotto,2006,2012
+218,Giotto,Giotto,2727,2733
+218,Giotto,Giotto,2744,2750
+218,Giotto,Giotto,2906,2912
+218,Giotto,Giotto,3021,3027
+219,Giotto,GIOTTO,8,14
+219,Giotto,Giotto,32,38
+219,Giotto,Giotto,372,378
+220,Giotto,GIOTTO,8,14
+220,Giotto,Giotto,62,68
+220,Giotto,Giotto,842,848
+221,Giotto,GIOTTO,8,14
+80,Giotto,Giotto,3510,3516
+83,Giotto,Giotto,456,462
+83,Giotto,Giotto,511,517
+85,Giotto,Giotto,136,142
+86,Giotto,Giotto,85,91
+87,Giotto,Giotto,109,115
+87,Giotto,Giotto,764,770
+88,Giotto,Giotto,52,58
+88,Giotto,Giotto,274,280
+131,Giotto,Giotto,1177,1183
+159,Giotto,Giotto,100,106
+159,Giotto,Giotto,356,362
+160,Giotto,Giotto,303,309
+163,Giotto,Giotto,444,450
+163,Giotto,Giotto,511,517
+188,Giotto,GIOTTO,0,6
+189,Giotto,GIOTTO,8,14
+189,Giotto,Giotto,279,285
+189,Giotto,Giotto,727,733
+189,Giotto,Giotto,1150,1156
+189,Giotto,Giotto,1891,1897
+189,Giotto,Giotto,2932,2938
+189,Giotto,Giotto,3162,3168
+189,Giotto,Giotto,3289,3295
+190,Giotto,GIOTTO,8,14
+190,Giotto,Giotto,38,44
+190,Giotto,Giotto,439,445
+190,Giotto,Giotto,1602,1608
+190,Giotto,Giotto,1828,1834
+190,Giotto,Giotto,2485,2491
+190,Giotto,Giotto,2789,2795
+190,Giotto,GIOTTO,8,14
+190,Giotto,Giotto,38,44
+190,Giotto,Giotto,439,445
+190,Giotto,Giotto,1602,1608
+190,Giotto,Giotto,1828,1834
+190,Giotto,Giotto,2485,2491
+190,Giotto,Giotto,2789,2795
+191,Giotto,GIOTTO,8,14
+191,Giotto,Giotto,1745,1751
+191,Giotto,Giotto,2033,2039
+191,Giotto,Giotto,4694,4700
+191,Giotto,Giotto,4932,4938
+191,Giotto,GIOTTO,8,14
+191,Giotto,Giotto,1745,1751
+191,Giotto,Giotto,2033,2039
+191,Giotto,Giotto,4694,4700
+191,Giotto,Giotto,4932,4938
+192,Giotto,GIOTTO,8,14
+192,Giotto,Giotto,1123,1129
+192,Giotto,Giotto,1586,1592
+192,Giotto,Giotto,4219,4225
+192,Giotto,Giotto,4350,4356
+192,Giotto,Giotto,4577,4583
+192,Giotto,Giotto,4795,4801
+192,Giotto,Giotto,5253,5259
+192,Giotto,Giotto,5574,5580
+192,Giotto,Giotto,5785,5791
+192,Giotto,Giotto,6015,6021
+192,Giotto,Giotto,6048,6054
+193,Giotto,GIOTTO,8,14
+194,Giotto,GIOTTO,8,14
+194,Giotto,Giotto,178,184
+192,Giotto,GIOTTO,8,14
+192,Giotto,Giotto,1123,1129
+192,Giotto,Giotto,1586,1592
+192,Giotto,Giotto,4219,4225
+192,Giotto,Giotto,4350,4356
+192,Giotto,Giotto,4577,4583
+192,Giotto,Giotto,4795,4801
+192,Giotto,Giotto,5253,5259
+192,Giotto,Giotto,5574,5580
+192,Giotto,Giotto,5785,5791
+192,Giotto,Giotto,6015,6021
+192,Giotto,Giotto,6048,6054
+193,Giotto,GIOTTO,8,14
+194,Giotto,GIOTTO,8,14
+194,Giotto,Giotto,178,184
+192,Giotto,GIOTTO,8,14
+192,Giotto,Giotto,1123,1129
+192,Giotto,Giotto,1586,1592
+192,Giotto,Giotto,4219,4225
+192,Giotto,Giotto,4350,4356
+192,Giotto,Giotto,4577,4583
+192,Giotto,Giotto,4795,4801
+192,Giotto,Giotto,5253,5259
+192,Giotto,Giotto,5574,5580
+192,Giotto,Giotto,5785,5791
+192,Giotto,Giotto,6015,6021
+192,Giotto,Giotto,6048,6054
+193,Giotto,GIOTTO,8,14
+194,Giotto,GIOTTO,8,14
+194,Giotto,Giotto,178,184
+195,Giotto,GIOTTO,8,14
+196,Giotto,GIOTTO,8,14
+196,Giotto,Giotto,69,75
+196,Giotto,Giotto,214,220
+196,Giotto,Giotto,919,925
+197,Giotto,GIOTTO,8,14
+197,Giotto,Giotto,16,22
+197,Giotto,Giotto,322,328
+197,Giotto,Giotto,941,947
+197,Giotto,Giotto,1656,1662
+197,Giotto,Giotto,3225,3231
+198,Giotto,GIOTTO,8,14
+198,Giotto,Giotto,28,34
+198,Giotto,Giotto,199,205
+198,Giotto,Giotto,397,403
+197,Giotto,GIOTTO,8,14
+197,Giotto,Giotto,16,22
+197,Giotto,Giotto,322,328
+197,Giotto,Giotto,941,947
+197,Giotto,Giotto,1656,1662
+197,Giotto,Giotto,3225,3231
+198,Giotto,GIOTTO,8,14
+198,Giotto,Giotto,28,34
+198,Giotto,Giotto,199,205
+198,Giotto,Giotto,397,403
+199,Giotto,GIOTTO,8,14
+199,Giotto,Giotto,41,47
+199,Giotto,Giotto,215,221
+199,Giotto,Giotto,345,351
+199,Giotto,Giotto,615,621
+199,Giotto,Giotto,758,764
+199,Giotto,Giotto,1163,1169
+199,Giotto,Giotto,1263,1269
+199,Giotto,Giotto,1529,1535
+200,Giotto,GIOTTO,8,14
+200,Giotto,Giotto,62,68
+200,Giotto,Giotto,285,291
+200,Giotto,Giotto,968,974
+201,Giotto,GIOTTO,8,14
+201,Giotto,Giotto,1604,1610
+201,Giotto,Giotto,2021,2027
+202,Giotto,GIOTTO,8,14
+203,Giotto,GIOTTO,8,14
+203,Giotto,Giotto,596,602
+203,Giotto,Giotto,935,941
+203,Giotto,Giotto,1330,1336
+203,Giotto,Giotto,1702,1708
+203,Giotto,Giotto,2108,2114
+203,Giotto,Giotto,2349,2355
+204,Giotto,GIOTTO,8,14
+204,Giotto,Giotto,66,72
+204,Giotto,Giotto,365,371
+204,Giotto,Giotto,561,567
+204,Giotto,Giotto,1286,1292
+205,Giotto,GIOTTO,8,14
+205,Giotto,Giotto,753,759
+205,Giotto,Giotto,1229,1235
+205,Giotto,Giotto,1465,1471
+205,Giotto,Giotto,1696,1702
+205,Giotto,Giotto,2021,2027
+206,Giotto,GIOTTO,8,14
+207,Giotto,GIOTTO,8,14
+207,Giotto,Giotto,1182,1188
+208,Giotto,GIOTTO,8,14
+209,Giotto,GIOTTO,8,14
+210,Giotto,GIOTTO,8,14
+211,Giotto,GIOTTO,8,14
+211,Giotto,Giotto,16,22
+211,Giotto,Giotto,261,267
+211,Giotto,Giotto,276,282
+212,Giotto,GIOTTO,8,14
+212,Giotto,Giotto,478,484
+212,Giotto,Giotto,760,766
+212,Giotto,Giotto,2342,2348
+212,Giotto,Giotto,3245,3251
+212,Giotto,Giotto,3525,3531
+213,Giotto,GIOTTO,8,14
+213,Giotto,Giotto,39,45
+212,Giotto,GIOTTO,8,14
+212,Giotto,Giotto,478,484
+212,Giotto,Giotto,760,766
+212,Giotto,Giotto,2342,2348
+212,Giotto,Giotto,3245,3251
+212,Giotto,Giotto,3525,3531
+213,Giotto,GIOTTO,8,14
+213,Giotto,Giotto,39,45
+214,Giotto,GIOTTO,8,14
+214,Giotto,Giotto,30,36
+214,Giotto,Giotto,983,989
+215,Giotto,GIOTTO,8,14
+215,Giotto,Giotto,59,65
+215,Giotto,Giotto,192,198
+215,Giotto,Giotto,456,462
+216,Giotto,GIOTTO,8,14
+216,Giotto,Giotto,16,22
+217,Giotto,GIOTTO,8,14
+217,Giotto,Giotto,20,26
+218,Giotto,GIOTTO,8,14
+218,Giotto,Giotto,69,75
+218,Giotto,Giotto,291,297
+218,Giotto,Giotto,373,379
+218,Giotto,Giotto,461,467
+218,Giotto,Giotto,586,592
+218,Giotto,Giotto,638,644
+218,Giotto,Giotto,1486,1492
+218,Giotto,Giotto,1624,1630
+218,Giotto,Giotto,1695,1701
+218,Giotto,Giotto,1823,1829
+218,Giotto,Giotto,1915,1921
+218,Giotto,Giotto,2006,2012
+218,Giotto,Giotto,2727,2733
+218,Giotto,Giotto,2744,2750
+218,Giotto,Giotto,2906,2912
+218,Giotto,Giotto,3021,3027
+219,Giotto,GIOTTO,8,14
+219,Giotto,Giotto,32,38
+219,Giotto,Giotto,372,378
+220,Giotto,GIOTTO,8,14
+220,Giotto,Giotto,62,68
+220,Giotto,Giotto,842,848
+221,Giotto,GIOTTO,8,14
+218,Giotto,GIOTTO,8,14
+218,Giotto,Giotto,69,75
+218,Giotto,Giotto,291,297
+218,Giotto,Giotto,373,379
+218,Giotto,Giotto,461,467
+218,Giotto,Giotto,586,592
+218,Giotto,Giotto,638,644
+218,Giotto,Giotto,1486,1492
+218,Giotto,Giotto,1624,1630
+218,Giotto,Giotto,1695,1701
+218,Giotto,Giotto,1823,1829
+218,Giotto,Giotto,1915,1921
+218,Giotto,Giotto,2006,2012
+218,Giotto,Giotto,2727,2733
+218,Giotto,Giotto,2744,2750
+218,Giotto,Giotto,2906,2912
+218,Giotto,Giotto,3021,3027
+219,Giotto,GIOTTO,8,14
+219,Giotto,Giotto,32,38
+219,Giotto,Giotto,372,378
+220,Giotto,GIOTTO,8,14
+220,Giotto,Giotto,62,68
+220,Giotto,Giotto,842,848
+221,Giotto,GIOTTO,8,14
+246,Giotto,Giotto,598,604
+246,Giotto,Giotto,880,886
+247,Giotto,Giotto,271,277
+247,Giotto,Giotto,546,552
+251,Giotto,Giotto,252,258
+251,Giotto,Giotto,474,480
+251,Giotto,Giotto,584,590
+258,Giotto,Giotto,499,505
+258,Giotto,Giotto,675,681
+259,Giotto,Giotto,234,240
+266,Giotto,Giotto,408,414
+266,Giotto,Giotto,2262,2268
+267,Giotto,Giotto,254,260
+267,Giotto,Giotto,1052,1058
+268,Giotto,Giotto,216,222
+267,Giotto,Giotto,254,260
+267,Giotto,Giotto,1052,1058
+268,Giotto,Giotto,216,222
+269,Giotto,Giotto,193,199
+269,Giotto,Giotto,398,404
+269,Giotto,Giotto,1266,1272
+315,Giotto,Giotto,249,255
+315,Giotto,Giotto,401,407
+315,Giotto,Giotto,431,437
+315,Giotto,Giotto,977,983
+315,Giotto,Giotto,1218,1224
+315,Giotto,Giotto,2176,2182
+331,Giotto,Giotto,553,559
+331,Giotto,Giotto,896,902
+333,Giotto,Giotto,3163,3169
+340,Giotto,Giotto,402,408
+347,Giotto,Giotto,766,772
+347,Giotto,Giotto,1312,1318
+347,Giotto,Giotto,1506,1512
+347,Giotto,Giotto,2097,2103
+347,Giotto,Giotto,2815,2821
+348,Giotto,Giotto,430,436
+352,Giotto,Giotto,572,578
+124,Giovanni Pisano,GIOVANNI PISANO,20,35
+124,Giovanni Pisano,PISANO,9,15
+125,Giovanni Pisano,GIOVANNI PISANO,20,35
+125,Giovanni Pisano,PISANO,9,15
+126,Giovanni Pisano,GIOVANNI PISANO,20,35
+126,Giovanni Pisano,Giovanni Pisano,1024,1039
+126,Giovanni Pisano,Giovanni,78,86
+126,Giovanni Pisano,Giovanni,475,483
+126,Giovanni Pisano,Giovanni,1559,1567
+126,Giovanni Pisano,PISANO,9,15
+127,Giovanni Pisano,GIOVANNI PISANO,20,35
+127,Giovanni Pisano,Giovanni,58,66
+127,Giovanni Pisano,Giovanni,621,629
+127,Giovanni Pisano,Giovanni,895,903
+127,Giovanni Pisano,PISANO,9,15
+128,Giovanni Pisano,GIOVANNI PISANO,20,35
+128,Giovanni Pisano,Giovanni,280,288
+128,Giovanni Pisano,PISANO,9,15
+129,Giovanni Pisano,GIOVANNI PISANO,20,35
+129,Giovanni Pisano,PISANO,9,15
+130,Giovanni Pisano,GIOVANNI PISANO,20,35
+130,Giovanni Pisano,Giovanni,82,90
+130,Giovanni Pisano,Giovanni,532,540
+130,Giovanni Pisano,Giovanni,933,941
+130,Giovanni Pisano,Giovanni,2943,2951
+130,Giovanni Pisano,PISANO,9,15
+131,Giovanni Pisano,GIOVANNI PISANO,20,35
+131,Giovanni Pisano,Giovanni Pisano,38,53
+131,Giovanni Pisano,Giovanni,280,288
+131,Giovanni Pisano,Giovanni,829,837
+131,Giovanni Pisano,Giovanni,1022,1030
+131,Giovanni Pisano,Giovanni,1549,1557
+131,Giovanni Pisano,PISANO,9,15
+130,Giovanni Pisano,GIOVANNI PISANO,20,35
+130,Giovanni Pisano,Giovanni,82,90
+130,Giovanni Pisano,Giovanni,532,540
+130,Giovanni Pisano,Giovanni,933,941
+130,Giovanni Pisano,Giovanni,2943,2951
+130,Giovanni Pisano,PISANO,9,15
+131,Giovanni Pisano,GIOVANNI PISANO,20,35
+131,Giovanni Pisano,Giovanni Pisano,38,53
+131,Giovanni Pisano,Giovanni,280,288
+131,Giovanni Pisano,Giovanni,829,837
+131,Giovanni Pisano,Giovanni,1022,1030
+131,Giovanni Pisano,Giovanni,1549,1557
+131,Giovanni Pisano,PISANO,9,15
+132,Giovanni Pisano,GIOVANNI PISANO,20,35
+132,Giovanni Pisano,Giovanni,539,547
+132,Giovanni Pisano,Giovanni,630,638
+132,Giovanni Pisano,Giovanni,861,869
+132,Giovanni Pisano,Giovanni,927,935
+132,Giovanni Pisano,PISANO,9,15
+133,Giovanni Pisano,GIOVANNI PISANO,20,35
+133,Giovanni Pisano,PISANO,9,15
+134,Giovanni Pisano,GIOVANNI PISANO,20,35
+134,Giovanni Pisano,Giovanni,55,63
+134,Giovanni Pisano,Giovanni,121,129
+134,Giovanni Pisano,PISANO,9,15
+135,Giovanni Pisano,GIOVANNI PISANO,20,35
+135,Giovanni Pisano,Giovanni,113,121
+135,Giovanni Pisano,PISANO,9,15
+136,Giovanni Pisano,GIOVANNI PISANO,20,35
+136,Giovanni Pisano,Giovanni,38,46
+136,Giovanni Pisano,Giovanni,394,402
+136,Giovanni Pisano,PISANO,9,15
+137,Giovanni Pisano,GIOVANNI PISANO,20,35
+137,Giovanni Pisano,PISANO,9,15
+138,Giovanni Pisano,GIOVANNI PISANO,20,35
+138,Giovanni Pisano,Giovanni,216,224
+138,Giovanni Pisano,Giovanni,436,444
+138,Giovanni Pisano,PISANO,9,15
+139,Giovanni Pisano,GIOVANNI PISANO,20,35
+139,Giovanni Pisano,PISANO,9,15
+140,Giovanni Pisano,GIOVANNI PISANO,20,35
+140,Giovanni Pisano,Giovanni,149,157
+140,Giovanni Pisano,PISANO,9,15
+141,Giovanni Pisano,GIOVANNI PISANO,20,35
+141,Giovanni Pisano,PISANO,9,15
+142,Giovanni Pisano,GIOVANNI PISANO,20,35
+142,Giovanni Pisano,PISANO,9,15
+143,Giovanni Pisano,GIOVANNI PISANO,20,35
+143,Giovanni Pisano,PISANO,9,15
+144,Giovanni Pisano,GIOVANNI PISANO,20,35
+144,Giovanni Pisano,PISANO,9,15
+145,Giovanni Pisano,GIOVANNI PISANO,20,35
+145,Giovanni Pisano,PISANO,9,15
+146,Giovanni Pisano,GIOVANNI PISANO,20,35
+146,Giovanni Pisano,PISANO,9,15
+147,Giovanni Pisano,GIOVANNI PISANO,20,35
+147,Giovanni Pisano,PISANO,9,15
+148,Giovanni Pisano,GIOVANNI PISANO,20,35
+148,Giovanni Pisano,PISANO,9,15
+149,Giovanni Pisano,GIOVANNI PISANO,20,35
+149,Giovanni Pisano,Giovanni,815,823
+149,Giovanni Pisano,Giovanni,1188,1196
+149,Giovanni Pisano,Giovanni,1576,1584
+149,Giovanni Pisano,Giovanni,1723,1731
+149,Giovanni Pisano,PISANO,9,15
+150,Giovanni Pisano,GIOVANNI PISANO,20,35
+150,Giovanni Pisano,Giovanni,77,85
+150,Giovanni Pisano,PISANO,9,15
+151,Giovanni Pisano,GIOVANNI,187,195
+112,Giovanni Pisano,GIOVANNI PISANO,20,35
+112,Giovanni Pisano,Giovanni,188,196
+112,Giovanni Pisano,PISANO,9,15
+113,Giovanni Pisano,GIOVANNI PISANO,20,35
+113,Giovanni Pisano,Giovanni,206,214
+113,Giovanni Pisano,PISANO,9,15
+113,Giovanni Pisano,Pisano,46,52
+124,Giovanni Pisano,GIOVANNI PISANO,20,35
+124,Giovanni Pisano,PISANO,9,15
+125,Giovanni Pisano,GIOVANNI PISANO,20,35
+125,Giovanni Pisano,PISANO,9,15
+126,Giovanni Pisano,GIOVANNI PISANO,20,35
+126,Giovanni Pisano,Giovanni Pisano,1024,1039
+126,Giovanni Pisano,Giovanni,78,86
+126,Giovanni Pisano,Giovanni,475,483
+126,Giovanni Pisano,Giovanni,1559,1567
+126,Giovanni Pisano,PISANO,9,15
+127,Giovanni Pisano,GIOVANNI PISANO,20,35
+127,Giovanni Pisano,Giovanni,58,66
+127,Giovanni Pisano,Giovanni,621,629
+127,Giovanni Pisano,Giovanni,895,903
+127,Giovanni Pisano,PISANO,9,15
+128,Giovanni Pisano,GIOVANNI PISANO,20,35
+128,Giovanni Pisano,Giovanni,280,288
+128,Giovanni Pisano,PISANO,9,15
+129,Giovanni Pisano,GIOVANNI PISANO,20,35
+129,Giovanni Pisano,PISANO,9,15
+130,Giovanni Pisano,GIOVANNI PISANO,20,35
+130,Giovanni Pisano,Giovanni,82,90
+130,Giovanni Pisano,Giovanni,532,540
+130,Giovanni Pisano,Giovanni,933,941
+130,Giovanni Pisano,Giovanni,2943,2951
+130,Giovanni Pisano,PISANO,9,15
+131,Giovanni Pisano,GIOVANNI PISANO,20,35
+131,Giovanni Pisano,Giovanni Pisano,38,53
+131,Giovanni Pisano,Giovanni,280,288
+131,Giovanni Pisano,Giovanni,829,837
+131,Giovanni Pisano,Giovanni,1022,1030
+131,Giovanni Pisano,Giovanni,1549,1557
+131,Giovanni Pisano,PISANO,9,15
+130,Giovanni Pisano,GIOVANNI PISANO,20,35
+130,Giovanni Pisano,Giovanni,82,90
+130,Giovanni Pisano,Giovanni,532,540
+130,Giovanni Pisano,Giovanni,933,941
+130,Giovanni Pisano,Giovanni,2943,2951
+130,Giovanni Pisano,PISANO,9,15
+131,Giovanni Pisano,GIOVANNI PISANO,20,35
+131,Giovanni Pisano,Giovanni Pisano,38,53
+131,Giovanni Pisano,Giovanni,280,288
+131,Giovanni Pisano,Giovanni,829,837
+131,Giovanni Pisano,Giovanni,1022,1030
+131,Giovanni Pisano,Giovanni,1549,1557
+131,Giovanni Pisano,PISANO,9,15
+132,Giovanni Pisano,GIOVANNI PISANO,20,35
+132,Giovanni Pisano,Giovanni,539,547
+132,Giovanni Pisano,Giovanni,630,638
+132,Giovanni Pisano,Giovanni,861,869
+132,Giovanni Pisano,Giovanni,927,935
+132,Giovanni Pisano,PISANO,9,15
+133,Giovanni Pisano,GIOVANNI PISANO,20,35
+133,Giovanni Pisano,PISANO,9,15
+134,Giovanni Pisano,GIOVANNI PISANO,20,35
+134,Giovanni Pisano,Giovanni,55,63
+134,Giovanni Pisano,Giovanni,121,129
+134,Giovanni Pisano,PISANO,9,15
+135,Giovanni Pisano,GIOVANNI PISANO,20,35
+135,Giovanni Pisano,Giovanni,113,121
+135,Giovanni Pisano,PISANO,9,15
+136,Giovanni Pisano,GIOVANNI PISANO,20,35
+136,Giovanni Pisano,Giovanni,38,46
+136,Giovanni Pisano,Giovanni,394,402
+136,Giovanni Pisano,PISANO,9,15
+137,Giovanni Pisano,GIOVANNI PISANO,20,35
+137,Giovanni Pisano,PISANO,9,15
+138,Giovanni Pisano,GIOVANNI PISANO,20,35
+138,Giovanni Pisano,Giovanni,216,224
+138,Giovanni Pisano,Giovanni,436,444
+138,Giovanni Pisano,PISANO,9,15
+139,Giovanni Pisano,GIOVANNI PISANO,20,35
+139,Giovanni Pisano,PISANO,9,15
+140,Giovanni Pisano,GIOVANNI PISANO,20,35
+140,Giovanni Pisano,Giovanni,149,157
+140,Giovanni Pisano,PISANO,9,15
+141,Giovanni Pisano,GIOVANNI PISANO,20,35
+141,Giovanni Pisano,PISANO,9,15
+142,Giovanni Pisano,GIOVANNI PISANO,20,35
+142,Giovanni Pisano,PISANO,9,15
+143,Giovanni Pisano,GIOVANNI PISANO,20,35
+143,Giovanni Pisano,PISANO,9,15
+144,Giovanni Pisano,GIOVANNI PISANO,20,35
+144,Giovanni Pisano,PISANO,9,15
+145,Giovanni Pisano,GIOVANNI PISANO,20,35
+145,Giovanni Pisano,PISANO,9,15
+146,Giovanni Pisano,GIOVANNI PISANO,20,35
+146,Giovanni Pisano,PISANO,9,15
+147,Giovanni Pisano,GIOVANNI PISANO,20,35
+147,Giovanni Pisano,PISANO,9,15
+148,Giovanni Pisano,GIOVANNI PISANO,20,35
+148,Giovanni Pisano,PISANO,9,15
+149,Giovanni Pisano,GIOVANNI PISANO,20,35
+149,Giovanni Pisano,Giovanni,815,823
+149,Giovanni Pisano,Giovanni,1188,1196
+149,Giovanni Pisano,Giovanni,1576,1584
+149,Giovanni Pisano,Giovanni,1723,1731
+149,Giovanni Pisano,PISANO,9,15
+150,Giovanni Pisano,GIOVANNI PISANO,20,35
+150,Giovanni Pisano,Giovanni,77,85
+150,Giovanni Pisano,PISANO,9,15
+151,Giovanni Pisano,GIOVANNI,187,195
+191,Giovanni Pisano,Giovanni,610,618
+225,Giovanni Pisano,Giovanni,107,115
+225,Giovanni Pisano,Giovanni,906,914
+225,Giovanni Pisano,Giovanni,1053,1061
+225,Giovanni Pisano,Giovanni,1576,1584
+225,Giovanni Pisano,Giovanni,2084,2092
+410,Giovanni Pisano,Giovanni,492,500
+394,Giovanni Tossicani,Giovanni Tossicani,94,112
+394,Giovanni Tossicani,Giovanni Tossicani,223,241
+394,Giovanni Tossicani,Giovanni,135,143
+394,Giovanni Tossicani,Giovanni,1218,1226
+359,Giovanni da Milano,Giovanni da Milano,160,178
+360,Giovanni da Milano,Giovanni,304,312
+363,Giovanni da Milano,Giovanni da Milano,289,307
+363,Giovanni da Milano,Giovanni,182,190
+363,Giovanni da Milano,Giovanni,367,375
+319,Giovanni da Pistoia,Giovanni da Pistoia,1471,1490
+399,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni da Santo Stefano a Ponte,832,865
+399,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),GIOVANNI DAL PONTE,8,26
+400,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),GIOVANNI DAL PONTE,8,26
+401,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),GIOVANNI DAL PONTE,8,26
+401,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni dal Ponte,535,553
+401,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,28,36
+401,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,732,740
+402,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),GIOVANNI DAL PONTE,8,26
+402,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,448,456
+403,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),GIOVANNI DAL PONTE,8,26
+403,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,134,142
+394,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni dal Ponte,135,153
+394,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,94,102
+394,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,223,231
+394,Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,1218,1226
+241,Jacobello,Jacobello,1089,1098
+239,Jacopo Lanfrani,Jacopo,1100,1106
+241,Jacopo Lanfrani,Jacopo Lanfrani,240,255
+241,Jacopo Lanfrani,Jacopo,473,479
+241,Jacopo Lanfrani,Jacopo,826,832
+94,Jacopo Tedesco (Lapo),LAPO,19,23
+100,Jacopo Tedesco (Lapo),LAPO,19,23
+101,Jacopo Tedesco (Lapo),Jacopo Tedesco,1353,1367
+101,Jacopo Tedesco (Lapo),Jacopo Tedesco,3372,3386
+101,Jacopo Tedesco (Lapo),Jacopo,4012,4018
+101,Jacopo Tedesco (Lapo),LAPO,19,23
+102,Jacopo Tedesco (Lapo),Jacopo,51,57
+102,Jacopo Tedesco (Lapo),Jacopo,399,405
+102,Jacopo Tedesco (Lapo),LAPO,19,23
+102,Jacopo Tedesco (Lapo),Lapo,410,414
+105,Jacopo Tedesco (Lapo),LAPO,19,23
+105,Jacopo Tedesco (Lapo),Lapo,2739,2743
+105,Jacopo Tedesco (Lapo),LAPO,19,23
+105,Jacopo Tedesco (Lapo),Lapo,2739,2743
+181,Jacopo Tedesco (Lapo),Lapo,1064,1068
+181,Jacopo Tedesco (Lapo),Lapo,1681,1685
+340,Jacopo Tedesco (Lapo),Lapo,181,185
+376,Jacopo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+380,Jacopo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+381,Jacopo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+382,Jacopo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+383,Jacopo di Cione Orcagna,DI CIONE ORCAGNA,15,31
+383,Jacopo di Cione Orcagna,Jacopo,72,78
+257,"Laurati, Pietro (called Lorenzetti)",PIETRO LAURATI,0,14
+258,"Laurati, Pietro (called Lorenzetti)",Pietro Laurati,21,35
+258,"Laurati, Pietro (called Lorenzetti)",LORENZETTI,8,18
+258,"Laurati, Pietro (called Lorenzetti)",PIETRO,1,7
+258,"Laurati, Pietro (called Lorenzetti)",Pietro,1245,1251
+259,"Laurati, Pietro (called Lorenzetti)",LORENZETTI,8,18
+259,"Laurati, Pietro (called Lorenzetti)",LAURATI,871,878
+259,"Laurati, Pietro (called Lorenzetti)",PIETRO,1,7
+260,"Laurati, Pietro (called Lorenzetti)",LORENZETTI,8,18
+260,"Laurati, Pietro (called Lorenzetti)",PIETRO,1,7
+260,"Laurati, Pietro (called Lorenzetti)",Pietro,21,27
+261,"Laurati, Pietro (called Lorenzetti)",Pietro Laurati,42,56
+261,"Laurati, Pietro (called Lorenzetti)",LORENZETTI,8,18
+261,"Laurati, Pietro (called Lorenzetti)",PIETRO,1,7
+261,"Laurati, Pietro (called Lorenzetti)",Pietro,130,136
+261,"Laurati, Pietro (called Lorenzetti)",Pietro,221,227
+262,"Laurati, Pietro (called Lorenzetti)",LORENZETTI,8,18
+262,"Laurati, Pietro (called Lorenzetti)",PIETRO,1,7
+262,"Laurati, Pietro (called Lorenzetti)",Pietro,35,41
+262,"Laurati, Pietro (called Lorenzetti)",Pietro,380,386
+262,"Laurati, Pietro (called Lorenzetti)",Pietro,525,531
+260,"Laurati, Pietro (called Lorenzetti)",LORENZETTI,8,18
+260,"Laurati, Pietro (called Lorenzetti)",PIETRO,1,7
+260,"Laurati, Pietro (called Lorenzetti)",Pietro,21,27
+261,"Laurati, Pietro (called Lorenzetti)",Pietro Laurati,42,56
+261,"Laurati, Pietro (called Lorenzetti)",LORENZETTI,8,18
+261,"Laurati, Pietro (called Lorenzetti)",PIETRO,1,7
+261,"Laurati, Pietro (called Lorenzetti)",Pietro,130,136
+261,"Laurati, Pietro (called Lorenzetti)",Pietro,221,227
+262,"Laurati, Pietro (called Lorenzetti)",LORENZETTI,8,18
+262,"Laurati, Pietro (called Lorenzetti)",PIETRO,1,7
+262,"Laurati, Pietro (called Lorenzetti)",Pietro,35,41
+262,"Laurati, Pietro (called Lorenzetti)",Pietro,380,386
+262,"Laurati, Pietro (called Lorenzetti)",Pietro,525,531
+215,"Laurati, Pietro (called Lorenzetti)",Pietro Laurati,211,225
+215,"Laurati, Pietro (called Lorenzetti)",Pietro,279,285
+239,Leonardo di Ser Giovanni,Leonardo di Ser Giovanni,900,924
+149,Lino,Lino,1781,1785
+155,Lippo,lippo,2036,2041
+394,Lippo,Lippo,159,164
+334,Lippo Memmi,Lippo Memmi,2981,2992
+335,Lippo Memmi,Lippo,505,510
+337,Lippo Memmi,Lippo,63,68
+337,Lippo Memmi,Lippo,691,696
+337,Lippo Memmi,Memmi,47,52
+338,Lippo Memmi,Lippo,22,27
+338,Lippo Memmi,Lippo,190,195
+339,Lippo Memmi,Lippo,43,48
+339,Lippo Memmi,Lippo,513,518
+339,Lippo Memmi,MEMMI,488,493
+339,Lippo Memmi,MEMMI,625,630
+342,Lippo Memmi,MEMMI,30,35
+121,Maglione,Maglione,1552,1560
+382,"Marco, Tommaso di",Tommaso di Marco,164,180
+180,Margaritone,MARGARITONE,8,19
+180,Margaritone,Margaritone,228,239
+180,Margaritone,Margaritone,433,444
+181,Margaritone,MARGARITONE,8,19
+181,Margaritone,Margaritone,1156,1167
+181,Margaritone,Margaritone,1621,1632
+182,Margaritone,MARGARITONE,8,19
+182,Margaritone,Margaritone,38,49
+183,Margaritone,MARGARITONE,8,19
+183,Margaritone,Margaritone,756,767
+183,Margaritone,Margaritone,1823,1834
+184,Margaritone,MARGARITONE,8,19
+185,Margaritone,MARGARITONE,8,19
+185,Margaritone,Margaritone,37,48
+130,Margaritone,Margaritone,899,910
+383,Mariotto,Mariotto,1142,1150
+411,Michele da Milano,Michele,1199,1206
+394,Michelino,Michelino,124,133
+336,Neroccio,Neroccio,106,114
+112,Niccola Pisano,NICCOLA PISANO,1,15
+112,Niccola Pisano,Niccola,176,183
+112,Niccola Pisano,PISANO,29,35
+113,Niccola Pisano,NICCOLA PISANO,1,15
+113,Niccola Pisano,Niccola Pisano,38,52
+113,Niccola Pisano,PISANO,29,35
+115,Niccola Pisano,NICCOLA PISANO,1,15
+115,Niccola Pisano,PISANO,29,35
+116,Niccola Pisano,NICCOLA PISANO,1,15
+116,Niccola Pisano,PISANO,29,35
+118,Niccola Pisano,NICCOLA PISANO,1,15
+118,Niccola Pisano,Niccola,38,45
+118,Niccola Pisano,Niccola,871,878
+118,Niccola Pisano,Niccola,1557,1564
+118,Niccola Pisano,Niccola,2192,2199
+118,Niccola Pisano,Niccola,2850,2857
+118,Niccola Pisano,Niccola,3281,3288
+118,Niccola Pisano,Niccola,3939,3946
+118,Niccola Pisano,Niccola,3981,3988
+118,Niccola Pisano,PISANO,29,35
+119,Niccola Pisano,NICCOLA PISANO,1,15
+119,Niccola Pisano,Niccola,55,62
+119,Niccola Pisano,Niccola,665,672
+119,Niccola Pisano,PISANO,29,35
+118,Niccola Pisano,NICCOLA PISANO,1,15
+118,Niccola Pisano,Niccola,38,45
+118,Niccola Pisano,Niccola,871,878
+118,Niccola Pisano,Niccola,1557,1564
+118,Niccola Pisano,Niccola,2192,2199
+118,Niccola Pisano,Niccola,2850,2857
+118,Niccola Pisano,Niccola,3281,3288
+118,Niccola Pisano,Niccola,3939,3946
+118,Niccola Pisano,Niccola,3981,3988
+118,Niccola Pisano,PISANO,29,35
+119,Niccola Pisano,NICCOLA PISANO,1,15
+119,Niccola Pisano,Niccola,55,62
+119,Niccola Pisano,Niccola,665,672
+119,Niccola Pisano,PISANO,29,35
+120,Niccola Pisano,NICCOLA PISANO,1,15
+120,Niccola Pisano,Niccola,38,45
+120,Niccola Pisano,Niccola,884,891
+120,Niccola Pisano,Niccola,1006,1013
+120,Niccola Pisano,Niccola,1538,1545
+120,Niccola Pisano,PISANO,29,35
+121,Niccola Pisano,NICCOLA PISANO,1,15
+121,Niccola Pisano,Niccola,80,87
+121,Niccola Pisano,Niccola,682,689
+121,Niccola Pisano,Niccola,1132,1139
+121,Niccola Pisano,Niccola,1784,1791
+121,Niccola Pisano,PISANO,29,35
+122,Niccola Pisano,NICCOLA PISANO,1,15
+122,Niccola Pisano,Niccola,38,45
+122,Niccola Pisano,PISANO,29,35
+123,Niccola Pisano,NICCOLA PISANO,1,15
+123,Niccola Pisano,PISANO,29,35
+124,Niccola Pisano,NICCOLA PISANO,1,15
+124,Niccola Pisano,Niccola,166,173
+124,Niccola Pisano,Niccola,294,301
+124,Niccola Pisano,Niccola,480,487
+124,Niccola Pisano,PISANO,29,35
+125,Niccola Pisano,NICCOLA PISANO,1,15
+125,Niccola Pisano,Niccola,61,68
+125,Niccola Pisano,Niccola,698,705
+125,Niccola Pisano,Niccola,788,795
+125,Niccola Pisano,PISANO,29,35
+126,Niccola Pisano,NICCOLA PISANO,1,15
+126,Niccola Pisano,Niccola,38,45
+126,Niccola Pisano,Niccola,290,297
+126,Niccola Pisano,PISANO,29,35
+126,Niccola Pisano,Pisano,1033,1039
+127,Niccola Pisano,NICCOLA PISANO,1,15
+127,Niccola Pisano,Niccola,430,437
+127,Niccola Pisano,Niccola,592,599
+127,Niccola Pisano,Niccola,1206,1213
+127,Niccola Pisano,PISANO,29,35
+128,Niccola Pisano,NICCOLA PISANO,1,15
+128,Niccola Pisano,PISANO,29,35
+129,Niccola Pisano,NICCOLA PISANO,1,15
+129,Niccola Pisano,PISANO,29,35
+112,Niccola Pisano,NICCOLA PISANO,1,15
+112,Niccola Pisano,Niccola,176,183
+112,Niccola Pisano,PISANO,29,35
+113,Niccola Pisano,NICCOLA PISANO,1,15
+113,Niccola Pisano,Niccola Pisano,38,52
+113,Niccola Pisano,PISANO,29,35
+115,Niccola Pisano,NICCOLA PISANO,1,15
+115,Niccola Pisano,PISANO,29,35
+116,Niccola Pisano,NICCOLA PISANO,1,15
+116,Niccola Pisano,PISANO,29,35
+118,Niccola Pisano,NICCOLA PISANO,1,15
+118,Niccola Pisano,Niccola,38,45
+118,Niccola Pisano,Niccola,871,878
+118,Niccola Pisano,Niccola,1557,1564
+118,Niccola Pisano,Niccola,2192,2199
+118,Niccola Pisano,Niccola,2850,2857
+118,Niccola Pisano,Niccola,3281,3288
+118,Niccola Pisano,Niccola,3939,3946
+118,Niccola Pisano,Niccola,3981,3988
+118,Niccola Pisano,PISANO,29,35
+119,Niccola Pisano,NICCOLA PISANO,1,15
+119,Niccola Pisano,Niccola,55,62
+119,Niccola Pisano,Niccola,665,672
+119,Niccola Pisano,PISANO,29,35
+118,Niccola Pisano,NICCOLA PISANO,1,15
+118,Niccola Pisano,Niccola,38,45
+118,Niccola Pisano,Niccola,871,878
+118,Niccola Pisano,Niccola,1557,1564
+118,Niccola Pisano,Niccola,2192,2199
+118,Niccola Pisano,Niccola,2850,2857
+118,Niccola Pisano,Niccola,3281,3288
+118,Niccola Pisano,Niccola,3939,3946
+118,Niccola Pisano,Niccola,3981,3988
+118,Niccola Pisano,PISANO,29,35
+119,Niccola Pisano,NICCOLA PISANO,1,15
+119,Niccola Pisano,Niccola,55,62
+119,Niccola Pisano,Niccola,665,672
+119,Niccola Pisano,PISANO,29,35
+120,Niccola Pisano,NICCOLA PISANO,1,15
+120,Niccola Pisano,Niccola,38,45
+120,Niccola Pisano,Niccola,884,891
+120,Niccola Pisano,Niccola,1006,1013
+120,Niccola Pisano,Niccola,1538,1545
+120,Niccola Pisano,PISANO,29,35
+121,Niccola Pisano,NICCOLA PISANO,1,15
+121,Niccola Pisano,Niccola,80,87
+121,Niccola Pisano,Niccola,682,689
+121,Niccola Pisano,Niccola,1132,1139
+121,Niccola Pisano,Niccola,1784,1791
+121,Niccola Pisano,PISANO,29,35
+122,Niccola Pisano,NICCOLA PISANO,1,15
+122,Niccola Pisano,Niccola,38,45
+122,Niccola Pisano,PISANO,29,35
+123,Niccola Pisano,NICCOLA PISANO,1,15
+123,Niccola Pisano,PISANO,29,35
+124,Niccola Pisano,NICCOLA PISANO,1,15
+124,Niccola Pisano,Niccola,166,173
+124,Niccola Pisano,Niccola,294,301
+124,Niccola Pisano,Niccola,480,487
+124,Niccola Pisano,PISANO,29,35
+125,Niccola Pisano,NICCOLA PISANO,1,15
+125,Niccola Pisano,Niccola,61,68
+125,Niccola Pisano,Niccola,698,705
+125,Niccola Pisano,Niccola,788,795
+125,Niccola Pisano,PISANO,29,35
+126,Niccola Pisano,NICCOLA PISANO,1,15
+126,Niccola Pisano,Niccola,38,45
+126,Niccola Pisano,Niccola,290,297
+126,Niccola Pisano,PISANO,29,35
+126,Niccola Pisano,Pisano,1033,1039
+127,Niccola Pisano,NICCOLA PISANO,1,15
+127,Niccola Pisano,Niccola,430,437
+127,Niccola Pisano,Niccola,592,599
+127,Niccola Pisano,Niccola,1206,1213
+127,Niccola Pisano,PISANO,29,35
+128,Niccola Pisano,NICCOLA PISANO,1,15
+128,Niccola Pisano,PISANO,29,35
+129,Niccola Pisano,NICCOLA PISANO,1,15
+129,Niccola Pisano,PISANO,29,35
+132,Niccola Pisano,NICCOLA PISANO,1,15
+132,Niccola Pisano,Niccola,56,63
+132,Niccola Pisano,Niccola,248,255
+132,Niccola Pisano,Niccola,520,527
+132,Niccola Pisano,PISANO,29,35
+133,Niccola Pisano,NICCOLA PISANO,1,15
+133,Niccola Pisano,PISANO,29,35
+134,Niccola Pisano,NICCOLA PISANO,1,15
+134,Niccola Pisano,PISANO,29,35
+135,Niccola Pisano,NICCOLA PISANO,1,15
+135,Niccola Pisano,PISANO,29,35
+148,Niccola Pisano,NICCOLA PISANO,1,15
+148,Niccola Pisano,PISANO,29,35
+149,Niccola Pisano,NICCOLA PISANO,1,15
+149,Niccola Pisano,Niccola,1387,1394
+149,Niccola Pisano,Niccola,1675,1682
+149,Niccola Pisano,PISANO,29,35
+150,Niccola Pisano,NICCOLA PISANO,1,15
+150,Niccola Pisano,Niccola,65,72
+150,Niccola Pisano,PISANO,29,35
+269,Nino Pisano,PISANO,15,21
+269,Nino Pisano,Nino,2876,2880
+270,Nino Pisano,PISANO,15,21
+271,Nino Pisano,PISANO,15,21
+272,Nino Pisano,PISANO,15,21
+273,Nino Pisano,PISANO,15,21
+274,Nino Pisano,PISANO,15,21
+275,Nino Pisano,PISANO,15,21
+275,Nino Pisano,Pisano,2457,2463
+276,Nino Pisano,PISANO,15,21
+277,Nino Pisano,PISANO,15,21
+277,Nino Pisano,Pisano,73,79
+278,Nino Pisano,PISANO,15,21
+278,Nino Pisano,PISANO,1621,1627
+278,Nino Pisano,Nino,46,50
+278,Nino Pisano,Nino,700,704
+278,Nino Pisano,Nino,879,883
+278,Nino Pisano,Nino,1204,1208
+278,Nino Pisano,Nino,1484,1488
+278,Nino Pisano,NINO,1592,1596
+279,Nino Pisano,PISANO,15,21
+279,Nino Pisano,Nino,99,103
+280,Nino Pisano,PISANO,15,21
+237,Paolo,Paolo,457,462
+242,Pesarese,Pesarese,220,228
+237,Pietro,Pietro,446,452
+241,Pietro Paolo,Pietro Paolo,1103,1115
+275,"Pisano, Tommaso",PISANO,15,21
+275,"Pisano, Tommaso",Pisano,2457,2463
+276,"Pisano, Tommaso",PISANO,15,21
+277,"Pisano, Tommaso",Tommaso Pisano,65,79
+277,"Pisano, Tommaso",Tommaso,257,264
+277,"Pisano, Tommaso",PISANO,15,21
+203,Raffaello Sanzio (or da Urbino),Raffaello da Urbino,2408,2427
+251,"Siena, Ugolino da (Sanese)",UGOLINO,45,52
+251,"Siena, Ugolino da (Sanese)",SANESE,53,59
+376,Sollazzino,Sollazzino,358,368
+245,Stefano,STEFANO,8,15
+245,Stefano,Stefano,60,67
+245,Stefano,Stefano,2735,2742
+245,Stefano,Stefano,3653,3660
+246,Stefano,STEFANO,8,15
+246,Stefano,Stefano,91,98
+247,Stefano,STEFANO,8,15
+247,Stefano,Stefano,292,299
+248,Stefano,STEFANO,8,15
+248,Stefano,Stefano,734,741
+248,Stefano,Stefano,1459,1466
+249,Stefano,STEFANO,8,15
+250,Stefano,STEFANO,8,15
+251,Stefano,STEFANO,8,15
+251,Stefano,Stefano,159,166
+251,Stefano,Stefano,458,465
+251,Stefano,Stefano,514,521
+251,Stefano,Stefano,1185,1192
+252,Stefano,STEFANO,8,15
+252,Stefano,Stefano,95,102
+253,Stefano,STEFANO,8,15
+253,Stefano,Stefano,77,84
+254,Stefano,STEFANO,8,15
+215,Stefano,Stefano,252,259
+388,Stefano,Stefano,1043,1050
+388,Stefano,Stefano,1342,1349
+388,Stefano,Stefano,1850,1857
+388,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
+388,"Tommaso (or Maso, called Giottino)",Giottino,1059,1067
+388,"Tommaso (or Maso, called Giottino)",Giottino,1502,1510
+388,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
+388,"Tommaso (or Maso, called Giottino)",Tommaso,1032,1039
+389,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
+389,"Tommaso (or Maso, called Giottino)",Giottino,534,542
+389,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
+389,"Tommaso (or Maso, called Giottino)",Tommaso,3169,3176
+390,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
+390,"Tommaso (or Maso, called Giottino)",Giottino,58,66
+390,"Tommaso (or Maso, called Giottino)",Giottino,495,503
+390,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
+391,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
+391,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
+391,"Tommaso (or Maso, called Giottino)",Tommaso,86,93
+392,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
+392,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
+392,"Tommaso (or Maso, called Giottino)",Tommaso,1327,1334
+393,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
+393,"Tommaso (or Maso, called Giottino)",Giottino,1502,1510
+393,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
+393,"Tommaso (or Maso, called Giottino)",Tommaso,50,57
+394,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
+394,"Tommaso (or Maso, called Giottino)",Giottino,47,55
+394,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
+394,"Tommaso (or Maso, called Giottino)",Tommaso,292,299
+395,"Tommaso (or Maso, called Giottino)",GIOTTINO,24,32
+395,"Tommaso (or Maso, called Giottino)",TOMMASO,8,15
+106,"Vasari, Giorgio",Giorgio Vasari,2086,2100
+118,"Vasari, Giorgio",Giorgio Vasari,3126,3140
+130,"Vasari, Giorgio",Giorgio Vasari,3251,3265
+130,"Vasari, Giorgio",Giorgio Vasari,3251,3265
+158,Vicino,Vicino,3177,3183
+171,Vicino,Vicino,385,391
