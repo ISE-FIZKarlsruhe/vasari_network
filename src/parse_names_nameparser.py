@@ -1,12 +1,16 @@
 import csv
 import re
+import json
 from nameparser import HumanName
 from Levenshtein import distance
+
 names_data=list()
-with open('index_names_vol1.csv') as f:
-    file_data=csv.DictReader(f)
-    file_data=list(file_data)
-for row in file_data:
+with open('../data/indices/index_names_vol_1.json', "r", encoding="utf-8") as f:
+    file_data=json.load(f)
+
+
+for artist, pages in file_data.items():
+    row = {"id":artist}
     row["middle_name"]=''
     name=row["id"]
     hbracket1=name.find('(')
@@ -32,8 +36,6 @@ for row in file_data:
             if (komma!=-1)&(name[komma:].find(', (')!=-1):
                 name=name.replace(',','')
 
-    print(row["id"])
-    print(name)
             
 
     parsed_name=HumanName(name)
@@ -75,41 +77,38 @@ for row in file_data:
         row["alias"]=str(row["first_name"]+' '+alias)
     else:
         row["alias"]=alias
-    keys=["id", "first_name", "middle_name", "surname", "full_name", "alias", "pages"]                    
-    #print(row)
-    sorted_row={key: row[key] for key in keys}
-    print(sorted_row)
-    names_data.append(sorted_row)
+    if len(pages)!=0:
+        row["pages"]=" ".join(sorted([str(x) for x in set(pages)]))
+        keys=["id", "first_name", "middle_name", "surname", "full_name", "alias", "pages"]                    
+        sorted_row={key: row[key] for key in keys}
+        names_data.append(sorted_row)
 
-print(names_data)
 
 #remove dublicates
 i=0
 for name1 in names_data:
     i=i+1
     s=i
-    name1_variations = [name1["full_name"]]+[name1["alias"]]
+    name1_variations = [name1["full_name"]]+name1["alias"].split(", ")
     name1_variations = [name.lower() for name in name1_variations if len(name)>0]
     name1_variations = set(name1_variations)
     for name2 in names_data[i:]:
-        match = False
-        lev_distances = []
-        name2_variations = [name2["full_name"]]+[name2["alias"]]
+        name2_variations = [name2["full_name"]]+name2["alias"].split(", ")
         name2_variations = [name.lower() for name in name2_variations if len(name)>0]
         name2_variations = set(name2_variations)
-        if name1["pages"]==name2["pages"]:
-            for name1_variant in name1_variations:
-                for name2_variant in name2_variations:
-                    lev_distance = distance(name1_variant, name2_variant)
-                    if lev_distance<3:
-                        print("name1: ", name1)
-                        print("name2: ", name2)
-                        match=True
-    if match==True:
-        names_data.pop(s)
+        lev_distances=[distance(name1_var, name2_var) for name2_var in name2_variations for name1_var in name1_variations]
+        min_distance=min(lev_distances)
+        if min_distance<3:
+            if name1["pages"]==name2["pages"]:
+                print(min_distance)
+                print("name1: ", name1)
+                print("name2: ", name2,"\n\n")
+                names_data.pop(s)
+                break
+        s=s+1
     s=s+1
 
-with open('index_names_vol_1.csv', 'w') as file:
+with open('../data/index_names_vol_1.csv', 'w', encoding="utf-8") as file:
     csv_writer=csv.DictWriter(file, fieldnames=["id","first_name", "middle_name", "surname", "full_name", "alias", "pages"])
     csv_writer.writeheader()
     csv_writer.writerows(names_data)

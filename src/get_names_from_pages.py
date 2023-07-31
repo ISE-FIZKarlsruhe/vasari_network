@@ -56,11 +56,11 @@ def match_with_ner(names_data, text_data):
     pages=paragraph["pages"].split(" ")
     names_on_page=[]
     for name in names_data:
-      namepages=name["pages"].split(" ")
-      for p in namepages:
-        if p in pages:
-          if (name in names_on_page)==False:
-            names_on_page.append(name)
+        namepages=name["pages"].split(" ")
+        for p in namepages:
+          if p in pages:
+            if (name in names_on_page)==False:
+              names_on_page.append(name)
      #predict ner
     sentence=Sentence(paragraph["text"])
     tagger.predict(sentence)
@@ -81,7 +81,7 @@ output = match_with_ner(names_data, text_data)
 
 # change if you use match_with_regex
 index=["paragraph_num", "start_char", "end_char", "surface_form", "index_name"]
-with open('../data/matched_names_vol_1.csv', 'w') as file:
+with open('../data/matched_names_vol_1_test.csv', 'w') as file:
     csv_writer=csv.DictWriter(file, index)
     csv_writer.writeheader()
     csv_writer.writerows(output)
