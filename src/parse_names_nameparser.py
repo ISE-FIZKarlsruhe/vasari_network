@@ -96,15 +96,14 @@ for name1 in names_data:
         name2_variations = [name2["full_name"]]+name2["alias"].split(", ")
         name2_variations = [name.lower() for name in name2_variations if len(name)>0]
         name2_variations = set(name2_variations)
-        lev_distances=[distance(name1_var, name2_var) for name2_var in name2_variations for name1_var in name1_variations]
-        min_distance=min(lev_distances)
-        if min_distance<3:
+        matches=list(set(name1_variations).intersection(name2_variations))
+        if matches!=[]:
+
             if name1["pages"]==name2["pages"]:
-                print(min_distance)
+                print("match: ", matches)
                 print("name1: ", name1)
-                print("name2: ", name2,"\n\n")
+                print("name2: ", name2)
                 names_data.pop(s)
-                break
         s=s+1
     s=s+1
 

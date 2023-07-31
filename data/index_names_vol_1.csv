@@ -49,7 +49,6 @@ Donato (Donatello),Donato,,,Donato,Donatello,130 178 48
 "Forlì, Guglielmo da",Guglielmo,,da Forlì,Guglielmo da Forlì,,92
 Forzore di Spinello,Forzore,,di Spinello,Forzore di Spinello,,104
 Fra Angelico (Fra Giovanni da Fiesole),Angelico,,,Fra Angelico,Fra Giovanni da Fiesole,162
-Fra Giovanni,Giovanni,,,Fra Giovanni,,59
 Fra Jacopo da Turrita,Jacopo,,da Turrita,Fra Jacopo da Turrita,,49 50 56
 Francesco (called di Maestro Giotto),Francesco,,,Francesco,Francesco di Maestro Giotto,91
 Francesco Traini,Francesco,,Traini,Francesco Traini,,198 199
@@ -66,6 +65,7 @@ Giovanni Tossicani,Giovanni,,Tossicani,Giovanni Tossicani,,208
 Giovanni da Milano,Giovanni,,da Milano,Giovanni da Milano,,182 183 185
 Giovanni da Pistoia,Giovanni,,da Pistoia,Giovanni da Pistoia,,164
 Giovanni dal Ponte (Giovanni da Santo Stefano a Ponte),Giovanni,,dal Ponte,Giovanni dal Ponte,Giovanni da Santo Stefano a Ponte,208 211 212 213
+"Giovanni, Fra",Giovanni,,,Fra Giovanni,,59
 Giuliano,Giuliano,,,Giuliano,,221
 Guglielmo,Guglielmo,,,Guglielmo,,15 31
 Jacobello,Jacobello,,,Jacobello,,105
@@ -95,9 +95,8 @@ Pietro Paolo,Pietro,,Paolo,Pietro Paolo,,105
 "Pisano, Tommaso",Tommaso,,Pisano,Tommaso Pisano,,130
 Polycletus,Polycletus,,,Polycletus,,167
 "Quercia, Jacopo della (called della Fonte)",Jacopo,,della Quercia,Jacopo della Quercia,Jacopo della Fonte,130
-Raffaello Sanzio (or da Urbino),Raffaello,,Sanzio,Raffaello Sanzio,Raffaello da Urbino,86
-"Ristoro da Campi, Fra",Ristoro,,da Campi,Fra Ristoro da Campi,,59
 "Sanese, Ugolino (Ugolino da Siena)",Ugolino,,Sanese,Ugolino Sanese,Ugolino da Siena,113
+"Sanzio, Raffaello (Raffaello da Urbino)",Raffaello,,Sanzio,Raffaello Sanzio,Raffaello da Urbino,86
 Sollazzino,Sollazzino,,,Sollazzino,,193
 "Spinello, Aretino",Aretino,,Spinello,Aretino Spinello,,67
 Stefano,Stefano,,,Stefano,,109 110 111 112 113 114 203 204 92
@@ -105,7 +104,5 @@ Stefano da Verona,Stefano,,da Verona,Stefano da Verona,,221
 Tafi,Tafi,,,Tafi,,51
 "Tedesco, Jacopo (Lapo)",Jacopo,,Tedesco,Jacopo Tedesco,Lapo,14 174 18 19 20 23 24 65
 "Turrita, Fra Jacopo da",Jacopo,,da Turrita,Fra Jacopo da Turrita,,49 50 56
-Ugolino Sanese (Ugolino da Siena),Ugolino,,Sanese,Ugolino Sanese,Ugolino da Siena,113
-"Urbino, Raffaello da (Raffaello Sanzio)",Raffaello,,da Urbino,Raffaello da Urbino,Raffaello Sanzio,86
 "Vasari, Giorgio",Giorgio,,Vasari,Giorgio Vasari,,10 111 119 120 126 25 31 38 39 58 79 92 94
 Vicino,Vicino,,,Vicino,,50 57 58

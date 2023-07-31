@@ -72,7 +72,7 @@ def match_with_ner(names_data, text_data):
           name_variations.extend(name["alias"].lower().split(", "))
           name_variations = [name for name in name_variations if len(name)>0]
           if entity.text.lower() in name_variations:
-            output_={"paragraph_num": paragraph["paragraph_id"], "start_char": entity.start_position, "end_char": entity.end_position, "surface form": entity.text, "index_name": name["id"]}
+            output_={"paragraph_num": paragraph["paragraph_id"], "start_char": entity.start_position, "end_char": entity.end_position, "surface_form": entity.text, "index_name": name["id"]}
             output.append(output_)
     pbar.update(1)
   return output  
