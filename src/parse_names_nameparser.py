@@ -104,6 +104,7 @@ for name1 in names_data:
                 print("name1: ", name1)
                 print("name2: ", name2)
                 names_data.pop(s)
+                s=s-1
         s=s+1
     s=s+1
 
