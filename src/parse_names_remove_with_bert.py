@@ -146,6 +146,15 @@ for name1 in names_data:
       max_similarity=max(similarities)
       if (max_similarity>0.9):
         #treshold 0.9
+        name_var1=[name1["full_name"]]
+        name_var1.extend(name1["alias"].split(", "))
+        name_var1 = [name for name in name_var1 if len(name)>0]
+        name_var2=[name2["full_name"]]
+        name_var2.extend(name2["alias"].split(", "))
+        name_var2 = [name for name in name_var2 if len(name)>0]
+        for name in name_var2:
+          if (name in name_var1)==False:
+            name1["alias"]=name1["alias"]+", "+name
         names_data.pop(s)
        
         s=s-1
@@ -153,7 +162,15 @@ for name1 in names_data:
       elif (max_similarity>0.8)&(max_similarity<=0.9):
         #check names close to treshold
         if name1["first_name"]==name2["first_name"]:
-          print("removed name: ", names_data[s])
+          name_var1=[name1["full_name"]]
+          name_var1.extend(name1["alias"].split(", "))
+          name_var1 = [name for name in name_var1 if len(name)>0]
+          name_var2=[name2["full_name"]]
+          name_var2.extend(name2["alias"].split(", "))
+          name_var2 = [name for name in name_var2 if len(name)>0]
+          for name in name_var2:
+            if (name in name_var1)==False:
+              name1["alias"]=name1["alias"]+", "+name
           names_data.pop(s)
           
           s=s-1
