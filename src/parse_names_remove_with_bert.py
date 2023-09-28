@@ -1,3 +1,4 @@
+from tqdm import tqdm
 import csv
 import re
 import json
@@ -8,7 +9,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 names_data=list()
-with open('../data/indices/index_names_vol_1.json', "r", encoding="utf-8") as f:
+with open('../data/indices/index_names_vol_4.json', "r", encoding="utf-8") as f:
     file_data=json.load(f)
 
 
@@ -91,15 +92,20 @@ for artist, pages in file_data.items():
 tokenizer = BertTokenizer.from_pretrained("bert-base-multilingual-cased")
 model = BertModel.from_pretrained("bert-base-multilingual-cased")
 n=0
+
 for names in names_data:
   names["number"]=n
   n=n+1
+
 def get_wordvectors(nametype):
+  print("Creating embeddings for "+nametype)
+  pbar = tqdm(total=len(names_data))
   #create file of wordvectors for full_name and alias
   names_vectors=[]
   for name in names_data:
     if name[nametype]=="":
       names_vectors.append(np.zeros(768)) #if name has no alias, set wordvector to zero
+      pbar.update(1)
     else:
       inputs=tokenizer(name[nametype], return_tensors="pt")
       outputs = model(**inputs) #create vectors
@@ -114,6 +120,7 @@ def get_wordvectors(nametype):
       fullname_vector/=length
       
       names_vectors.append(fullname_vector)
+      pbar.update(1)
   return names_vectors
 
 for name in names_data:
@@ -181,7 +188,7 @@ for name in names_data:
     name.pop("alias1")
     name.pop("alias2")
     name.pop("number")
-with open('../data/index_names_vol_1.csv', 'w', encoding="utf-8") as file:
+with open('../data/index_names_vol_4.csv', 'w', encoding="utf-8") as file:
     csv_writer=csv.DictWriter(file, fieldnames=["id","first_name", "middle_name", "surname", "full_name", "alias", "pages"])
     csv_writer.writeheader()
     csv_writer.writerows(names_data)
