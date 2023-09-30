@@ -5,7 +5,7 @@ Scripts for generating a Social Network weighted with Pointwise Mutual Informati
 ## Setup
 This code has been tested with **Python 3.9** and the following [requirements](requirements.txt).
 
-In order to run our scripts, it is necessary to pre-processed data from *The Lives of The Artists* uploaded on [Zenodo](). This is the only data format compliant with our source code. In order to run our scripts, create a directory called `data` and put it under our `main` directory.
+In order to run our scripts, it is necessary to download the pre-processed data from *The Lives of The Artists* from [Zenodo](). This is the only data format compliant with our source code. In order to run our scripts, create a directory called `data` and put it under our `main` directory.
 
 ```
 main/
@@ -34,14 +34,6 @@ python get_references.py
 
 This script uses the parsed names and a coreference resolver to identify in Vasari's text nouns and pronouns which refer to entries from the *Index of Names*. 
 
-**NOTE:** The coreference resolver requires GPU and takes some time (approx. 15 minutes). In order to speed up the process or if GPUs are not available you can use a faster but less accurate coreference resolver with CPU.
-
-```
-from fastcoref import FCoref
-
-model = FCoref(device='cpu')
-```
-
 ```
 python compute_pmi.py
 ```
@@ -55,3 +47,16 @@ python compute_centralities.py
 ```
 
 This script creates a weighted network out of PMI values. The centrality values are computed by using **degree centrality**, **beetweenness centrality** and **eigenvector centrality**.
+
+**NOTE:** The coreference resolver requires GPU and takes some time (approx. 15 minutes). In order to speed up the process or if GPUs are not available you can use a faster but less accurate coreference resolver with CPU.
+
+```python
+from fastcoref import FCoref
+
+model = FCoref(device='cpu')
+```
+
+## Results on Zenodo
+
+The results from this research are also stored indipenedently from this repository on [Zenodo]()
+
