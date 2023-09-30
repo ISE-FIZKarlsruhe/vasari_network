@@ -5,7 +5,7 @@ Scripts for generating a Social Network weighted with Pointwise Mutual Informati
 ## Setup
 This code has been tested with **Python 3.9** and the following [requirements](requirements.txt).
 
-In order to run our scripts, it is necessary to download the pre-processed data from *The Lives of The Artists* from [Zenodo](). This is the only data format compliant with our source code. In order to run our scripts, create a directory called `data` and put it under our `main` directory.
+In order to run our scripts, it is necessary to download the pre-processed data from *The Lives of The Artists* from [Zenodo](https://doi.org/10.5281/zenodo.8395369). This is the only data format compliant with our source code. In order to run our scripts, create a directory called `data` and put it under our `main` directory.
 
 ```
 main/
@@ -58,5 +58,5 @@ model = FCoref(device='cpu')
 
 ## Results on Zenodo
 
-The results from this research are also stored indipenedently from this repository on [Zenodo]()
+The results from this research are also stored indipenedently from this repository on [Zenodo](https://doi.org/10.5281/zenodo.8395425)
 
