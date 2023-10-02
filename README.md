@@ -48,7 +48,7 @@ python compute_centralities.py
 
 This script creates a weighted network out of PMI values. The centrality values are computed by using **degree centrality**, **beetweenness centrality** and **eigenvector centrality**.
 
-**NOTE:** The coreference resolver requires GPU and takes some time (approx. 15 minutes). In order to speed up the process or if GPUs are not available you can use a faster but less accurate coreference resolver with CPU.
+**NOTE:** The coreference resolver requires GPU and takes some time (approx. 15 minutes). In order to speed up the process or if GPUs are not available you can use a faster but less accurate coreference resolver with CPU in `get_references.py`.
 
 ```python
 from fastcoref import FCoref
