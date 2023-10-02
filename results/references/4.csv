@@ -2303,10 +2303,10 @@ page,index_name,position,reference,paragraph
 176,"Caravaggio, Polidoro da (Polidoro Caldara)","(1565, 1567)",he,249
 176,"Caravaggio, Polidoro da (Polidoro Caldara)","(1774, 1782)",Polidoro,249
 176,"Caravaggio, Polidoro da (Polidoro Caldara)","(1791, 1799)",Polidoro,249
-176,"Caravaggio, Polidoro da (Polidoro Caldara)|Maturino","(1148, 1151)",him,249
-176,"Caravaggio, Polidoro da (Polidoro Caldara)|Maturino","(1761, 1769)",Maturino,249
-176,"Caravaggio, Polidoro da (Polidoro Caldara)|Maturino","(1804, 1812)",Maturino,249
-176,"Caravaggio, Polidoro da (Polidoro Caldara)|Maturino","(3813, 3821)",Polidoro,249
+176,Maturino,"(1148, 1151)",him,249
+176,Maturino,"(1761, 1769)",Maturino,249
+176,Maturino,"(1804, 1812)",Maturino,249
+176,Maturino,"(3813, 3821)",Polidoro,249
 179,"Caravaggio, Polidoro da (Polidoro Caldara)","(2702, 2710)",Polidoro,254
 179,"Caravaggio, Polidoro da (Polidoro Caldara)","(2816, 2819)",him,254
 182,Maturino,"(296, 304)",Maturino,258

@@ -1,6 +1,6 @@
 
 Degree Centrality Ranks: 
-1: Sanzio, Raffaello (Raffaello da Urbino) score: 29
+1: Sanzio, Raffaello (Raffaello da Urbino) score: 30
 2: Buonarroti, Michelagnolo score: 24
 3: Sarto, Andrea del (Andrea d' Agnolo) score: 16
 4: Vaga, Perino del (Perino Buonaccorsi, or de' Ceri) score: 14
@@ -12,25 +12,25 @@ Degree Centrality Ranks:
 10: Vinci, Leonardo da score: 11
 
 Betweenness Centrality Ranks: 
-1: Buonarroti, Michelagnolo score: 0.15186293922976984
-2: Sanzio, Raffaello (Raffaello da Urbino) score: 0.13960369505429843
-3: Vaga, Perino del (Perino Buonaccorsi, or de' Ceri) score: 0.10730761454554744
-4: Giotto score: 0.06685258116799778
-5: Masaccio score: 0.06274134336870285
-6: Donato (Donatello) score: 0.06123370832003404
-7: Sarto, Andrea del (Andrea d' Agnolo) score: 0.053609651967956105
-8: Vinci, Leonardo da score: 0.05319177583490672
-9: Perugino, Pietro (Pietro Vannucci, or Pietro da Castel della Pieve) score: 0.04512992330862121
-10: Parrhasius score: 0.04497095199914138
+1: Buonarroti, Michelagnolo score: 0.15213063939526994
+2: Sanzio, Raffaello (Raffaello da Urbino) score: 0.140928972642285
+3: Vaga, Perino del (Perino Buonaccorsi, or de' Ceri) score: 0.10823518899580642
+4: Giotto score: 0.06662360314978866
+5: Masaccio score: 0.06278893351846096
+6: Donato (Donatello) score: 0.061014488380533846
+7: Sarto, Andrea del (Andrea d' Agnolo) score: 0.05322962546012718
+8: Vinci, Leonardo da score: 0.05289043710192136
+9: Parrhasius score: 0.04498320663344189
+10: Perugino, Pietro (Pietro Vannucci, or Pietro da Castel della Pieve) score: 0.04494051973198201
 
 Eigenvector Centrality Ranks: 
-1: Sanzio, Raffaello (Raffaello da Urbino) score: 0.4664104004566804
-2: Sarto, Andrea del (Andrea d' Agnolo) score: 0.21947283981369142
-3: Vasari, Giorgio score: 0.18738303053784292
-4: Vaga, Perino del (Perino Buonaccorsi, or de' Ceri) score: 0.18342782266992438
-5: Romano, Giulio (Giulio Pippi de' Giannuzzi) score: 0.1825486057770234
-6: Ghirlandajo, Ridolfo score: 0.17894653315738177
-7: Udine, Giovanni da (Giovanni Nanni, or de' Ricamatori) score: 0.1695202399667109
-8: Urbino, Bramante da score: 0.1693187554789267
-9: Buonarroti, Michelagnolo score: 0.15047655887507677
-10: Dente, Marco (Marco da Ravenna) score: 0.1476237629750201
+1: Sanzio, Raffaello (Raffaello da Urbino) score: 0.4784328167225547
+2: Sarto, Andrea del (Andrea d' Agnolo) score: 0.21179523170768663
+3: Vasari, Giorgio score: 0.18714716185634397
+4: Romano, Giulio (Giulio Pippi de' Giannuzzi) score: 0.1840676501581827
+5: Vaga, Perino del (Perino Buonaccorsi, or de' Ceri) score: 0.17894213815382493
+6: Ghirlandajo, Ridolfo score: 0.17224259377760026
+7: Udine, Giovanni da (Giovanni Nanni, or de' Ricamatori) score: 0.16999974826975636
+8: Urbino, Bramante da score: 0.16909758715249806
+9: Dente, Marco (Marco da Ravenna) score: 0.14769706497060106
+10: Viniziano, Agostino (Agostino de' Musi) score: 0.14769706497060106

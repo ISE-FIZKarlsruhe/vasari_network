@@ -49,16 +49,28 @@ def main():
             characters=preds[0].get_clusters(as_strings=False)
             clusters=preds[0].get_clusters()
             for surfaces, char_pos in zip(clusters, characters):
-                references = set([surface.lower() for surface in surfaces])
+                references = [surface.lower() for surface in surfaces]
                 name_id = []
-                max_intersection = 0
+                max_matches = 0
+                max_tokens_matched = 0
                 for name in names_on_page:
+                    num_matches = 0
+                    num_tokens_matched = 0
                     name_var=[name["first_name"].lower(), name["surname"].lower(), name["full_name"].lower()]
                     name_var.extend(name["alias"].lower().split(", "))
                     name_var = set([name for name in name_var if len(name)>0])
-                    if len(references.intersection(name_var))>0 and len(references.intersection(name_var))>=max_intersection:
-                        name_id.append(name["id"])
-                        max_intersection=len(references.intersection(name_var))
+                    if len(name_var.intersection(set(references)))>0:
+                        for variant in name_var:
+                            if variant in references:
+                                num_matches+=len([x for x in references if x==variant])
+                                if len(variant.split(" "))>num_tokens_matched:
+                                    num_tokens_matched = len(variant.split(" "))
+                        if num_matches>max_matches and num_tokens_matched>max_tokens_matched:
+                            name_id = [name["id"]]
+                            max_matches=num_matches
+                            max_tokens_matched=num_tokens_matched
+                        elif num_matches==max_matches and num_tokens_matched==max_tokens_matched:
+                            name_id.append(name["id"])
                 if len(name_id)>0:
                     text_length = 0
                     name_id = "|".join(name_id)

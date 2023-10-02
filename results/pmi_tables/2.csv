@@ -1,92 +1,92 @@
 x,p_x,y,p_y,p_yx,pmi_yx
-"Ghiberti, Bonaccorso",0.0025,Polycletus,0.0025,1.0,8.643856189774725
-"Galassi, Galasso (Galasso Ferrarese)",0.0025,Simone,0.0025,1.0,8.643856189774725
-"Galassi, Galasso (Galasso Ferrarese)",0.0025,Cristofano,0.0025,1.0,8.643856189774725
+Simone,0.0025,"Galassi, Galasso (Galasso Ferrarese)",0.0025,1.0,8.643856189774725
 Simone,0.0025,Cristofano,0.0025,1.0,8.643856189774725
+"Galassi, Galasso (Galasso Ferrarese)",0.0025,Cristofano,0.0025,1.0,8.643856189774725
+Polycletus,0.0025,"Ghiberti, Bonaccorso",0.0025,1.0,8.643856189774725
 "Romano, Paolo",0.005,"Mino, Maestro (Mino del Regno, or del Reame)",0.005,1.0,7.643856189774724
-"Cosimo, Andrea di (Andrea di Cosimo Feltrini)",0.0025,"Rosselli, Cosimo",0.005,1.0,7.643856189774724
-"Mainardi, Bastiano (Bastiano da San Gimignano)",0.005,"Ghirlandajo, David",0.0025,0.5,7.643856189774724
+"Rosselli, Cosimo",0.005,"Cosimo, Andrea di (Andrea di Cosimo Feltrini)",0.0025,0.5,7.643856189774724
+"Ghirlandajo, David",0.0025,"Mainardi, Bastiano (Bastiano da San Gimignano)",0.005,1.0,7.643856189774724
 "Casentino, Jacopo di",0.0075,"Daddi, Bernardo",0.0025,0.33333333333333337,7.058893689053569
-"Filarete, Antonio",0.0075,"Ciuffagni, Bernardo",0.0025,0.33333333333333337,7.058893689053569
+"Ciuffagni, Bernardo",0.0025,"Filarete, Antonio",0.0075,1.0,7.058893689053569
+"Laurati, Pietro (Pietro Lorenzetti)",0.005,"Bologhini, Bartolommeo",0.005,0.5,6.643856189774725
 Margaritone,0.01,"Tedesco, Jacopo (Lapo)",0.0025,0.25,6.643856189774725
 "Tafi, Andrea",0.01,"Como, Guido da",0.0025,0.25,6.643856189774725
-"Laurati, Pietro (Pietro Lorenzetti)",0.005,"Bologhini, Bartolommeo",0.005,0.5,6.643856189774725
-"Maiano, Giuliano da",0.01,"Donzello, Polito del",0.0025,0.25,6.643856189774725
 "Baldovinetti, Alesso",0.01,Graffione,0.0025,0.25,6.643856189774725
-"Pollaiuolo, Antonio",0.01,"Pollaiuolo, Piero",0.005,0.5,6.643856189774725
-Agnolo (of Siena),0.0125,Agostino (of Siena),0.0075,0.6,6.321928094887362
+"Maiano, Giuliano da",0.01,"Donzello, Polito del",0.0025,0.25,6.643856189774725
+"Pollaiuolo, Piero",0.005,"Pollaiuolo, Antonio",0.01,1.0,6.643856189774725
 "Gaddi, Agnolo",0.0125,"Gaddi, Giovanni",0.0025,0.19999999999999998,6.321928094887362
-"Bellini, Gentile",0.0125,"Vivarino, Luigi",0.0025,0.19999999999999998,6.321928094887362
-"Bellini, Gentile",0.0125,"Bellini, Jacopo",0.005,0.39999999999999997,6.321928094887362
+Agnolo (of Siena),0.0125,Agostino (of Siena),0.0075,0.6,6.321928094887362
 "Mantegna, Andrea",0.0125,"Squarcione, Jacopo",0.0025,0.19999999999999998,6.321928094887362
+"Bellini, Gentile",0.0125,"Bellini, Jacopo",0.005,0.39999999999999997,6.321928094887362
+"Bellini, Gentile",0.0125,"Vivarino, Luigi",0.0025,0.19999999999999998,6.321928094887362
 "Pisano, Andrea",0.015,"Pisano, Nino",0.0025,0.16666666666666669,6.058893689053569
 Simone (brother of Donatello),0.005,"Filarete, Antonio",0.0075,0.5,6.058893689053569
-"Forlï¿½, Melozzo da",0.0025,"Gozzoli, Benozzo",0.015,1.0,6.058893689053569
+"Gozzoli, Benozzo",0.015,"Forlï¿½, Melozzo da",0.0025,0.16666666666666669,6.058893689053569
 "Fabriano, Gentile da",0.0075,"Pisanello, Vittore or Antonio",0.005,0.33333333333333337,6.058893689053569
 "Memmi, Simone (Simone Martini, or Sanese)",0.0175,"Memmi, Lippo",0.0075,0.4285714285714285,5.83650126771712
 "Quercia, Jacopo della (Jacopo della Fonte)",0.0175,Matteo (of Lucca),0.0025,0.14285714285714285,5.83650126771712
-"Bellini, Giovanni",0.0175,"Vivarino, Luigi",0.0025,0.14285714285714285,5.83650126771712
 "Verrocchio, Andrea",0.0175,Orsino,0.0025,0.14285714285714285,5.83650126771712
 "Botticelli, Sandro (Sandro di Botticello, or Alessandro Filipepi)",0.0175,Biagio (pupil of Botticelli),0.0025,0.14285714285714285,5.83650126771712
 "Botticelli, Sandro (Sandro di Botticello, or Alessandro Filipepi)",0.0175,Apelles,0.0025,0.14285714285714285,5.83650126771712
+"Bellini, Giovanni",0.0175,"Vivarino, Luigi",0.0025,0.14285714285714285,5.83650126771712
 "Aretino, Spinello",0.02,"Daddi, Bernardo",0.0025,0.125,5.643856189774724
 "Robbia, Luca della",0.02,"Robbia, Agostino della",0.0025,0.125,5.643856189774724
-"Donzello, Polito del",0.0025,"Maiano, Benedetto da",0.02,1.0,5.643856189774724
+"Maiano, Benedetto da",0.02,"Donzello, Polito del",0.0025,0.125,5.643856189774724
 "Maiano, Benedetto da",0.02,"Tasso, Domenico del",0.0025,0.125,5.643856189774724
 "Maiano, Benedetto da",0.02,"Cronaca, Il (Simone del Pollaiuolo)",0.0025,0.125,5.643856189774724
-"Viniziano, Domenico (Domenico da Venezia)",0.0125,"Messina, Antonello da",0.005,0.19999999999999998,5.321928094887363
+"Messina, Antonello da",0.005,"Viniziano, Domenico (Domenico da Venezia)",0.0125,0.5,5.321928094887363
 "Castagno, Andrea dal (Andrea degli Impiccati)",0.0225,"Viniziano, Domenico (Domenico da Venezia)",0.0125,0.4444444444444445,5.1520030934450505
 "Bellini, Gentile",0.0125,"Bellini, Giovanni",0.0175,0.6,5.099535673550914
-"Tafi, Andrea",0.01,"Gaddi, Gaddo",0.0075,0.25,5.058893689053569
 "Pisano, Andrea",0.015,"Pisano, Tommaso",0.005,0.16666666666666669,5.058893689053569
-"Ghirlandajo, Domenico",0.03,"Mainardi, Bastiano (Bastiano da San Gimignano)",0.005,0.16666666666666669,5.058893689053569
+"Gaddi, Gaddo",0.0075,"Tafi, Andrea",0.01,0.33333333333333337,5.058893689053569
+"Angelo, Lorentino d'",0.0075,"Francesca, Piero della (Piero Borghese, or Piero dal Borgo a San Sepolcro)",0.02,0.6666666666666667,5.058893689053569
 "Ghirlandajo, Domenico",0.03,"Ghirlandajo, David",0.0025,0.08333333333333334,5.058893689053569
-"Francesca, Piero della (Piero Borghese, or Piero dal Borgo a San Sepolcro)",0.02,"Angelo, Lorentino d'",0.0075,0.25,5.058893689053569
+"Ghirlandajo, Domenico",0.03,"Mainardi, Bastiano (Bastiano da San Gimignano)",0.005,0.16666666666666669,5.058893689053569
+"Buffalmacco, Buonamico",0.0325,"Giovanni, Bruno di",0.005,0.15384615384615385,4.943416471633633
+"Verrocchio, Andrea",0.0175,"Vinci, Leonardo da",0.005,0.14285714285714285,4.836501267717121
 "Bellini, Giovanni",0.0175,"Vecelli, Tiziano (Tiziano da Cadore)",0.005,0.14285714285714285,4.836501267717121
 "Bellini, Giovanni",0.0175,"Bellini, Jacopo",0.005,0.14285714285714285,4.836501267717121
-"Verrocchio, Andrea",0.0175,"Vinci, Leonardo da",0.005,0.14285714285714285,4.836501267717121
 "Ghiberti, Bartoluccio",0.01,"Pollaiuolo, Antonio",0.01,0.25,4.643856189774724
-"Maiano, Giuliano da",0.01,"Maiano, Benedetto da",0.02,0.5,4.643856189774724
-"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.045,"Ghiberti, Bonaccorso",0.0025,0.05555555555555556,4.473931188332413
-"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.045,Polycletus,0.0025,0.05555555555555556,4.473931188332413
-"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.045,"Ghiberti, Vittorio",0.0025,0.05555555555555556,4.473931188332413
-"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.045,"Buonarroti, Michelagnolo",0.0025,0.05555555555555556,4.473931188332413
-"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.045,"Panicale, Masolino da",0.0025,0.05555555555555556,4.473931188332413
-"Tafi, Andrea",0.01,"Cimabue, Giovanni",0.0275,0.5,4.184424571137428
-"Buffalmacco, Buonamico",0.03,"Giovanni, Bruno di",0.005,0.08333333333333334,4.058893689053568
-Agostino (of Siena),0.0075,"Pisano, Giovanni",0.02,0.33333333333333337,4.058893689053568
+"Maiano, Benedetto da",0.02,"Maiano, Giuliano da",0.01,0.25,4.643856189774724
+"Buonarroti, Michelagnolo",0.0025,"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.0475,1.0,4.395928676331139
+"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.0475,Polycletus,0.0025,0.05263157894736842,4.395928676331139
+"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.0475,"Ghiberti, Bonaccorso",0.0025,0.05263157894736842,4.395928676331139
+"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.0475,"Ghiberti, Vittorio",0.0025,0.05263157894736842,4.395928676331139
+"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.0475,"Panicale, Masolino da",0.0025,0.05263157894736842,4.395928676331139
+"Cimabue, Giovanni",0.0275,"Tafi, Andrea",0.01,0.18181818181818182,4.184424571137428
 "Pisano, Giovanni",0.02,"Pisano, Niccola",0.015,0.25,4.058893689053568
-"Aretino, Spinello",0.02,"Casentino, Jacopo di",0.0075,0.125,4.058893689053568
+"Pisano, Giovanni",0.02,Agostino (of Siena),0.0075,0.125,4.058893689053568
+"Casentino, Jacopo di",0.0075,"Aretino, Spinello",0.02,0.33333333333333337,4.058893689053568
 Donato (Donatello),0.0675,"Banco, Nanni d' Antonio di",0.005,0.07407407407407407,3.8889686876112557
 "Viniziano, Antonio",0.01,"Bellini, Giovanni",0.0175,0.25,3.8365012677171206
-"Vasari, Lazzaro (the elder)",0.01,"Francesca, Piero della (Piero Borghese, or Piero dal Borgo a San Sepolcro)",0.02,0.25,3.6438561897747253
+"Francesca, Piero della (Piero Borghese, or Piero dal Borgo a San Sepolcro)",0.02,"Vasari, Lazzaro (the elder)",0.01,0.125,3.6438561897747253
 Giotto,0.0825,"Capanna, Puccio",0.0025,0.030303030303030304,3.5994620704162714
 "Cimabue, Giovanni",0.0275,"Gaddi, Gaddo",0.0075,0.09090909090909091,3.5994620704162714
-"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.045,"Ghiberti, Bartoluccio",0.01,0.11111111111111112,3.4739311883324127
-Gherardo (of Florence),0.0075,"Ghirlandajo, Domenico",0.03,0.33333333333333337,3.4739311883324127
+"Ghirlandajo, Domenico",0.03,Gherardo (of Florence),0.0075,0.08333333333333334,3.4739311883324127
+"Ghiberti, Bartoluccio",0.01,"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.0475,0.5,3.3959286763311396
 "Gaddi, Taddeo",0.02,"Gaddi, Agnolo",0.0125,0.125,3.3219280948873626
 "Pisano, Giovanni",0.02,Agnolo (of Siena),0.0125,0.125,3.3219280948873626
-"Ghirlandajo, Domenico",0.03,"Botticelli, Sandro (Sandro di Botticello, or Alessandro Filipepi)",0.0175,0.16666666666666669,3.2515387669959646
-"Buffalmacco, Buonamico",0.03,"Orcagna, Andrea di Cione",0.01,0.08333333333333334,3.0588936890535687
-"Robbia, Luca della",0.02,"Spinelli, Parri",0.015,0.125,3.0588936890535687
+"Botticelli, Sandro (Sandro di Botticello, or Alessandro Filipepi)",0.0175,"Ghirlandajo, Domenico",0.03,0.2857142857142857,3.2515387669959646
+"Spinelli, Parri",0.015,"Robbia, Luca della",0.02,0.16666666666666669,3.0588936890535687
+"Orcagna, Andrea di Cione",0.01,"Buffalmacco, Buonamico",0.0325,0.25,2.9434164716336326
 Donato (Donatello),0.0675,Simone (brother of Donatello),0.005,0.037037037037037035,2.888968687611256
 Donato (Donatello),0.0675,"Padova, Vellano da",0.005,0.037037037037037035,2.888968687611256
-"Uccello, Paolo",0.0225,Masaccio,0.0175,0.11111111111111112,2.666576266274808
-Giotto,0.0825,"Tafi, Andrea",0.01,0.06060606060606061,2.5994620704162714
+Masaccio,0.0175,"Uccello, Paolo",0.0225,0.14285714285714285,2.666576266274808
 Giotto,0.0825,"Laurati, Pietro (Pietro Lorenzetti)",0.005,0.030303030303030304,2.5994620704162714
+Giotto,0.0825,"Tafi, Andrea",0.01,0.06060606060606061,2.5994620704162714
 "Cimabue, Giovanni",0.0275,Giotto,0.0825,0.4545454545454546,2.4619585466663367
 Giotto,0.0825,Stefano,0.0125,0.06060606060606061,2.2775339755289092
-Giotto,0.0825,"Pisano, Andrea",0.015,0.06060606060606061,2.0144995696951153
 Giotto,0.0825,"Cavallini, Pietro",0.0075,0.030303030303030304,2.0144995696951153
-"Pisano, Andrea",0.015,"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.045,0.16666666666666669,1.8889686876112564
+Giotto,0.0825,"Pisano, Andrea",0.015,0.06060606060606061,2.0144995696951153
+"Pisano, Andrea",0.015,"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.0475,0.16666666666666669,1.810966175609983
 Donato (Donatello),0.0675,"Uccello, Paolo",0.0225,0.07407407407407407,1.719043686168944
-"Maiano, Giuliano da",0.01,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",0.0775,0.25,1.68965987938785
-"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.045,"Verrocchio, Andrea",0.0175,0.05555555555555556,1.6665762662748083
+"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.0475,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",0.08,0.2631578947368421,1.7178567712185013
+"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",0.08,"Maiano, Giuliano da",0.01,0.03125,1.6438561897747248
 Giotto,0.0825,"Gaddi, Taddeo",0.02,0.06060606060606061,1.5994620704162712
-"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.045,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",0.0775,0.22222222222222224,1.5197348779455373
-Donato (Donatello),0.0675,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",0.0775,0.2222222222222222,1.5197348779455373
-Michelozzo Michelozzi,0.015,Donato (Donatello),0.0675,0.16666666666666669,1.3040061868901003
-"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.045,Donato (Donatello),0.0675,0.16666666666666666,1.3040061868900998
+"Verrocchio, Andrea",0.0175,"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.0475,0.14285714285714285,1.5885737542735352
+Donato (Donatello),0.0675,"Brunelleschi, Filippo (Filippo di Ser Brunellesco)",0.08,0.2222222222222222,1.4739311883324122
 Giotto,0.0825,"Gaddi, Agnolo",0.0125,0.030303030303030304,1.277533975528909
+Donato (Donatello),0.0675,"Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)",0.0475,0.1111111111111111,1.2260036748888268
+Donato (Donatello),0.0675,Michelozzo Michelozzi,0.0175,0.037037037037037035,1.081613765553652
 Donato (Donatello),0.0675,"Verrocchio, Andrea",0.0175,0.037037037037037035,1.081613765553652
 Donato (Donatello),0.0675,"Robbia, Luca della",0.02,0.037037037037037035,0.8889686876112559

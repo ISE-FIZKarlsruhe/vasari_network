@@ -29,8 +29,8 @@ Eigenvector Centrality Ranks:
 3: Pisano, Andrea score: 0.32895092500512635
 4: Tafi, Andrea score: 0.3276368219520587
 5: Cimabue, Giovanni score: 0.3042237829547123
-6: Gaddi, Gaddo score: 0.192988118929272
-7: Polycletus score: 0.1761762617884906
-8: Ghiberti, Bonaccorso score: 0.1761762617884906
-9: Laurati, Pietro (Pietro Lorenzetti) score: 0.1601501862994913
+6: Gaddi, Gaddo score: 0.19298811892927206
+7: Ghiberti, Bonaccorso score: 0.17617626178849058
+8: Polycletus score: 0.17617626178849058
+9: Laurati, Pietro (Pietro Lorenzetti) score: 0.16015018629949135
 10: Cavallini, Pietro score: 0.14521028882110593

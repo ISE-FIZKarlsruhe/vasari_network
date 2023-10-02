@@ -24,13 +24,13 @@ Betweenness Centrality Ranks:
 10: Maiano, Giuliano da score: 0.03411513859275053
 
 Eigenvector Centrality Ranks: 
-1: Sanzio, Raffaello (Raffaello da Urbino) score: 0.4667587250596277
+1: Sanzio, Raffaello (Raffaello da Urbino) score: 0.4667587250596278
 2: Buonarroti, Michelagnolo score: 0.40667442535260967
 3: Urbino, Bramante da score: 0.40501796576659077
 4: Romano, Giulio (Giulio Pippi de' Giannuzzi) score: 0.22116191849147124
 5: Udine, Giovanni da (Giovanni Nanni, or de' Ricamatori) score: 0.22116191849147124
-6: San Gallo, Giuliano da score: 0.21637900089759873
+6: San Gallo, Giuliano da score: 0.2163790008975987
 7: Perugino, Pietro (Pietro Vannucci, or Pietro da Castel della Pieve) score: 0.20943580031679743
-8: Dï¿½rer, Albrecht score: 0.1764087651780476
-9: Vinci, Leonardo da score: 0.1700249965936536
+8: Dï¿½rer, Albrecht score: 0.17640876517804754
+9: Vinci, Leonardo da score: 0.17002499659365358
 10: Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti) score: 0.16183212409017966

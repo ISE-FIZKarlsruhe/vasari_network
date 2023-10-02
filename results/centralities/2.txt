@@ -25,12 +25,12 @@ Betweenness Centrality Ranks:
 
 Eigenvector Centrality Ranks: 
 1: Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti) score: 0.5527445888933148
-2: Donato (Donatello) score: 0.43013027575380997
-3: Verrocchio, Andrea score: 0.28924340982919305
-4: Brunelleschi, Filippo (Filippo di Ser Brunellesco) score: 0.27359933845622264
-5: Pisano, Andrea score: 0.21195306641326875
-6: Polycletus score: 0.18997028062737792
-7: Ghiberti, Bonaccorso score: 0.18997028062737792
-8: Giotto score: 0.1674654994036986
-9: Ghiberti, Bartoluccio score: 0.152021902492249
-10: Panicale, Masolino da score: 0.14138006080897828
+2: Donato (Donatello) score: 0.4301302757538101
+3: Verrocchio, Andrea score: 0.2892434098291931
+4: Brunelleschi, Filippo (Filippo di Ser Brunellesco) score: 0.2735993384562226
+5: Pisano, Andrea score: 0.21195306641326878
+6: Ghiberti, Bonaccorso score: 0.1899702806273779
+7: Polycletus score: 0.1899702806273779
+8: Giotto score: 0.16746549940369862
+9: Ghiberti, Bartoluccio score: 0.15202190249224898
+10: Panicale, Masolino da score: 0.1413800608089783
