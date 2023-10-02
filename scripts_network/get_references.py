@@ -65,11 +65,14 @@ def main():
                                 num_matches+=len([x for x in references if x==variant])
                                 if len(variant.split(" "))>num_tokens_matched:
                                     num_tokens_matched = len(variant.split(" "))
-                        if num_matches>max_matches and num_tokens_matched>max_tokens_matched:
+                        if num_matches>max_matches:
                             name_id = [name["id"]]
                             max_matches=num_matches
                             max_tokens_matched=num_tokens_matched
-                        elif num_matches==max_matches and num_tokens_matched==max_tokens_matched:
+                        elif num_matches==max_matches and num_tokens_matched>max_tokens_matched:
+                            name_id=[name["id"]]
+                            max_tokens_matched = num_tokens_matched
+                        elif num_matches==max_matches:
                             name_id.append(name["id"])
                 if len(name_id)>0:
                     text_length = 0
