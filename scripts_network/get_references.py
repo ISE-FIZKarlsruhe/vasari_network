@@ -51,12 +51,14 @@ def main():
             for surfaces, char_pos in zip(clusters, characters):
                 references = set([surface.lower() for surface in surfaces])
                 name_id = []
+                max_intersection = 0
                 for name in names_on_page:
                     name_var=[name["first_name"].lower(), name["surname"].lower(), name["full_name"].lower()]
                     name_var.extend(name["alias"].lower().split(", "))
                     name_var = set([name for name in name_var if len(name)>0])
-                    if len(references.intersection(name_var))>0:
+                    if len(references.intersection(name_var))>0 and len(references.intersection(name_var))>=max_intersection:
                         name_id.append(name["id"])
+                        max_intersection=len(references.intersection(name_var))
                 if len(name_id)>0:
                     text_length = 0
                     name_id = "|".join(name_id)
