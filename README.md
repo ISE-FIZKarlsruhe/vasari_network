@@ -58,5 +58,5 @@ model = FCoref(device='cpu')
 
 ## Results on Zenodo
 
-The results from this research are also stored indipenedently from this repository on [Zenodo](https://doi.org/10.5281/zenodo.8395425)
+The results from this research are also stored indipenedently from this repository on [Zenodo](https://doi.org/10.5281/zenodo.8395425).
 
