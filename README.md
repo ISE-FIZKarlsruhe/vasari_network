@@ -1,6 +1,6 @@
 # Vasari Social Network
 
-Scripts for generating a Social Network weighted with Pointwise Mutual Information (PMI) from *The Lives of The Artists* (1568) by Giorgio Vasari.
+Scripts for generating a Social Network weighted with Pointwise Mutual Information (PMI) from *The Lives of The Artists* (1568) by Giorgio Vasari (translated by Gaston du C. de Vere). The network is extracted dynamically from a 10 volumes edition of the book. This means that a network is created for each volume. However, every network is the evolution of his precedent since it includes the information extracted from the previous volumes of the book. The numerical division of the results (from 0 to 9) reflects this dynamic extraction.
 
 ## Setup
 This code has been tested with **Python 3.9** and the following [requirements](requirements.txt).
