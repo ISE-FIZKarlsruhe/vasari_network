@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Buffalmacco, Buonamico", "label": "Buffalmacco, Buonamico", "shape": "dot"}, {"color": "#97c2fc", "id": "Margaritone", "label": "Margaritone", "shape": "dot"}, {"color": "#97c2fc", "id": "Gaddi, Gaddo", "label": "Gaddi, Gaddo", "shape": "dot"}, {"color": "#97c2fc", "id": "Gaddi, Taddeo", "label": "Gaddi, Taddeo", "shape": "dot"}, {"color": "#97c2fc", "id": "Tafi, Andrea", "label": "Tafi, Andrea", "shape": "dot"}, {"color": "#97c2fc", "id": "Stefano", "label": "Stefano", "shape": "dot"}, {"color": "#97c2fc", "id": "Cavallini, Pietro", "label": "Cavallini, Pietro", "shape": "dot"}, {"color": "#97c2fc", "id": "Tedesco, Jacopo (Lapo)", "label": "Tedesco, Jacopo (Lapo)", "shape": "dot"}, {"color": "#97c2fc", "id": "Gaddi, Giovanni", "label": "Gaddi, Giovanni", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisano, Tommaso", "label": "Pisano, Tommaso", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisano, Giovanni", "label": "Pisano, Giovanni", "shape": "dot"}, {"color": "#97c2fc", "id": "Giotto", "label": "Giotto", "shape": "dot"}, {"color": "#97c2fc", "id": "Agnolo (of Siena)", "label": "Agnolo (of Siena)", "shape": "dot"}, {"color": "#97c2fc", "id": "Como, Guido da", "label": "Como, Guido da", "shape": "dot"}, {"color": "#97c2fc", "id": "Cimabue, Giovanni", "label": "Cimabue, Giovanni", "shape": "dot"}, {"color": "#97c2fc", "id": "Laurati, Pietro (Pietro Lorenzetti)", "label": "Laurati, Pietro (Pietro Lorenzetti)", "shape": "dot"}, {"color": "#97c2fc", "id": "Orcagna, Andrea di Cione", "label": "Orcagna, Andrea di Cione", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisano, Niccola", "label": "Pisano, Niccola", "shape": "dot"}, {"color": "#97c2fc", "id": "Agostino (of Siena)", "label": "Agostino (of Siena)", "shape": "dot"}, {"color": "#97c2fc", "id": "Capanna, Puccio", "label": "Capanna, Puccio", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisano, Nino", "label": "Pisano, Nino", "shape": "dot"}, {"color": "#97c2fc", "id": "Gaddi, Agnolo", "label": "Gaddi, Agnolo", "shape": "dot"}, {"color": "#97c2fc", "id": "Memmi, Simone (Simone Martini, or Sanese)", "label": "Memmi, Simone (Simone Martini, or Sanese)", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisano, Andrea", "label": "Pisano, Andrea", "shape": "dot"}, {"color": "#97c2fc", "id": "Memmi, Lippo", "label": "Memmi, Lippo", "shape": "dot"}, {"color": "#97c2fc", "id": "Giovanni, Bruno di", "label": "Giovanni, Bruno di", "shape": "dot"}, {"color": "#97c2fc", "id": "Bologhini, Bartolommeo", "label": "Bologhini, Bartolommeo", "shape": "dot"}]);
+                  edges = new vis.DataSet([{"from": "Laurati, Pietro (Pietro Lorenzetti)", "to": "Bologhini, Bartolommeo", "weight": "4.954196310386876"}, {"from": "Margaritone", "to": "Tedesco, Jacopo (Lapo)", "weight": "4.954196310386876"}, {"from": "Tafi, Andrea", "to": "Como, Guido da", "weight": "4.954196310386876"}, {"from": "Pisano, Andrea", "to": "Pisano, Nino", "weight": "4.632268215499513"}, {"from": "Gaddi, Agnolo", "to": "Gaddi, Giovanni", "weight": "4.632268215499513"}, {"from": "Agnolo (of Siena)", "to": "Agostino (of Siena)", "weight": "4.632268215499513"}, {"from": "Memmi, Simone (Simone Martini, or Sanese)", "to": "Memmi, Lippo", "weight": "4.146841388329271"}, {"from": "Pisano, Andrea", "to": "Pisano, Tommaso", "weight": "3.632268215499513"}, {"from": "Gaddi, Gaddo", "to": "Tafi, Andrea", "weight": "3.3692338096657193"}, {"from": "Buffalmacco, Buonamico", "to": "Giovanni, Bruno di", "weight": "3.2537565922457836"}, {"from": "Cimabue, Giovanni", "to": "Tafi, Andrea", "weight": "2.494764691749578"}, {"from": "Pisano, Giovanni", "to": "Pisano, Niccola", "weight": "2.3692338096657193"}, {"from": "Pisano, Giovanni", "to": "Agostino (of Siena)", "weight": "2.3692338096657193"}, {"from": "Giotto", "to": "Capanna, Puccio", "weight": "1.9098021910284217"}, {"from": "Cimabue, Giovanni", "to": "Gaddi, Gaddo", "weight": "1.9098021910284217"}, {"from": "Gaddi, Agnolo", "to": "Gaddi, Taddeo", "weight": "1.824913293441909"}, {"from": "Pisano, Giovanni", "to": "Agnolo (of Siena)", "weight": "1.632268215499513"}, {"from": "Orcagna, Andrea di Cione", "to": "Buffalmacco, Buonamico", "weight": "1.2537565922457832"}, {"from": "Giotto", "to": "Laurati, Pietro (Pietro Lorenzetti)", "weight": "0.9098021910284219"}, {"from": "Giotto", "to": "Tafi, Andrea", "weight": "0.9098021910284219"}, {"from": "Giotto", "to": "Cimabue, Giovanni", "weight": "0.7722986672784868"}, {"from": "Giotto", "to": "Pisano, Andrea", "weight": "0.5878740961410596"}, {"from": "Giotto", "to": "Stefano", "weight": "0.5878740961410596"}, {"from": "Giotto", "to": "Cavallini, Pietro", "weight": "0.32483969030726567"}, {"from": "Giotto", "to": "Gaddi, Taddeo", "weight": "0.10244726897081775"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

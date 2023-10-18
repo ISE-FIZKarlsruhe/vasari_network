@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Tasso, Domenico del", "label": "Tasso, Domenico del", "shape": "dot"}, {"color": "#97c2fc", "id": "Buffalmacco, Buonamico", "label": "Buffalmacco, Buonamico", "shape": "dot"}, {"color": "#97c2fc", "id": "Cristofano", "label": "Cristofano", "shape": "dot"}, {"color": "#97c2fc", "id": "Simone", "label": "Simone", "shape": "dot"}, {"color": "#97c2fc", "id": "Tafi, Andrea", "label": "Tafi, Andrea", "shape": "dot"}, {"color": "#97c2fc", "id": "Stefano", "label": "Stefano", "shape": "dot"}, {"color": "#97c2fc", "id": "Tedesco, Jacopo (Lapo)", "label": "Tedesco, Jacopo (Lapo)", "shape": "dot"}, {"color": "#97c2fc", "id": "Viniziano, Domenico (Domenico da Venezia)", "label": "Viniziano, Domenico (Domenico da Venezia)", "shape": "dot"}, {"color": "#97c2fc", "id": "Ghiberti, Bartoluccio", "label": "Ghiberti, Bartoluccio", "shape": "dot"}, {"color": "#97c2fc", "id": "Ghiberti, Vittorio", "label": "Ghiberti, Vittorio", "shape": "dot"}, {"color": "#97c2fc", "id": "Forl\u00ef\u00bf\u00bd, Melozzo da", "label": "Forl\u00ef\u00bf\u00bd, Melozzo da", "shape": "dot"}, {"color": "#97c2fc", "id": "Filarete, Antonio", "label": "Filarete, Antonio", "shape": "dot"}, {"color": "#97c2fc", "id": "Laurati, Pietro (Pietro Lorenzetti)", "label": "Laurati, Pietro (Pietro Lorenzetti)", "shape": "dot"}, {"color": "#97c2fc", "id": "Orcagna, Andrea di Cione", "label": "Orcagna, Andrea di Cione", "shape": "dot"}, {"color": "#97c2fc", "id": "Masaccio", "label": "Masaccio", "shape": "dot"}, {"color": "#97c2fc", "id": "Robbia, Agostino della", "label": "Robbia, Agostino della", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisano, Niccola", "label": "Pisano, Niccola", "shape": "dot"}, {"color": "#97c2fc", "id": "Botticelli, Sandro (Sandro di Botticello, or Alessandro Filipepi)", "label": "Botticelli, Sandro (Sandro di Botticello, or Alessandro Filipepi)", "shape": "dot"}, {"color": "#97c2fc", "id": "Donato (Donatello)", "label": "Donato (Donatello)", "shape": "dot"}, {"color": "#97c2fc", "id": "Donzello, Polito del", "label": "Donzello, Polito del", "shape": "dot"}, {"color": "#97c2fc", "id": "Pollaiuolo, Antonio", "label": "Pollaiuolo, Antonio", "shape": "dot"}, {"color": "#97c2fc", "id": "Baldovinetti, Alesso", "label": "Baldovinetti, Alesso", "shape": "dot"}, {"color": "#97c2fc", "id": "Squarcione, Jacopo", "label": "Squarcione, Jacopo", "shape": "dot"}, {"color": "#97c2fc", "id": "Fabriano, Gentile da", "label": "Fabriano, Gentile da", "shape": "dot"}, {"color": "#97c2fc", "id": "Memmi, Simone (Simone Martini, or Sanese)", "label": "Memmi, Simone (Simone Martini, or Sanese)", "shape": "dot"}, {"color": "#97c2fc", "id": "Memmi, Lippo", "label": "Memmi, Lippo", "shape": "dot"}, {"color": "#97c2fc", "id": "Giovanni, Bruno di", "label": "Giovanni, Bruno di", "shape": "dot"}, {"color": "#97c2fc", "id": "Bologhini, Bartolommeo", "label": "Bologhini, Bartolommeo", "shape": "dot"}, {"color": "#97c2fc", "id": "Gozzoli, Benozzo", "label": "Gozzoli, Benozzo", "shape": "dot"}, {"color": "#97c2fc", "id": "Graffione", "label": "Graffione", "shape": "dot"}, {"color": "#97c2fc", "id": "Francesca, Piero della (Piero Borghese, or Piero dal Borgo a San Sepolcro)", "label": "Francesca, Piero della (Piero Borghese, or Piero dal Borgo a San Sepolcro)", "shape": "dot"}, {"color": "#97c2fc", "id": "Gaddi, Taddeo", "label": "Gaddi, Taddeo", "shape": "dot"}, {"color": "#97c2fc", "id": "Uccello, Paolo", "label": "Uccello, Paolo", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisano, Giovanni", "label": "Pisano, Giovanni", "shape": "dot"}, {"color": "#97c2fc", "id": "Pollaiuolo, Piero", "label": "Pollaiuolo, Piero", "shape": "dot"}, {"color": "#97c2fc", "id": "Vasari, Lazzaro (the elder)", "label": "Vasari, Lazzaro (the elder)", "shape": "dot"}, {"color": "#97c2fc", "id": "Galassi, Galasso (Galasso Ferrarese)", "label": "Galassi, Galasso (Galasso Ferrarese)", "shape": "dot"}, {"color": "#97c2fc", "id": "Cimabue, Giovanni", "label": "Cimabue, Giovanni", "shape": "dot"}, {"color": "#97c2fc", "id": "Mantegna, Andrea", "label": "Mantegna, Andrea", "shape": "dot"}, {"color": "#97c2fc", "id": "Bellini, Jacopo", "label": "Bellini, Jacopo", "shape": "dot"}, {"color": "#97c2fc", "id": "Romano, Paolo", "label": "Romano, Paolo", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisano, Nino", "label": "Pisano, Nino", "shape": "dot"}, {"color": "#97c2fc", "id": "Bellini, Gentile", "label": "Bellini, Gentile", "shape": "dot"}, {"color": "#97c2fc", "id": "Cosimo, Andrea di (Andrea di Cosimo Feltrini)", "label": "Cosimo, Andrea di (Andrea di Cosimo Feltrini)", "shape": "dot"}, {"color": "#97c2fc", "id": "Brunelleschi, Filippo (Filippo di Ser Brunellesco)", "label": "Brunelleschi, Filippo (Filippo di Ser Brunellesco)", "shape": "dot"}, {"color": "#97c2fc", "id": "Verrocchio, Andrea", "label": "Verrocchio, Andrea", "shape": "dot"}, {"color": "#97c2fc", "id": "Angelo, Lorentino d\u0027", "label": "Angelo, Lorentino d\u0027", "shape": "dot"}, {"color": "#97c2fc", "id": "Apelles", "label": "Apelles", "shape": "dot"}, {"color": "#97c2fc", "id": "Margaritone", "label": "Margaritone", "shape": "dot"}, {"color": "#97c2fc", "id": "Gaddi, Gaddo", "label": "Gaddi, Gaddo", "shape": "dot"}, {"color": "#97c2fc", "id": "Mainardi, Bastiano (Bastiano da San Gimignano)", "label": "Mainardi, Bastiano (Bastiano da San Gimignano)", "shape": "dot"}, {"color": "#97c2fc", "id": "Ghiberti, Bonaccorso", "label": "Ghiberti, Bonaccorso", "shape": "dot"}, {"color": "#97c2fc", "id": "Messina, Antonello da", "label": "Messina, Antonello da", "shape": "dot"}, {"color": "#97c2fc", "id": "Buonarroti, Michelagnolo", "label": "Buonarroti, Michelagnolo", "shape": "dot"}, {"color": "#97c2fc", "id": "Ghirlandajo, Domenico", "label": "Ghirlandajo, Domenico", "shape": "dot"}, {"color": "#97c2fc", "id": "Ghirlandajo, David", "label": "Ghirlandajo, David", "shape": "dot"}, {"color": "#97c2fc", "id": "Como, Guido da", "label": "Como, Guido da", "shape": "dot"}, {"color": "#97c2fc", "id": "Aretino, Spinello", "label": "Aretino, Spinello", "shape": "dot"}, {"color": "#97c2fc", "id": "Bellini, Giovanni", "label": "Bellini, Giovanni", "shape": "dot"}, {"color": "#97c2fc", "id": "Cronaca, Il (Simone del Pollaiuolo)", "label": "Cronaca, Il (Simone del Pollaiuolo)", "shape": "dot"}, {"color": "#97c2fc", "id": "Ciuffagni, Bernardo", "label": "Ciuffagni, Bernardo", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisanello, Vittore or Antonio", "label": "Pisanello, Vittore or Antonio", "shape": "dot"}, {"color": "#97c2fc", "id": "Agostino (of Siena)", "label": "Agostino (of Siena)", "shape": "dot"}, {"color": "#97c2fc", "id": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "label": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "shape": "dot"}, {"color": "#97c2fc", "id": "Maiano, Benedetto da", "label": "Maiano, Benedetto da", "shape": "dot"}, {"color": "#97c2fc", "id": "Capanna, Puccio", "label": "Capanna, Puccio", "shape": "dot"}, {"color": "#97c2fc", "id": "Casentino, Jacopo di", "label": "Casentino, Jacopo di", "shape": "dot"}, {"color": "#97c2fc", "id": "Banco, Nanni d\u0027 Antonio di", "label": "Banco, Nanni d\u0027 Antonio di", "shape": "dot"}, {"color": "#97c2fc", "id": "Gherardo (of Florence)", "label": "Gherardo (of Florence)", "shape": "dot"}, {"color": "#97c2fc", "id": "Michelozzo Michelozzi", "label": "Michelozzo Michelozzi", "shape": "dot"}, {"color": "#97c2fc", "id": "Rosselli, Cosimo", "label": "Rosselli, Cosimo", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisano, Andrea", "label": "Pisano, Andrea", "shape": "dot"}, {"color": "#97c2fc", "id": "Vinci, Leonardo da", "label": "Vinci, Leonardo da", "shape": "dot"}, {"color": "#97c2fc", "id": "Orsino", "label": "Orsino", "shape": "dot"}, {"color": "#97c2fc", "id": "Maiano, Giuliano da", "label": "Maiano, Giuliano da", "shape": "dot"}, {"color": "#97c2fc", "id": "Cavallini, Pietro", "label": "Cavallini, Pietro", "shape": "dot"}, {"color": "#97c2fc", "id": "Robbia, Luca della", "label": "Robbia, Luca della", "shape": "dot"}, {"color": "#97c2fc", "id": "Gaddi, Giovanni", "label": "Gaddi, Giovanni", "shape": "dot"}, {"color": "#97c2fc", "id": "Pisano, Tommaso", "label": "Pisano, Tommaso", "shape": "dot"}, {"color": "#97c2fc", "id": "Viniziano, Antonio", "label": "Viniziano, Antonio", "shape": "dot"}, {"color": "#97c2fc", "id": "Giotto", "label": "Giotto", "shape": "dot"}, {"color": "#97c2fc", "id": "Quercia, Jacopo della (Jacopo della Fonte)", "label": "Quercia, Jacopo della (Jacopo della Fonte)", "shape": "dot"}, {"color": "#97c2fc", "id": "Daddi, Bernardo", "label": "Daddi, Bernardo", "shape": "dot"}, {"color": "#97c2fc", "id": "Castagno, Andrea dal (Andrea degli Impiccati)", "label": "Castagno, Andrea dal (Andrea degli Impiccati)", "shape": "dot"}, {"color": "#97c2fc", "id": "Mino, Maestro (Mino del Regno, or del Reame)", "label": "Mino, Maestro (Mino del Regno, or del Reame)", "shape": "dot"}, {"color": "#97c2fc", "id": "Agnolo (of Siena)", "label": "Agnolo (of Siena)", "shape": "dot"}, {"color": "#97c2fc", "id": "Simone (brother of Donatello)", "label": "Simone (brother of Donatello)", "shape": "dot"}, {"color": "#97c2fc", "id": "Padova, Vellano da", "label": "Padova, Vellano da", "shape": "dot"}, {"color": "#97c2fc", "id": "Vivarino, Luigi", "label": "Vivarino, Luigi", "shape": "dot"}, {"color": "#97c2fc", "id": "Panicale, Masolino da", "label": "Panicale, Masolino da", "shape": "dot"}, {"color": "#97c2fc", "id": "Spinelli, Parri", "label": "Spinelli, Parri", "shape": "dot"}, {"color": "#97c2fc", "id": "Gaddi, Agnolo", "label": "Gaddi, Agnolo", "shape": "dot"}, {"color": "#97c2fc", "id": "Biagio (pupil of Botticelli)", "label": "Biagio (pupil of Botticelli)", "shape": "dot"}, {"color": "#97c2fc", "id": "Vecelli, Tiziano (Tiziano da Cadore)", "label": "Vecelli, Tiziano (Tiziano da Cadore)", "shape": "dot"}, {"color": "#97c2fc", "id": "Polycletus", "label": "Polycletus", "shape": "dot"}, {"color": "#97c2fc", "id": "Matteo (of Lucca)", "label": "Matteo (of Lucca)", "shape": "dot"}]);
+                  edges = new vis.DataSet([{"from": "Simone", "to": "Galassi, Galasso (Galasso Ferrarese)", "weight": "8.643856189774725"}, {"from": "Simone", "to": "Cristofano", "weight": "8.643856189774725"}, {"from": "Galassi, Galasso (Galasso Ferrarese)", "to": "Cristofano", "weight": "8.643856189774725"}, {"from": "Polycletus", "to": "Ghiberti, Bonaccorso", "weight": "8.643856189774725"}, {"from": "Romano, Paolo", "to": "Mino, Maestro (Mino del Regno, or del Reame)", "weight": "7.643856189774724"}, {"from": "Rosselli, Cosimo", "to": "Cosimo, Andrea di (Andrea di Cosimo Feltrini)", "weight": "7.643856189774724"}, {"from": "Ghirlandajo, David", "to": "Mainardi, Bastiano (Bastiano da San Gimignano)", "weight": "7.643856189774724"}, {"from": "Casentino, Jacopo di", "to": "Daddi, Bernardo", "weight": "7.058893689053569"}, {"from": "Ciuffagni, Bernardo", "to": "Filarete, Antonio", "weight": "7.058893689053569"}, {"from": "Laurati, Pietro (Pietro Lorenzetti)", "to": "Bologhini, Bartolommeo", "weight": "6.643856189774725"}, {"from": "Margaritone", "to": "Tedesco, Jacopo (Lapo)", "weight": "6.643856189774725"}, {"from": "Tafi, Andrea", "to": "Como, Guido da", "weight": "6.643856189774725"}, {"from": "Baldovinetti, Alesso", "to": "Graffione", "weight": "6.643856189774725"}, {"from": "Maiano, Giuliano da", "to": "Donzello, Polito del", "weight": "6.643856189774725"}, {"from": "Pollaiuolo, Piero", "to": "Pollaiuolo, Antonio", "weight": "6.643856189774725"}, {"from": "Gaddi, Agnolo", "to": "Gaddi, Giovanni", "weight": "6.321928094887362"}, {"from": "Agnolo (of Siena)", "to": "Agostino (of Siena)", "weight": "6.321928094887362"}, {"from": "Mantegna, Andrea", "to": "Squarcione, Jacopo", "weight": "6.321928094887362"}, {"from": "Bellini, Gentile", "to": "Bellini, Jacopo", "weight": "6.321928094887362"}, {"from": "Bellini, Gentile", "to": "Vivarino, Luigi", "weight": "6.321928094887362"}, {"from": "Pisano, Andrea", "to": "Pisano, Nino", "weight": "6.058893689053569"}, {"from": "Simone (brother of Donatello)", "to": "Filarete, Antonio", "weight": "6.058893689053569"}, {"from": "Gozzoli, Benozzo", "to": "Forl\u00ef\u00bf\u00bd, Melozzo da", "weight": "6.058893689053569"}, {"from": "Fabriano, Gentile da", "to": "Pisanello, Vittore or Antonio", "weight": "6.058893689053569"}, {"from": "Memmi, Simone (Simone Martini, or Sanese)", "to": "Memmi, Lippo", "weight": "5.83650126771712"}, {"from": "Quercia, Jacopo della (Jacopo della Fonte)", "to": "Matteo (of Lucca)", "weight": "5.83650126771712"}, {"from": "Verrocchio, Andrea", "to": "Orsino", "weight": "5.83650126771712"}, {"from": "Botticelli, Sandro (Sandro di Botticello, or Alessandro Filipepi)", "to": "Biagio (pupil of Botticelli)", "weight": "5.83650126771712"}, {"from": "Botticelli, Sandro (Sandro di Botticello, or Alessandro Filipepi)", "to": "Apelles", "weight": "5.83650126771712"}, {"from": "Bellini, Giovanni", "to": "Vivarino, Luigi", "weight": "5.83650126771712"}, {"from": "Aretino, Spinello", "to": "Daddi, Bernardo", "weight": "5.643856189774724"}, {"from": "Robbia, Luca della", "to": "Robbia, Agostino della", "weight": "5.643856189774724"}, {"from": "Maiano, Benedetto da", "to": "Donzello, Polito del", "weight": "5.643856189774724"}, {"from": "Maiano, Benedetto da", "to": "Tasso, Domenico del", "weight": "5.643856189774724"}, {"from": "Maiano, Benedetto da", "to": "Cronaca, Il (Simone del Pollaiuolo)", "weight": "5.643856189774724"}, {"from": "Messina, Antonello da", "to": "Viniziano, Domenico (Domenico da Venezia)", "weight": "5.321928094887363"}, {"from": "Castagno, Andrea dal (Andrea degli Impiccati)", "to": "Viniziano, Domenico (Domenico da Venezia)", "weight": "5.1520030934450505"}, {"from": "Bellini, Gentile", "to": "Bellini, Giovanni", "weight": "5.099535673550914"}, {"from": "Pisano, Andrea", "to": "Pisano, Tommaso", "weight": "5.058893689053569"}, {"from": "Gaddi, Gaddo", "to": "Tafi, Andrea", "weight": "5.058893689053569"}, {"from": "Angelo, Lorentino d\u0027", "to": "Francesca, Piero della (Piero Borghese, or Piero dal Borgo a San Sepolcro)", "weight": "5.058893689053569"}, {"from": "Ghirlandajo, Domenico", "to": "Ghirlandajo, David", "weight": "5.058893689053569"}, {"from": "Ghirlandajo, Domenico", "to": "Mainardi, Bastiano (Bastiano da San Gimignano)", "weight": "5.058893689053569"}, {"from": "Buffalmacco, Buonamico", "to": "Giovanni, Bruno di", "weight": "4.943416471633633"}, {"from": "Verrocchio, Andrea", "to": "Vinci, Leonardo da", "weight": "4.836501267717121"}, {"from": "Bellini, Giovanni", "to": "Vecelli, Tiziano (Tiziano da Cadore)", "weight": "4.836501267717121"}, {"from": "Bellini, Giovanni", "to": "Bellini, Jacopo", "weight": "4.836501267717121"}, {"from": "Ghiberti, Bartoluccio", "to": "Pollaiuolo, Antonio", "weight": "4.643856189774724"}, {"from": "Maiano, Benedetto da", "to": "Maiano, Giuliano da", "weight": "4.643856189774724"}, {"from": "Buonarroti, Michelagnolo", "to": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "weight": "4.395928676331139"}, {"from": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "to": "Polycletus", "weight": "4.395928676331139"}, {"from": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "to": "Ghiberti, Bonaccorso", "weight": "4.395928676331139"}, {"from": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "to": "Ghiberti, Vittorio", "weight": "4.395928676331139"}, {"from": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "to": "Panicale, Masolino da", "weight": "4.395928676331139"}, {"from": "Cimabue, Giovanni", "to": "Tafi, Andrea", "weight": "4.184424571137428"}, {"from": "Pisano, Giovanni", "to": "Pisano, Niccola", "weight": "4.058893689053568"}, {"from": "Pisano, Giovanni", "to": "Agostino (of Siena)", "weight": "4.058893689053568"}, {"from": "Casentino, Jacopo di", "to": "Aretino, Spinello", "weight": "4.058893689053568"}, {"from": "Donato (Donatello)", "to": "Banco, Nanni d\u0027 Antonio di", "weight": "3.8889686876112557"}, {"from": "Viniziano, Antonio", "to": "Bellini, Giovanni", "weight": "3.8365012677171206"}, {"from": "Francesca, Piero della (Piero Borghese, or Piero dal Borgo a San Sepolcro)", "to": "Vasari, Lazzaro (the elder)", "weight": "3.6438561897747253"}, {"from": "Giotto", "to": "Capanna, Puccio", "weight": "3.5994620704162714"}, {"from": "Cimabue, Giovanni", "to": "Gaddi, Gaddo", "weight": "3.5994620704162714"}, {"from": "Ghirlandajo, Domenico", "to": "Gherardo (of Florence)", "weight": "3.4739311883324127"}, {"from": "Ghiberti, Bartoluccio", "to": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "weight": "3.3959286763311396"}, {"from": "Gaddi, Taddeo", "to": "Gaddi, Agnolo", "weight": "3.3219280948873626"}, {"from": "Pisano, Giovanni", "to": "Agnolo (of Siena)", "weight": "3.3219280948873626"}, {"from": "Botticelli, Sandro (Sandro di Botticello, or Alessandro Filipepi)", "to": "Ghirlandajo, Domenico", "weight": "3.2515387669959646"}, {"from": "Spinelli, Parri", "to": "Robbia, Luca della", "weight": "3.0588936890535687"}, {"from": "Orcagna, Andrea di Cione", "to": "Buffalmacco, Buonamico", "weight": "2.9434164716336326"}, {"from": "Donato (Donatello)", "to": "Simone (brother of Donatello)", "weight": "2.888968687611256"}, {"from": "Donato (Donatello)", "to": "Padova, Vellano da", "weight": "2.888968687611256"}, {"from": "Masaccio", "to": "Uccello, Paolo", "weight": "2.666576266274808"}, {"from": "Giotto", "to": "Laurati, Pietro (Pietro Lorenzetti)", "weight": "2.5994620704162714"}, {"from": "Giotto", "to": "Tafi, Andrea", "weight": "2.5994620704162714"}, {"from": "Cimabue, Giovanni", "to": "Giotto", "weight": "2.4619585466663367"}, {"from": "Giotto", "to": "Stefano", "weight": "2.2775339755289092"}, {"from": "Giotto", "to": "Cavallini, Pietro", "weight": "2.0144995696951153"}, {"from": "Giotto", "to": "Pisano, Andrea", "weight": "2.0144995696951153"}, {"from": "Pisano, Andrea", "to": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "weight": "1.810966175609983"}, {"from": "Donato (Donatello)", "to": "Uccello, Paolo", "weight": "1.719043686168944"}, {"from": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "to": "Brunelleschi, Filippo (Filippo di Ser Brunellesco)", "weight": "1.7178567712185013"}, {"from": "Brunelleschi, Filippo (Filippo di Ser Brunellesco)", "to": "Maiano, Giuliano da", "weight": "1.6438561897747248"}, {"from": "Giotto", "to": "Gaddi, Taddeo", "weight": "1.5994620704162712"}, {"from": "Verrocchio, Andrea", "to": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "weight": "1.5885737542735352"}, {"from": "Donato (Donatello)", "to": "Brunelleschi, Filippo (Filippo di Ser Brunellesco)", "weight": "1.4739311883324122"}, {"from": "Giotto", "to": "Gaddi, Agnolo", "weight": "1.277533975528909"}, {"from": "Donato (Donatello)", "to": "Ghiberti, Lorenzo (Lorenzo di Bartoluccio Ghiberti, or Lorenzo di Cione Ghiberti)", "weight": "1.2260036748888268"}, {"from": "Donato (Donatello)", "to": "Michelozzo Michelozzi", "weight": "1.081613765553652"}, {"from": "Donato (Donatello)", "to": "Verrocchio, Andrea", "weight": "1.081613765553652"}, {"from": "Donato (Donatello)", "to": "Robbia, Luca della", "weight": "0.8889686876112559"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
