@@ -1,6 +1,6 @@
 # Vasari Social Network
 
-Scripts for generating a Social Network weighted with Pointwise Mutual Information (PMI) from *The Lives of The Artists* (1568) by Giorgio Vasari (translated by Gaston du C. de Vere). The network is extracted dynamically from a 10 volumes edition of the book. This means that a network is created for each volume. However, every network is the evolution of his precedent since it includes the information extracted from the previous volumes of the book. The numerical division of the results (from 0 to 9) reflects this dynamic extraction.
+Scripts for generating a Social Network weighted with Pointwise Mutual Information (PMI) from *The Lives of The Artists* (1568) by Giorgio Vasari.
 
 ## Setup
 This code has been tested with **Python 3.9** and the following [requirements](requirements.txt).
@@ -40,7 +40,12 @@ python compute_pmi.py
 
 This script iterates over all the references scraped from a 10 volumes edition of Vasari and, based on the frequency of each name in the text and their number of co-occurences with other names, computes 10 different tables with Pointwise Mutual Information (PMI) values. The last table, [9.csv](results/pmi_tables/9.csv), contains values which are calculated on all 10 volumes (0 1 2 3 4 5 6 7 8 9).
 
-To create the final network, the PMI value is used to filter out connections between names whose PMI is lower than 1.
+To create the final network, the PMI value is used to filter out connections between names whose PMI is lower than 0.
+
+```
+python create_graphs.py
+```
+This scripts uses the values in the PMI tables to create a visualization in HTML of the 10 dynamic networks using [Pyvis](https://pyvis.readthedocs.io/en/latest/).
 
 ```
 python compute_centralities.py
@@ -48,7 +53,8 @@ python compute_centralities.py
 
 This script creates a weighted network out of PMI values. The centrality values are computed by using **degree centrality**, **beetweenness centrality** and **eigenvector centrality**.
 
-**NOTE:** The coreference resolver requires GPU and takes some time (approx. 15 minutes). In order to speed up the process or if GPUs are not available you can use a faster but less accurate coreference resolver with CPU in `get_references.py`.
+
+**NOTE:** The coreference resolver requires GPU and takes some time (approx. 15 minutes). In order to speed up the process or if GPUs are not available you can use a faster but less accurate coreference resolver with CPU.
 
 ```python
 from fastcoref import FCoref
