@@ -13,3 +13,4 @@ torch==2.0.1
 tqdm==4.66.1
 transformers==4.33.1
 urllib3==1.26
+rdflib==7.0.0
