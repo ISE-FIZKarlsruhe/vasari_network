@@ -5,23 +5,86 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+  .data_model img {
+        margin-left:10%;
+        height:auto;
+        width: 80%;
+        padding-top:20pt;
+      }
 </style>
 </head>
 <body>
 
-<h2>Vasari Social Network</h2>
-<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+<h1>Vasari Social Network</h1>
 
+<div id="index">
+  <h2>Index</h2>
+  <ul>
+    <li><a href="#intro">Introduction</a></li>
+    <li><a href="#kg">Knowledge Graph</a></li>
+    <li><a href="#visual">Dynamic Network Visualization</a></li>
+    <li><a href="#resources">Useful Resources</a></li>
+    <li><a href="#contacts">Contacts</a></li>
+  </ul>
 
-<section>
+<div id="intro">
+<h2>Introduction</h2>
+
+<p>
+  This website contains all the documentation related to the extraction of a Social Network from Giorgio Vasari's <em>The Lives of The Artists</em> (1568). Aim of this work was to use Information Extraction techniques, such as <b>Named Entity Recognition</b> (NER) and <b>Coreference Resolution</b> (CR) to identify references to individuals inside the book and compute connectedness between persons by measuring their statistical association using paragraph co-occurences.
+</p>
+<p>
+  In order to identify the references to artists and craftsmen, we used the <em>Index of Names</em>, containing for each artist the list of pages in which he/she appears. By using this bibliographic information in tandem with NER and CR, it was possible to extract each occurence of the artists in the book.
+</p>
+<p>
+  Finally to measure connectedness between artists, we used a measure of statistical association called <b>Pointwise Mutual Information</b> (PMI). This measure quantifies how much more likely these artists occur together than if they were independent, statistically speaking. In simple terms, PMI tells us how much we can learn about one event occurring by observing the other event. If the PMI is positive, it indicates a positive association, meaning the events tend to occur together more often than expected by chance. We used PMI to filter out associations with a negative value and to weight the connection between artists inside the biographies.
+</p>
+<p>
+  This social network was extracted from a <a href="https://onlinebooks.library.upenn.edu/webbin/metabook?id=livespainters" target="_blank">10 volumes edition of Vasari's work</a>, translated in English by Gaston du C. De Vere. In this website we provide a dynamic visualization of how the social network of artists evolves across all 10 volumes.
+</p>
+</div>
+
+<div id="kg">
+  <h2>Knowledge Graph</h2>
+  <p>
+    In order to share the final results in a <b>FAIR</b> data format, RDF datasets of the Vasari Social Network are made available:
     <ul>
-      <li><a href="results/networks/network0.html">Network from First Volume</a></li>
+      <li><a href="rdfs/vasari-kg.ttl" target="_blank"> Turtle serialization</a></li>
     </ul>
-</section>
+  </p>
+  <p>
+    The RDF data is modelled by using standard vocabularies such as <b>OWL</b>, <b>SKOS</b> and <b>FOAF</b>. A visualization of the conceptual model is presented in the image. All edges are represented as blank nodes, while each node has several attributes related to its network centrality.
+  </p>
+  <div class="data_model">
+  <img src="docs/vasari-kg.svg" alt="Data Model of the Knowledge Graph">
+  </div>
+</div>
 
-<footer>
-  <p>Footer</p>
-</footer>
+
+<div id="visual">
+  <h2>Dynamic Network Visualization</h2>
+  <ul>
+    <li><a href="results/networks/network0.html" target="_blank">First Volume (Graph Visualization)</a></li>
+    <li><a href="results/networks/network1.html" target="_blank">Second Volume (Graph Visualization)</a></li>
+    <li><a href="results/networks/network2.html" target="_blank">Third Volume (Graph Visualization)</a></li>
+    <li><a href="results/networks/network3.html" target="_blank">Fourth Volume (Graph Visualization)</a></li>
+    <li><a href="results/networks/network4.html" target="_blank">Fifth Volume (Graph Visualization)</a></li>
+    <li><a href="results/networks/network5.html" target="_blank">Sixth Volume (Graph Visualization)</a></li>
+    <li><a href="results/networks/network6.html" target="_blank">Seventh Volume (Graph Visualization)</a></li>
+    <li><a href="results/networks/network7.html" target="_blank">Eighth Volume (Graph Visualization)</a></li>
+    <li><a href="results/networks/network8.html" target="_blank">Ninth Volume (Graph Visualization)</a></li>
+    <li><a href="results/networks/network9.html" target="_blank">Tenth Volume (Graph Visualization)</a></li>
+  </ul>
+</div>
+
+<div id="resources">
+  <h2>Resources</h2>
+</div>
+
+<div id="contacts">
+  <h2>Resources</h2>
+</div>
+
 
 </body>
 </html>
