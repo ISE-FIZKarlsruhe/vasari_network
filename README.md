@@ -23,6 +23,16 @@ main/
     README.md
 ```
 
+## SPARQL Endpoint
+
+If you have [Docker](https://www.docker.com/) installed, you can load the Vasari Social Network in a triplestore using [SHMARQL](https://github.com/epoz/shmarql/pkgs/container/shmarql).
+
+```
+docker run --rm -p 8000:8000 -it -v $(pwd)/rdfs:/data -e DATA_LOAD_PATHS=/data  ghcr.io/epoz/shmarql:latest
+```
+
+This will load all .ttl files found in the specified directory, and make it available under a `/sparql` endpoint, eg. `http://localhost:8000/sparql`.
+
 ## Results on Zenodo
 
 The results from this research are also stored indipenedently from this repository on [Zenodo](https://doi.org/10.5281/zenodo.8395425).
