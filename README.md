@@ -13,11 +13,11 @@ In order to run our scripts, it is necessary to download the pre-processed data 
 main/
     data/
     results/ 
-    scripts_network/    #scripts for generating a social network
-    linking_vasari_wikidata/    #scripts to link artists in the network to Wikidata
-    scripts_rdf/    #scripts to convert social network into Knowledge Graph
-    scripts_scraping/   #scripts to generate input data (for documentation)
-    rdfs/   #turtle serialization of the Knowledge Graph
+    scripts_network/ #scripts for generating a social network
+    linking_vasari_wikidata/ #scripts to link artists in the network to Wikidata
+    scripts_rdf/ #scripts to convert social network into Knowledge Graph
+    scripts_scraping/ #scripts to generate input data (for documentation)
+    rdfs/ #turtle serialization of the Knowledge Graph
     requirements.txt
     LICENSE
     README.md
